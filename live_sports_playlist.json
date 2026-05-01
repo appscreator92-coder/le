@@ -79,27 +79,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - FanDuel SN North",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-dallas-stars-vs-minnesota-wild/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - FanDuel SN North",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-dallas-stars-vs-minnesota-wild/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - FanDuel SN North",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-dallas-stars-vs-minnesota-wild/3"
-            },
-            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -286,34 +265,6 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-boston-celtics-vs-philadelphia-76-ers/3"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_nba_76ers-celtics-live-streaming-1276598124/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_nba_76ers-celtics-live-streaming-1276598124/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/philadelphia-76ers-vs-boston-celtics-basketball-498628/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/philadelphia-76ers-vs-boston-celtics-basketball-498628/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -348,56 +299,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-03-high-limit-racing-texas-ppv-03/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Bragantino",
-        "Team 2 Name": "River Plate",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulywQfImBAQQ3dSBi7tuEIhIgUIZYRjAmfFFzBl4ReaMdNaYZ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQtemxTqQ3EABMQEECRM7tfXSD4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
-        "Match Title": "Bragantino vs River Plate",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECEQouvRNxB8DICBpD7zxkFILAkFPsNn0UYFdravy9LLO1NaYK5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:30 AM | 01-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/rb-bragantino-vs-river-plate-football-1535173/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/rb-bragantino-vs-river-plate-football-1535173/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/rb-bragantino-vs-river-plate-football-1535173/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/rb-bragantino-vs-river-plate-football-1535173/4"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/rb-bragantino-vs-river-plate-football-1535173/5"
             }
         ]
     },
@@ -608,6 +509,35 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Budo Sento Championship",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Budo%20Sento%20Championship&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 01-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-04-budo-sento-championship-ppv-004/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-04-budo-sento-championship-ppv-004/2"
+            }
+        ]
+    },
+    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Alianza Atletico",
@@ -704,35 +634,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/independiente-medellin-vs-cusco-football-1535273/5"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Budo Sento Championship",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Budo%20Sento%20Championship&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 AM | 01-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-04-budo-sento-championship-ppv-004/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-04-budo-sento-championship-ppv-004/2"
             }
         ]
     },
