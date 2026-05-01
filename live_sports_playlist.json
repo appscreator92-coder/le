@@ -72,42 +72,6 @@
         ]
     },
     {
-        "Category": "Cricket",
-        "League": "Cricket",
-        "Team 1 Name": "Rajasthan Royals",
-        "Team 2 Name": "Delhi Capitals",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzCliTACZg+IbiAghDOjSBi7DIExAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3p8QqkHCQhuIEiANrEiCJr3qCFJnxRcwZeEXmjbTWmHtjREIA.webp",
-        "Match Title": "Rajasthan Royals vs Delhi Capitals",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSF4ps7BJpB99ODRpj6UIBUyQU+w2fW0qUXMGXhEssl01pg3YqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 PM | 01-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Indian Premier League",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-rajasthan-royals-vs-delhi-capitals/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Indian Premier League",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-rajasthan-royals-vs-delhi-capitals/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - Indian Premier League",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-rajasthan-royals-vs-delhi-capitals/3"
-            }
-        ]
-    },
-    {
         "Category": "Other",
         "League": "Other",
         "Team 1 Name": "",
@@ -238,24 +202,31 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Portable",
-        "Team 2 Name": "Carter Efe",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Portable - Carter Efe",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Portable%20-%20Carter%20Efe&font=Oswald",
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "RKC Waalwijk",
+        "Team 2 Name": "Roda JC",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDdVYACYgSIeojVadKEDBDGtIXZYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyZswYJGBAhE3EABMQMEHsOGIOkChMEKTPii5gy8IvNGOmtdaKl0gA.webp",
+        "Match Title": "RKC Waalwijk vs Roda JC",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=RKC%20Waalwijk%20vs%20Roda%20JC&font=Oswald",
         "Match Status": "Live 🔴",
-        "Start Time": "11:00 PM | 01-May",
+        "Start Time": "12:00 AM | 02-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "golf",
+                "Source": "echo",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22121/1"
+                "Embed_URL": "https://embedsports.top/embed/echo/waalwijk-vs-roda-football-1542767/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/waalwijk-vs-roda-football-1542767/2"
             }
         ]
     },
@@ -282,16 +253,16 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "RKC Waalwijk",
-        "Team 2 Name": "Roda JC",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDdVYACYgSIeojVadKEDBDGtIXZYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyZswYJGBAhE3EABMQMEHsOGIOkChMEKTPii5gy8IvNGOmtdaKl0gA.webp",
-        "Match Title": "RKC Waalwijk vs Roda JC",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=RKC%20Waalwijk%20vs%20Roda%20JC&font=Oswald",
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "MKS Dąbrowa Górnicza",
+        "Team 2 Name": "Legia Warszawa",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1aE+IdTHYhuIACYhEMfSBS4NFmAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphT8QvWlBDqQfECV0gUICIb3GYBCkz6q2YMvCLzRqprTAOxoiEA.webp",
+        "Match Title": "MKS Dąbrowa Górnicza vs Legia Warszawa",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKrxlhsIGCG4g+IEiBQgIhkFNzmrBYEgp9hs+ijAqUXD+XpZZXky02qL0oUA.webp",
         "Match Status": "Live 🔴",
-        "Start Time": "12:00 AM | 02-May",
+        "Start Time": "12:15 AM | 02-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
@@ -299,14 +270,21 @@
                 "Stream_No": 1,
                 "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/waalwijk-vs-roda-football-1542767/1"
+                "Embed_URL": "https://embedsports.top/embed/echo/legia-warszawa-vs-widzew-lodz-football-1380657/1"
             },
             {
                 "Source": "echo",
                 "Stream_No": 2,
                 "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/waalwijk-vs-roda-football-1542767/2"
+                "Embed_URL": "https://embedsports.top/embed/echo/legia-warszawa-vs-widzew-lodz-football-1380657/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/legia-warszawa-vs-widzew-lodz-football-1380657/3"
             }
         ]
     },
@@ -386,42 +364,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "MKS Dąbrowa Górnicza",
-        "Team 2 Name": "Legia Warszawa",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1aE+IdTHYhuIACYhEMfSBS4NFmAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphT8QvWlBDqQfECV0gUICIb3GYBCkz6q2YMvCLzRqprTAOxoiEA.webp",
-        "Match Title": "MKS Dąbrowa Górnicza vs Legia Warszawa",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKrxlhsIGCG4g+IEiBQgIhkFNzmrBYEgp9hs+ijAqUXD+XpZZXky02qL0oUA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:15 AM | 02-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/legia-warszawa-vs-widzew-lodz-football-1380657/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/legia-warszawa-vs-widzew-lodz-football-1380657/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/legia-warszawa-vs-widzew-lodz-football-1380657/3"
             }
         ]
     },
@@ -766,6 +708,20 @@
                 "Language": "English - LaLiga",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-girona-vs-mallorca/3"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_laliga_girona-mallorca-live-streaming-1095829074/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_laliga_girona-mallorca-live-streaming-1095829074/2"
             },
             {
                 "Source": "echo",
