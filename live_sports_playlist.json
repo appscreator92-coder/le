@@ -273,6 +273,28 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Naoya Inoue",
+        "Team 2 Name": "Junto Nakatani",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Naoya Inoue vs Junto Nakatani",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmBrAADJBDwwJELxBZT5szBARrx6yyQUsIuYxSGOKHofKNqcr3xWYE0xRjCgA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 PM | 02-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/22127/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -529,63 +551,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/melbourne-victory-vs-sydney-football-1542880/2"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Naoya Inoue",
-        "Team 2 Name": "Junto Nakatani",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Naoya Inoue vs Junto Nakatani",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmBrAADJBDwwJELxBZT5szBARrx6yyQUsIuYxSGOKHofKNqcr3xWYE0xRjCgA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "03:40 PM | 02-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - DAZN",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-naoya-inoue-vs-junto-nakatani/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - DAZN",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-naoya-inoue-vs-junto-nakatani/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live-event_naoya-inoue-vs-junto-nakatani-live-stream/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/naoya-inoue-vs-junto-nakatani-game-177777/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/naoya-inoue-vs-junto-nakatani-game-177777/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22127/1"
             }
         ]
     },
