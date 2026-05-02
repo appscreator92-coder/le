@@ -395,35 +395,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Atalanta",
-        "Team 2 Name": "Genoa",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDUAJmBD8QfENxAkQiCCFO7EKIyBgEKTPii5gy8IvNGOmtVaKl0gA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAlcCECDH4Q3EABNVRtWsSGYIGAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Atalanta vs Genoa",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCBIhuIGYhTaQfTSYOItMEzALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:45 AM | 03-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Serie A",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-atalanta-vs-genoa/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Serie A",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-atalanta-vs-genoa/2"
-            }
-        ]
-    },
-    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "Huddersfield Giants",
@@ -500,13 +471,6 @@
                 "Language": "English - LaLiga",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-osasuna-vs-barcelona/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22116/1"
             }
         ]
     },
@@ -1119,6 +1083,85 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Vitoria",
+        "Team 2 Name": "Coritiba",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRP3rkGAY2bie8EVW4EurMGFz5zQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiICCADG9cg3VZxPeCKrcCXVmDC58FoA.webp",
+        "Match Title": "Vitoria vs Coritiba",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Vitoria%20vs%20Coritiba&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:30 AM | 03-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/vitoria-vs-coritiba-football-1492249/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/vitoria-vs-coritiba-football-1492249/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Palmeiras",
+        "Team 2 Name": "Santos",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5bmD5gNMENxAQQfEIhImQF-buWEYwJnxRcwZeEXminTWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQhwIYAAYQKfiG4gAJiD46QEcyctrDBCkz662YMvCLzRuprTAuxoiCA.webp",
+        "Match Title": "Palmeiras vs Santos",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzUsg7mG4h9fEFJApjIC4hgHjBYEgp9hs+ijAqUXd+XrbRnplowdzFRCCA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:30 AM | 03-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/palmeiras-vs-santos-football-1492247/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/palmeiras-vs-santos-football-1492247/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/palmeiras-vs-santos-football-1492247/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/palmeiras-vs-santos-football-1492247/4"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 5,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/palmeiras-vs-santos-football-1492247/5"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -1173,85 +1216,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Vitoria",
-        "Team 2 Name": "Coritiba",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRP3rkGAY2bie8EVW4EurMGFz5zQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiICCADG9cg3VZxPeCKrcCXVmDC58FoA.webp",
-        "Match Title": "Vitoria vs Coritiba",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Vitoria%20vs%20Coritiba&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "03:30 AM | 03-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/vitoria-vs-coritiba-football-1492249/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/vitoria-vs-coritiba-football-1492249/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Palmeiras",
-        "Team 2 Name": "Santos",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5bmD5gNMENxAQQfEIhImQF-buWEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQhwIYAAYQKfiG4gAJiD46QEcyctrDBCkz662YMvCLzRuprTAuxoiCA.webp",
-        "Match Title": "Palmeiras vs Santos",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzUsg7mG4h9fEFJApjIC4hgHjBYEgp9hs+ijAqUXd+XrbRnplowdzFRCCA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "03:30 AM | 03-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/palmeiras-vs-santos-football-1492247/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/palmeiras-vs-santos-football-1492247/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/palmeiras-vs-santos-football-1492247/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/palmeiras-vs-santos-football-1492247/4"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/palmeiras-vs-santos-football-1492247/5"
             }
         ]
     },
@@ -1339,6 +1303,20 @@
                 "Language": "English - Rays.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-tampa-bay-rays/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_rays-giants-live-streaming-1266172560/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_rays-giants-live-streaming-1266172560/2"
             },
             {
                 "Source": "echo",
@@ -1866,6 +1844,13 @@
                 "Language": "English - TNT",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-aew-saturday-night-collision/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_aew-collision-live-stream/1"
             }
         ]
     },
