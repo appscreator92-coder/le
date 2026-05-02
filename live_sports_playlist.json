@@ -200,20 +200,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - YES",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-baltimore-orioles-vs-new-york-yankees/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - YES",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-baltimore-orioles-vs-new-york-yankees/2"
-            },
-            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -382,49 +368,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Schalke 04",
-        "Team 2 Name": "Fortuna Düsseldorf",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDAmtFLhCbuIACZbdJbSESa+IbYRhr+KLmDLwi80ffXAwjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizlVZPmD4huICCG2J9JPTtMwCFJnxRcwZeEXmjbTWmHtjREIA.webp",
-        "Match Title": "Schalke 04 vs Fortuna Düsseldorf",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFAFYwfECjAoQ3ELpIaQMc4hzGYBYEgp9hs+vpUouYMvCJZZnky0YN5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:30 AM | 03-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/fc-schalke-04-vs-fortuna-dusseldorf-football-1388900/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/fc-schalke-04-vs-fortuna-dusseldorf-football-1388900/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/fc-schalke-04-vs-fortuna-dusseldorf-football-1388900/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/fc-schalke-04-vs-fortuna-dusseldorf-football-1388900/4"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Sporting Kansas City",
         "Team 2 Name": "Seattle Sounders",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLDcwZOOD4huICCG2ISIRABMQxmHoIUmfFF3Xl680Q6a0w6saIhA.webp",
@@ -448,27 +391,6 @@
                 "Language": "English - MLS",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-sporting-kansas-city-vs-seattle-sounders-fc/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/sporting-kansas-city-vs-seattle-sounders-football-1490251/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/sporting-kansas-city-vs-seattle-sounders-football-1490251/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/sporting-kansas-city-vs-seattle-sounders-football-1490251/3"
             }
         ]
     },
@@ -498,34 +420,6 @@
                 "Language": "English - Serie A",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-atalanta-vs-genoa/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/atalanta-vs-genoa-football-1378204/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/atalanta-vs-genoa-football-1378204/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/atalanta-vs-genoa-football-1378204/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/atalanta-vs-genoa-football-1378204/4"
             }
         ]
     },
@@ -577,13 +471,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/nec-nijmegen-vs-telstar-football-1381150/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/nec-nijmegen-vs-telstar-football-1381150/2"
             }
         ]
     },
@@ -615,140 +502,11 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-osasuna-vs-barcelona/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_laliga_osasuna-barcelona-live-streaming-1095830073/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_laliga_osasuna-barcelona-live-streaming-1095830073/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/osasuna-vs-barcelona-football-1391155/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/osasuna-vs-barcelona-football-1391155/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/osasuna-vs-barcelona-football-1391155/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/osasuna-vs-barcelona-football-1391155/4"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/osasuna-vs-barcelona-football-1391155/5"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22116/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Botafogo",
-        "Team 2 Name": "Remo",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhywIQotqr4huIbYkQwQRiOpAoQAEwIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIhEAE2BJg6sChDcQqviH2IIBkOqNGCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Botafogo vs Remo",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEMDBsQ4JLhDcQfEFJAoTO-eeNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 03-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/botafogo-vs-remo-football-1492241/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/botafogo-vs-remo-football-1492241/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Chico",
-        "Team 2 Name": "Llaneros",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIiZ1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiICCH7L65BgGNm4nvBFVuBLqzBhc+S0A.webp",
-        "Match Title": "Chico vs Llaneros",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Chico%20vs%20Llaneros&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 03-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/chico-vs-llaneros-football-1506109/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/chico-vs-llaneros-football-1506109/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Eibar",
-        "Team 2 Name": "Malaga",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsICIvrkGAY2bie8EVW4EurMGFz5zQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIRNnrkGAY2bie8EVW4EurMGFz5zQA.webp",
-        "Match Title": "Eibar vs Malaga",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Eibar%20vs%20Malaga&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 03-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/eibar-vs-malaga-football-1392181/1"
             }
         ]
     },
@@ -778,27 +536,6 @@
                 "Language": "French - Ligue 1",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-nice-vs-lens/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/nice-vs-lens-football-1387982/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/nice-vs-lens-football-1387982/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/nice-vs-lens-football-1387982/3"
             }
         ]
     },
@@ -1703,6 +1440,13 @@
                 "Language": "English - MeTV Indianapolis",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-nigeria-vs-indiana-fever/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_wnba-preseason_fever-nigeria-live-streaming-1287003708/1"
             }
         ]
     },
