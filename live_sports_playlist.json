@@ -44,28 +44,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": " Efe v Portable ⭐",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=%20Efe%20v%20Portable%20%E2%AD%90&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:00 AM | 02-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-03-efe-v-portable-ppv-03/1"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "",
@@ -440,35 +418,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_canadiens-lightning-live-streaming-1276615107/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Once Caldas",
-        "Team 2 Name": "Atletico Nacional",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIn71yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIgDG9cg3VZxPeCKrcCXVmDC58FoA.webp",
-        "Match Title": "Once Caldas vs Atletico Nacional",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Once%20Caldas%20vs%20Atletico%20Nacional&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 AM | 02-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/once-caldas-vs-atletico-nacional-football-1506115/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/once-caldas-vs-atletico-nacional-football-1506115/2"
             }
         ]
     },
@@ -1883,6 +1832,20 @@
                 "Language": "English - Utah 16",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-vegas-golden-knights-vs-utah-mammoth/3"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_mammoth-golden-knights-live-streaming-1276616106/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_mammoth-golden-knights-live-streaming-1276616106/2"
             },
             {
                 "Source": "echo",
