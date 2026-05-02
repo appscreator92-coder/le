@@ -79,35 +79,6 @@
         ]
     },
     {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Carlton Football Club",
-        "Team 2 Name": "St Kilda Football Club",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIFMCZoQfdSG4gSIYxGP6QMEIksoCFJnw1swZeEXmiNTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmYFcCQhRZLdxB8QiHDFwgVICNpAoCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Carlton Football Club vs St Kilda Football Club",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKrxAg+24EhDdtRnDBApcZ4wT0U+w2fRRgVKLs-L0ss101phnYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "03:35 PM | 02-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox Footy",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-st-kilda-vs-carlton/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox Footy",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-st-kilda-vs-carlton/2"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "Naoya Inoue",
@@ -1571,6 +1542,13 @@
                 "Language": "English - Bundesliga",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-werder-bremen-vs-fc-augsburg/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_bundesliga_bremen-augsburg-live-streaming-1095630273/1"
             }
         ]
     },
@@ -1600,6 +1578,13 @@
                 "Language": "English - Bundesliga",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-tsg-hoffenheim-vs-vf-b-stuttgart/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_bundesliga_hoffenheim-stuttgart-live-streaming-1095631272/1"
             }
         ]
     },
@@ -1629,6 +1614,13 @@
                 "Language": "English - Bundesliga",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-eintracht-frankfurt-vs-hamburg-sv/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_bundesliga_frankfurt-hsv-live-streaming-1095626277/1"
             }
         ]
     },
@@ -1658,6 +1650,13 @@
                 "Language": "English - Bundesliga",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-bayern-munich-vs-1-fc-heidenheim-1846/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_bundesliga_bayern-heidenheim-live-streaming-1095627276/1"
             }
         ]
     },
@@ -2452,56 +2451,6 @@
                 "Language": "English - Serie A",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-como-vs-napoli/2"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "Miami Grand Prix",
-        "Team 2 Name": "Qualifying",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Miami Grand Prix Sprint",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGCQgQsgAxgSIbiD4mQEEClwgYNo9oLAkFPsNn0UBtii4Hy9LFkfJlowL3pRCCA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "10:00 PM | 02-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Formula 1",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-grand-prix-qualifying/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Formula 1",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-grand-prix-qualifying/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - F1TV Broadcast",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-grand-prix-qualifying/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - F1TV Broadcast",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-grand-prix-qualifying/4"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/21890/1"
             }
         ]
     },
@@ -3504,6 +3453,56 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/orlando-pride-w-vs-washington-spirit-w-football-1508406/3"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "Miami Grand Prix",
+        "Team 2 Name": "Qualifying",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Miami Grand Prix Sprint",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGCQgQsgAxgSIbiD4mQEEClwgYNo9oLAkFPsNn0UBtii4Hy9LFkfJlowL3pRCCA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "02:00 AM | 03-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Formula 1",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-grand-prix-sprint/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Formula 1",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-grand-prix-sprint/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - F1TV Broadcast",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-grand-prix-sprint/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - F1TV Broadcast",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-grand-prix-sprint/4"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/21890/1"
             }
         ]
     },
