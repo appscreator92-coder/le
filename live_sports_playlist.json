@@ -71,35 +71,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "UCI Vuelta a Espana | UCI World Tour",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=UCI%20Vuelta%20a%20Espana%20%7C%20UCI%20World%20Tour&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:30 PM | 05-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/uci-vuelta-a-espana-uci-world-tour-game-13622/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/uci-vuelta-a-espana-uci-world-tour-game-13622/2"
-            }
-        ]
-    },
-    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "Delhi Capitals",
@@ -216,6 +187,28 @@
         ]
     },
     {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "AS Monaco Basket",
+        "Team 2 Name": "Olympiacos BC",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmwMLiIoQMENxAqQEENv2GQJvSGWEYwJnxRcwZeEXminTWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBREosGFF8Q3EABMQOwyRBm9OHDAIUmfFFy3l680Q6a1NoqXSA.webp",
+        "Match Title": "AS Monaco Basket vs Olympiacos BC",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAWEohEAxNxB8QUg9qMhziYwqZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "11:45 PM | 05-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/monaco-vs-olympiacos-basketball-498443/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -270,28 +263,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "AS Monaco Basket",
-        "Team 2 Name": "Olympiacos BC",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmwMLiIoQMENxAqQEENv2GQJvSGWEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBREosGFF8Q3EABMQOwyRBm9OHDAIUmfFFy3l680Q6a1NoqXSA.webp",
-        "Match Title": "AS Monaco Basket vs Olympiacos BC",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAWEohEAxNxB8QUg9qMhziYwqZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "11:45 PM | 05-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/monaco-vs-olympiacos-basketball-498443/1"
             }
         ]
     },
