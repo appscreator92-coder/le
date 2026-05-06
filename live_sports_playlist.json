@@ -1,34 +1,5 @@
 [
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "UCI Vuelta a Espana | UCI World Tour",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=UCI%20Vuelta%20a%20Espana%20%7C%20UCI%20World%20Tour&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:30 PM | 06-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/uci-vuelta-a-espana-uci-world-tour-game-13622/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/uci-vuelta-a-espana-uci-world-tour-game-13622/2"
-            }
-        ]
-    },
-    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "Sunrisers Hyderabad",
@@ -755,35 +726,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "A. Italiano",
-        "Team 2 Name": "Vasco DA Gama",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIREpT1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRPHrkGAY2bie8EVW4EurMGFz5zQA.webp",
-        "Match Title": "A. Italiano vs Vasco DA Gama",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=A.%20Italiano%20vs%20Vasco%20DA%20Gama&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:00 AM | 07-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/a-italiano-vs-vasco-da-gama-football-1535186/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/a-italiano-vs-vasco-da-gama-football-1535186/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Atletico Torque",
         "Team 2 Name": "Palestino",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIRPxDZ65BgGNm4nvBFVuBLqzBhc+S0A.webp",
@@ -807,6 +749,35 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/atletico-torque-vs-palestino-football-1535198/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "A. Italiano",
+        "Team 2 Name": "Vasco DA Gama",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIREpT1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRPHrkGAY2bie8EVW4EurMGFz5zQA.webp",
+        "Match Title": "A. Italiano vs Vasco DA Gama",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=A.%20Italiano%20vs%20Vasco%20DA%20Gama&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:00 AM | 07-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/a-italiano-vs-vasco-da-gama-football-1535186/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/a-italiano-vs-vasco-da-gama-football-1535186/2"
             }
         ]
     },
