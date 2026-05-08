@@ -195,6 +195,28 @@
         ]
     },
     {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "2026 Truck Series at Watkins Glen",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=2026%20Truck%20Series%20at%20Watkins%20Glen&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:30 AM | 09-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_2026-truck-series-at-watkins-glen-live-stream/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -371,6 +393,20 @@
                 "Language": "English - NBC Sports Phil",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-colorado-rockies-vs-philadelphia-phillies/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_phillies-rockies-live-streaming-1266970761/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_phillies-rockies-live-streaming-1266970761/2"
             },
             {
                 "Source": "echo",
@@ -939,6 +975,13 @@
                 "Language": "English - USA",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-wwe-friday-night-smackdown/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_friday-night-smackdown-live-stream/1"
             }
         ]
     },
