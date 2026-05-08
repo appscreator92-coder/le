@@ -1,27 +1,5 @@
 [
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Oklahoma City Thunder",
-        "Team 2 Name": "Los Angeles Lakers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS4KADMSQgyMELxBYDIY-pQgzu3QBMCFfAJQ8wZeEQVjH9+mGfixEIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwghwoquD4huIbbtU4SIVcd0TCMYEz4ouYMvCLzRdprTAOxoiEA.webp",
-        "Match Title": "Oklahoma City Thunder vs Los Angeles Lakers",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLBJQYUXzAoQ3EHxAkQhnIggmQNiUyQU+w2fRS62KLrvL0sst5MtGCe9KIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:30 AM | 08-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22207/1"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "San Diego Padres",
@@ -31,23 +9,9 @@
         "Match Title": "San Diego Padres vs St. Louis Cardinals",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlV7YQIYAAYOIXiCwmzJEBBDSz1EM3zAkFLCLmMUYVSh5fyjajkfR3owL3ExCCA.webp",
         "Match Status": "Live 🔴",
-        "Start Time": "08:00 AM | 08-May",
+        "Start Time": "08:10 AM | 08-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-st-louis-cardinals-vs-san-diego-padres/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-st-louis-cardinals-vs-san-diego-padres/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -743,6 +707,13 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-new-york-knicks-vs-philadelphia-76-ers/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_nba_76ers-knicks-live-streaming-1297284417/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -986,6 +957,13 @@
                 "Language": "English - ION",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-connecticut-sun-vs-new-york-liberty/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_wnba_liberty-connecticut-live-streaming-1207057734/1"
             },
             {
                 "Source": "golf",
@@ -1332,6 +1310,13 @@
                 "Language": "English - ION",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-golden-state-valkyries-vs-seattle-storm/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_wnba_storm-valkyries-live-streaming-1207059732/1"
             },
             {
                 "Source": "golf",
