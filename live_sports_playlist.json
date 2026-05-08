@@ -64,35 +64,6 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "LIV Golf Virginia - Championship Course",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=LIV%20Golf%20Virginia%20-%20Championship%20Course&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:15 PM | 08-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/liv-golf-virginia-championship-course-game-162626/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/liv-golf-virginia-championship-course-game-162626/2"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
         "Match Title": "Truist Championship | PGA Tour",
         "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Truist%20Championship%20%7C%20PGA%20Tour&font=Oswald",
         "Match Status": "Live 🔴",
@@ -143,54 +114,11 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-torino-vs-sassuolo/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-torino-vs-sassuolo/2"
-            },
-            {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live_serie-a_torino-sassuolo-live-streaming-1096214688/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Lens",
-        "Team 2 Name": "Nantes",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDxYYEJTCjQ3ECRAoQxvoZCm9R5YRjAmfFF23l680Y6a0w2saIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksOBgeIFGBAgAJiG66QfbSZin92ghSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "Lens vs Nantes",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJLN5gQfEIm46QJEBBBmYIFCAvG+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:45 AM | 09-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "French - Ligue 1+",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-lens-vs-nantes/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "French - Ligue 1+",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-lens-vs-nantes/2"
             }
         ]
     },
@@ -393,6 +321,20 @@
                 "Language": "English - Reds.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-houston-astros-vs-cincinnati-reds/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_reds-astros-live-streaming-1266969762/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_reds-astros-live-streaming-1266969762/2"
             },
             {
                 "Source": "echo",
