@@ -29,35 +29,6 @@
         ]
     },
     {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "South Sydney Rabbitohs",
-        "Team 2 Name": "Cronulla Sharks",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAw2IKKMIwQ3ECX25VIPkYAmJkwQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl74QtNWRzcQJXbhAwQfdYZDmQBCkz4ouYMvCLzRdprTAOxoiEA.webp",
-        "Match Title": "South Sydney Rabbitohs vs Cronulla Sharks",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGKDAo6IbiH16+IKfpAlduECgskCwJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:30 PM | 09-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - FOX League",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-rabbitohs-vs-sharks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - FOX League",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-rabbitohs-vs-sharks/2"
-            }
-        ]
-    },
-    {
         "Category": "Other",
         "League": "Other",
         "Team 1 Name": "",
@@ -83,35 +54,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/motogp-french-grand-prix-game-122273/2"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "South Sydney Rabbitohs",
-        "Team 2 Name": "Cronulla-Sutherland Sharks",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAUxAThQKwiIAmIWwEwwhw8wa16YuYFAxsKysGNsAENg7Ntky5BlYdgToQAkCjxzcikBDwgYhWMALCe1Ngkhd+PffTCiqFCEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAUxAQxQKwiIAmIWwEwwhw8wa16YAnGBQMbBsrBjbBcwDu2yYWgysOwJ0eEChAs5LBSAhLyhWMALDe1dgkjcBvPfTCiqFCEA.webp",
-        "Match Title": "South Sydney Rabbitohs vs Cronulla-Sutherland Sharks",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=South%20Sydney%20Rabbitohs%20vs%20Cronulla-Sutherland%20Sharks&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "02:30 PM | 09-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/south-sydney-rabbitohs-vs-cronulla-sutherland-sharks-game-3373252/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/south-sydney-rabbitohs-vs-cronulla-sutherland-sharks-game-3373252/2"
             }
         ]
     },
@@ -346,6 +288,28 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Batyrzhan Jukembayev vs Shohjahon Ergashev",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Batyrzhan%20Jukembayev%20vs%20Shohjahon%20Ergashev&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:00 PM | 09-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_batyrzhan-jukembayev-vs-shohjahon-ergashev-live-stream/1"
+            }
+        ]
+    },
+    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "FC Koln W",
@@ -368,24 +332,31 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
+        "Category": "Other",
+        "League": "Other",
         "Team 1 Name": "",
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Batyrzhan Jukembayev vs Shohjahon Ergashev",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Batyrzhan%20Jukembayev%20vs%20Shohjahon%20Ergashev&font=Oswald",
+        "Match Title": "ZFN 04",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=ZFN%2004&font=Oswald",
         "Match Status": "Live 🔴",
         "Start Time": "04:00 PM | 09-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
+                "Source": "echo",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live-event_batyrzhan-jukembayev-vs-shohjahon-ergashev-live-stream/1"
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-06-zfn-04-ppv-06/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-06-zfn-04-ppv-06/2"
             }
         ]
     },
