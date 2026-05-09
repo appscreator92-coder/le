@@ -117,35 +117,6 @@
         ]
     },
     {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "North Melbourne Kangaroos",
-        "Team 2 Name": "Sydney Swans",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREDHrkGAY2bCe8MVXGEGrMGFz5DQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREBHrkGAY2bCe8MVXGEGrMGFz5DQA.webp",
-        "Match Title": "North Melbourne Kangaroos vs Sydney Swans",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=North%20Melbourne%20Kangaroos%20vs%20Sydney%20Swans&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "09:15 AM | 09-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/north-melbourne-kangaroos-vs-sydney-swans-australian-football-3420/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/north-melbourne-kangaroos-vs-sydney-swans-australian-football-3420/2"
-            }
-        ]
-    },
-    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "Highlanders Super Rugby",
@@ -233,6 +204,64 @@
         ]
     },
     {
+        "Category": "Afl",
+        "League": "Afl",
+        "Team 1 Name": "Greater Western Sydney Giants",
+        "Team 2 Name": "Essendon Bombers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQRECHrkGAY2bCe8MVXGEGrMGFz5DQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQ2euQYBjZsJ7wxVcYQaswYXPn1A.webp",
+        "Match Title": "Greater Western Sydney Giants vs Essendon Bombers",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Greater%20Western%20Sydney%20Giants%20vs%20Essendon%20Bombers&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:15 PM | 09-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/greater-western-sydney-giants-vs-essendon-bombers-australian-football-3421/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/greater-western-sydney-giants-vs-essendon-bombers-australian-football-3421/2"
+            }
+        ]
+    },
+    {
+        "Category": "Afl",
+        "League": "Afl",
+        "Team 1 Name": "Essendon",
+        "Team 2 Name": "GWS GIANTS",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Essendon vs. GWS GIANTS",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEfgMYgS2EEIiiYFEJwjUQ9biCzAlcxFO6qFwCRMQSS-aVjGqUwNuE49gBbHkvkkuARa4cEbLZwv36YBy6jLpAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:15 PM | 09-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fox Footy",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-essendon-vs-gws-giants/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fox Footy",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-essendon-vs-gws-giants/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -287,64 +316,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Greater Western Sydney Giants",
-        "Team 2 Name": "Essendon Bombers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQRECHrkGAY2bCe8MVXGEGrMGFz5DQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQ2euQYBjZsJ7wxVcYQaswYXPn1A.webp",
-        "Match Title": "Greater Western Sydney Giants vs Essendon Bombers",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Greater%20Western%20Sydney%20Giants%20vs%20Essendon%20Bombers&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:15 PM | 09-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/greater-western-sydney-giants-vs-essendon-bombers-australian-football-3421/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/greater-western-sydney-giants-vs-essendon-bombers-australian-football-3421/2"
-            }
-        ]
-    },
-    {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Essendon",
-        "Team 2 Name": "GWS GIANTS",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Essendon vs. GWS GIANTS",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEfgMYgS2EEIiiYFEJwjUQ9biCzAlcxFO6qFwCRMQSS-aVjGqUwNuE49gBbHkvkkuARa4cEbLZwv36YBy6jLpAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:15 PM | 09-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox Footy",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-essendon-vs-gws-giants/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox Footy",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-essendon-vs-gws-giants/2"
             }
         ]
     },
