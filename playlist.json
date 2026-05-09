@@ -24,7 +24,7 @@
         "Team 2 Logo": "",
         "Match Title": "Brighton & Hove Albion VS Wolverhampton Wanderers",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Brighton%20%26%20Hove%20Albion%20VS%20Wolverhampton%20Wanderers&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "08:00 PM 09-05-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -40,7 +40,7 @@
         "Team 2 Logo": "",
         "Match Title": "Fulham VS AFC Bournemouth",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Fulham%20VS%20AFC%20Bournemouth&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "08:00 PM 09-05-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -56,7 +56,7 @@
         "Team 2 Logo": "",
         "Match Title": "Sunderland VS Manchester United",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Sunderland%20VS%20Manchester%20United&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "08:00 PM 09-05-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -77,6 +77,22 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
             "https://data-2.vercel.app/?id===wMxETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+        ]
+    },
+    {
+        "Category": "BOXING",
+        "League": "BOXING",
+        "Team 1 Name": "Dyson",
+        "Team 2 Name": "Gavino",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Dyson VS Gavino",
+        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Dyson%20VS%20Gavino&font=Oswald",
+        "Match Status": "Upcoming",
+        "Start Time": "10:00 PM 09-05-2026",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Stream URL": [
+            "https://data-2.vercel.app/?id===QNxETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
         ]
     },
     {
