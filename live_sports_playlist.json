@@ -29,35 +29,6 @@
         ]
     },
     {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Greater Western Sydney Giants",
-        "Team 2 Name": "Essendon Bombers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQRECHrkGAY2bCe8MVXGEGrMGFz5DQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQ2euQYBjZsJ7wxVcYQaswYXPn1A.webp",
-        "Match Title": "Greater Western Sydney Giants vs Essendon Bombers",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Greater%20Western%20Sydney%20Giants%20vs%20Essendon%20Bombers&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:15 PM | 09-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/greater-western-sydney-giants-vs-essendon-bombers-australian-football-3421/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/greater-western-sydney-giants-vs-essendon-bombers-australian-football-3421/2"
-            }
-        ]
-    },
-    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "",
@@ -217,6 +188,35 @@
         ]
     },
     {
+        "Category": "Afl",
+        "League": "Afl",
+        "Team 1 Name": "Gold Coast Suns",
+        "Team 2 Name": "St Kilda Saints",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREAGN65BgqzCe8MVXGEGrMGFz5DQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREFLrkGAY2bCe8MVXGEGrMGFz5DQA.webp",
+        "Match Title": "St Kilda vs. Gold Coast SUNS",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEE4NxBZswEiADGIegKzTgERiCEh5Axd0ZKBQ9aJECBnCCBP5gbcJx7AColBfJJcEh1w4I2mzg7v0wHApaEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:10 PM | 09-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fox Sports 503",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-st-kilda-vs-gold-coast-suns/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fox Sports 503",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-st-kilda-vs-gold-coast-suns/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -271,35 +271,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Gold Coast Suns",
-        "Team 2 Name": "St Kilda Saints",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREAGN65BgqzCe8MVXGEGrMGFz5DQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREFLrkGAY2bCe8MVXGEGrMGFz5DQA.webp",
-        "Match Title": "St Kilda vs. Gold Coast SUNS",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEE4NxBZswEiADGIegKzTgERiCEh5Axd0ZKBQ9aJECBnCCBP5gbcJx7AColBfJJcEh1w4I2mzg7v0wHApaEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "03:10 PM | 09-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox Sports 503",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-st-kilda-vs-gold-coast-suns/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox Sports 503",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-st-kilda-vs-gold-coast-suns/2"
             }
         ]
     },
@@ -421,6 +392,35 @@
     {
         "Category": "Football",
         "League": "Football",
+        "Team 1 Name": "Sydney FC",
+        "Team 2 Name": "Newcastle Jets",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjL0+YbiHBIQmkiAggAJrtMwQfAxYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCikggCbAADCBQhuIDapCIIIC3wuncBCkz4ouYMvCLzRTprTAuxoiCA.webp",
+        "Match Title": "Sydney FC vs Newcastle Jets",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMKBDdyJELu4g+IGMZCITOHCakFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "03:40 PM | 09-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/sydney-vs-newcastle-jets-football-1543791/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/sydney-vs-newcastle-jets-football-1543791/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
         "Team 1 Name": "FC Koln W",
         "Team 2 Name": "Hamburger SV W",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZQGNF9cgxXNxPeCKrcCXVmDC58FoA.webp",
@@ -459,6 +459,35 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live-event_batyrzhan-jukembayev-vs-shohjahon-ergashev-live-stream/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Aston Villa W",
+        "Team 2 Name": "Arsenal W",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiICCCqKQKeuQYBjZuJ7wRVbgS6swYXPmtA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZdhAx65BgGNm4nvBFVuBLqzBhc+S0A.webp",
+        "Match Title": "Aston Villa W vs Arsenal W",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Aston%20Villa%20W%20vs%20Arsenal%20W&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:00 PM | 09-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/aston-villa-w-vs-arsenal-w-football-1417311/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/aston-villa-w-vs-arsenal-w-football-1417311/2"
             }
         ]
     },
@@ -516,6 +545,20 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/middlesbrough-vs-southampton-football-1543787/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/middlesbrough-vs-southampton-football-1543787/4"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 5,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/middlesbrough-vs-southampton-football-1543787/5"
             }
         ]
     },
@@ -545,6 +588,20 @@
                 "Language": "English - TNT Sports 1",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-liverpool-vs-chelsea/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/liverpool-vs-chelsea-football-1379323/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/liverpool-vs-chelsea-football-1379323/2"
             },
             {
                 "Source": "golf",
