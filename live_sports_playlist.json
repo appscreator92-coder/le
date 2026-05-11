@@ -99,20 +99,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-antonio-spurs-vs-minnesota-timberwolves/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-antonio-spurs-vs-minnesota-timberwolves/2"
-            },
-            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -176,42 +162,6 @@
                 "Language": "English - KPIX+",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-phoenix-mercury-vs-golden-state-valkyries/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Velez Sarsfield",
-        "Team 2 Name": "Gimnasia L.P.",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIRCHrkGAY2bie8EVW4EurMGFz5zQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIRBHrkGAY2bie8EVW4EurMGFz5zQA.webp",
-        "Match Title": "Velez Sarsfield vs Gimnasia L.P.",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Velez%20Sarsfield%20vs%20Gimnasia%20L.P.&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:30 AM | 11-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/velez-sarsfield-vs-gimnasia-lp-football-1544183/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/velez-sarsfield-vs-gimnasia-lp-football-1544183/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/velez-sarsfield-vs-gimnasia-lp-football-1544183/3"
             }
         ]
     },
