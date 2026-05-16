@@ -455,10 +455,10 @@
     {
         "Category": "Hockey",
         "League": "Hockey",
-        "Team 1 Name": "Switzerland",
-        "Team 2 Name": "Latvia",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCIhES+uQYBjZsDA94kqlMINWYbW1wQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCIhEVECHrkGAY2bAwPeJKpTCDVmF1tcEIA.webp",
+        "Team 1 Name": "Switzerland Ice Hockey",
+        "Team 2 Name": "Latvia Ice Hockey",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
         "Match Title": "Switzerland Ice Hockey vs Latvia Ice Hockey",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEHtqIfoV67NRkCBQgSICCGknTLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
         "Match Status": "Live 🔴",
@@ -485,27 +485,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live_world-championship-group-a_switzerland-latvia-live-streaming-1277439282/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/switzerland-vs-latvia-hockey-396692/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/switzerland-vs-latvia-hockey-396692/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/switzerland-vs-latvia-hockey-396692/3"
             }
         ]
     },
@@ -1161,6 +1140,13 @@
                 "Embed_URL": "https://embedsports.top/embed/delta/live-event_ufc-fight-night-allen-vs-costa-live-stream/1"
             },
             {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_ufc-fight-night-allen-vs-costa-live-stream/2"
+            },
+            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -1238,34 +1224,6 @@
                 "Language": "English - Netflix",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-mvp-mma-1-rousey-vs-carano/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-02-rousey-v-carano-ppv-02/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-02-rousey-v-carano-ppv-02/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-02-rousey-v-carano-ppv-02/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-02-rousey-v-carano-ppv-02/4"
             },
             {
                 "Source": "golf",
