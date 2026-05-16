@@ -301,20 +301,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Tigers.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-toronto-blue-jays-vs-detroit-tigers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Tigers.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-toronto-blue-jays-vs-detroit-tigers/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -381,28 +367,6 @@
         ]
     },
     {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Montreal Victoire vs Ottawa Charge",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Montreal%20Victoire%20vs%20Ottawa%20Charge&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:00 AM | 17-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_pwhl-women-playoffs_montreal-ottawa-live-streaming-1313817867/1"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "St. Louis Cardinals",
@@ -449,64 +413,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22414/1"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Switzerland Ice Hockey",
-        "Team 2 Name": "Latvia Ice Hockey",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Switzerland Ice Hockey vs Latvia Ice Hockey",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEHtqIfoV67NRkCBQgSICCGknTLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:20 AM | 17-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TSN3",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-switzerland-vs-latvia/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TSN3",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-switzerland-vs-latvia/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_world-championship-group-a_switzerland-latvia-live-streaming-1277439282/1"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Slovenia vs Czechia",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Slovenia%20vs%20Czechia&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:20 AM | 17-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_world-championship-group-b_slovenia-czechia-live-streaming-1277442279/1"
             }
         ]
     },
@@ -672,35 +578,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/famalicao-vs-alverca-football-1396538/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Sporting CP",
-        "Team 2 Name": "Gil Vicente",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1YhgSEABNOIENy25dRkiBMoQfXQQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqQDBPxAQQ3EABNcBozF0gSIU-AIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Sporting CP vs Gil Vicente",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VARBB9cc7CG5bDMEChMgpIEuZDwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:30 AM | 17-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/sporting-cp-vs-gil-vicente-football-1396542/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/sporting-cp-vs-gil-vicente-football-1396542/2"
             }
         ]
     },
@@ -940,6 +817,99 @@
         ]
     },
     {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Vegas Golden Knights vs Anaheim Ducks",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Vegas%20Golden%20Knights%20vs%20Anaheim%20Ducks&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:00 AM | 17-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_golden-knights-ducks-live-streaming-1307093598/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_golden-knights-ducks-live-streaming-1307093598/2"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "UFC Fight Night 276 Allen",
+        "Team 2 Name": "Costa",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "UFC Fight Night 276 Allen vs Costa",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiAEh42ELWoheILMZBmUICCGnbDhlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:00 AM | 17-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-ufc-fight-night-allen-vs-costa/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-ufc-fight-night-allen-vs-costa/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_ufc-fight-night-allen-vs-costa-live-stream/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_ufc-fight-night-allen-vs-costa-live-stream/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-01-ufc-fight-night-allen-v-costa-ppv-01/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-01-ufc-fight-night-allen-v-costa-ppv-01/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/22451/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -1073,99 +1043,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Vegas Golden Knights vs Anaheim Ducks",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Vegas%20Golden%20Knights%20vs%20Anaheim%20Ducks&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "03:00 AM | 17-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_golden-knights-ducks-live-streaming-1307093598/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_golden-knights-ducks-live-streaming-1307093598/2"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "UFC Fight Night 276 Allen",
-        "Team 2 Name": "Costa",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "UFC Fight Night 276 Allen vs Costa",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiAEh42ELWoheILMZBmUICCGnbDhlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "03:00 AM | 17-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-ufc-fight-night-allen-vs-costa/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-ufc-fight-night-allen-vs-costa/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live-event_ufc-fight-night-allen-vs-costa-live-stream/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live-event_ufc-fight-night-allen-vs-costa-live-stream/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-01-ufc-fight-night-allen-v-costa-ppv-01/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-01-ufc-fight-night-allen-v-costa-ppv-01/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22451/1"
             }
         ]
     },
