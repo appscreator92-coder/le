@@ -101,34 +101,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/cleveland-cavaliers-vs-detroit-pistons-basketball-499422/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/cleveland-cavaliers-vs-detroit-pistons-basketball-499422/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/cleveland-cavaliers-vs-detroit-pistons-basketball-499422/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/cleveland-cavaliers-vs-detroit-pistons-basketball-499422/4"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -237,20 +209,6 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-new-york-yankees-vs-new-york-mets/2"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/new-york-mets-vs-new-york-yankees-baseball-178673/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/new-york-mets-vs-new-york-yankees-baseball-178673/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -357,64 +315,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-13-world-of-outlaws-sprint-cars-ppv-13/2"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Connecticut Sun",
-        "Team 2 Name": "Las Vegas Aces",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphggo4JM1IhuIEntwgAJiD4gU5kKuWEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTBCAE2AAGEOrAgQ3EHxARDp3biskQywjDX8UXMGXhF5o501phXY0QggA.webp",
-        "Match Title": "Connecticut Sun vs Las Vegas Aces",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCD4gy8MCjYhuIKdsMgU5kFYimJTJBT7DZ9FGBX6278vSyz9TLRg7mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 16-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC Sports BO",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-las-vegas-aces-vs-connecticut-sun/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC Sports BO",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-las-vegas-aces-vs-connecticut-sun/2"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Indiana Fever",
-        "Team 2 Name": "Washington Mystics",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAow4GCCgoQibiBIHcRkCAAmITTj4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzB8IFP0EwQ3ECX25DIEABMQEXSHgEKTPprZgy8IvNGamtMM7GiIQA.webp",
-        "Match Title": "Indiana Fever vs Washington Mystics",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbtgY8wMpCG4gpIEvpAozISxBB8bBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 16-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ION",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-washington-mystics-vs-indiana-fever/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ION",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-washington-mystics-vs-indiana-fever/2"
             }
         ]
     },
@@ -645,34 +545,6 @@
                 "Language": "English - Space City Home Network",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-texas-rangers-vs-houston-astros/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_astros-rangers-live-streaming-1277181540/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_astros-rangers-live-streaming-1277181540/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/houston-astros-vs-texas-rangers-baseball-178681/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/houston-astros-vs-texas-rangers-baseball-178681/2"
             },
             {
                 "Source": "golf",
