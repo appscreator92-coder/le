@@ -22,35 +22,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Fight to Win 315 🔥",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Fight%20to%20Win%20315%20%F0%9F%94%A5&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 AM | 16-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-02-fight-to-win-315-ppv-02/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-02-fight-to-win-315-ppv-02/2"
-            }
-        ]
-    },
-    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "Wests Tigers",
@@ -119,6 +90,35 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/melbourne-demons-vs-hawthorn-hawks-australian-football-3430/4"
+            }
+        ]
+    },
+    {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Blues Super Rugby",
+        "Team 2 Name": "Hurricanes Super Rugby",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gQwAAxgUFFCG4gSh4wYghEBnBMIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnlgQMMSBCJuIEnpARDIXTC0g+hghSZ8UXMGXhF5o+01phHY0RCA.webp",
+        "Match Title": "Blues Super Rugby vs Hurricanes Super Rugby",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzAZIEIhkkQ3EHxBSdICMd0gDRmAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:05 PM | 16-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/blues-vs-hurricanes-rugby-51849/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/blues-vs-hurricanes-rugby-51849/2"
             }
         ]
     },
@@ -256,35 +256,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Blues Super Rugby",
-        "Team 2 Name": "Hurricanes Super Rugby",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gQwAAxgUFFCG4gSh4wYghEBnBMIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnlgQMMSBCJuIEnpARDIXTC0g+hghSZ8UXMGXhF5o+01phHY0RCA.webp",
-        "Match Title": "Blues Super Rugby vs Hurricanes Super Rugby",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzAZIEIhkkQ3EHxBSdICMd0gDRmAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "01:05 PM | 16-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/blues-vs-hurricanes-rugby-51849/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/blues-vs-hurricanes-rugby-51849/2"
             }
         ]
     },
@@ -1456,64 +1427,6 @@
                 "Language": "English - MLS",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-d-c-united-vs-st-louis-city-sc/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "New England Revolution",
-        "Team 2 Name": "Minnesota United",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcwosD1zAwqkABMQiFCAggTibqaMEKTPii7ry9eaMdNaYdWNEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmwMCBUg+kEBBDc9IFLiMkQifYngEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "New England Revolution vs Minnesota United",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VerXwgYpEChDcQfIwZMkQiRBD0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "05:30 AM | 17-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - MLS",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-new-england-revolution-vs-minnesota-united-fc/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - MLS",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-new-england-revolution-vs-minnesota-united-fc/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Charlotte FC",
-        "Team 2 Name": "Toronto FC",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxwATWCChkkIbiBIgU+zSEQQQME3wIUm1rmDLwi80SmBNaYR2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizlwKajm4gIIPiEQkDIACYgj2xhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "Charlotte FC vs Toronto FC",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEL3wgYwAAz8wfDSCMwQUk8cTcQJDQWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "05:30 AM | 17-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - MLS",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-charlotte-fc-vs-toronto-fc/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - MLS",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-charlotte-fc-vs-toronto-fc/2"
             }
         ]
     },
