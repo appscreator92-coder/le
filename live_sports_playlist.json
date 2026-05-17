@@ -141,20 +141,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/cleveland-guardians-vs-cincinnati-reds-baseball-178693/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/cleveland-guardians-vs-cincinnati-reds-baseball-178693/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -189,20 +175,6 @@
                 "Language": "English - Twins.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-milwaukee-brewers-vs-minnesota-twins/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/minnesota-twins-vs-milwaukee-brewers-baseball-178682/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/minnesota-twins-vs-milwaukee-brewers-baseball-178682/2"
             },
             {
                 "Source": "golf",
@@ -241,20 +213,6 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-texas-rangers-vs-houston-astros/2"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/houston-astros-vs-texas-rangers-baseball-178690/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/houston-astros-vs-texas-rangers-baseball-178690/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -289,34 +247,6 @@
                 "Language": "English - CHSN",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-chicago-cubs-vs-chicago-white-sox/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_white-sox-cubs-live-streaming-1277315406/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_white-sox-cubs-live-streaming-1277315406/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/chicago-white-sox-vs-chicago-cubs-baseball-178694/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/chicago-white-sox-vs-chicago-cubs-baseball-178694/2"
             },
             {
                 "Source": "golf",
@@ -467,20 +397,6 @@
                 "Language": "English - BravesVision",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-boston-red-sox-vs-atlanta-braves/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/atlanta-braves-vs-boston-red-sox-baseball-178695/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/atlanta-braves-vs-boston-red-sox-baseball-178695/2"
             },
             {
                 "Source": "golf",
@@ -755,35 +671,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22412/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Palmeiras",
-        "Team 2 Name": "Cruzeiro",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5bmD5gNMENxAQQfEIhImQF-buWEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJx4YACaawJENxAQQfEIl2IQIGCF0oCFJnxRcd5evNFOmtMDrGiIQA.webp",
-        "Match Title": "Palmeiras vs Cruzeiro",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvhCic3MFJDcQfEPpQmQFxIf0KmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 17-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/palmeiras-vs-cruzeiro-football-1492268/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/palmeiras-vs-cruzeiro-football-1492268/2"
             }
         ]
     },
