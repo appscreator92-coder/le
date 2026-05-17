@@ -1152,6 +1152,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Lechia Gdansk",
+        "Team 2 Name": "Legia Warszawa",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEERfXIMAxs3E94IqtwJdWYMLnxmgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEiFPXIMAxs3E94IqtwJdWYMLnxmgA.webp",
+        "Match Title": "Lechia Gdansk vs Legia Warszawa",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Lechia%20Gdansk%20vs%20Legia%20Warszawa&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "09:30 PM | 17-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/lechia-gdansk-vs-legia-warszawa-football-1380675/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/lechia-gdansk-vs-legia-warszawa-football-1380675/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -1305,35 +1334,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Lechia Gdansk",
-        "Team 2 Name": "Legia Warszawa",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEERfXIMAxs3E94IqtwJdWYMLnxmgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEiFPXIMAxs3E94IqtwJdWYMLnxmgA.webp",
-        "Match Title": "Lechia Gdansk vs Legia Warszawa",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Lechia%20Gdansk%20vs%20Legia%20Warszawa&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "09:30 PM | 17-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/lechia-gdansk-vs-legia-warszawa-football-1380675/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/lechia-gdansk-vs-legia-warszawa-football-1380675/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "FC Midtjylland",
         "Team 2 Name": "Brondby",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEKEAGN65Bmqzie8EVW4EurMGFz5zQA.webp",
@@ -1444,6 +1444,13 @@
                 "Language": "English - Peacock",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-miami-marlins-vs-tampa-bay-rays/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_rays-marlins-live-streaming-1277480241/1"
             },
             {
                 "Source": "golf",
