@@ -114,20 +114,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC Sports CA",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-athletics/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC Sports CA",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-athletics/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -169,35 +155,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22447/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Chapecoense",
-        "Team 2 Name": "Remo",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gUIGKRC913EHxAATECRDqYGo5YmFNTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIhEAE2BJg6sChDcQqviH2IIBkOqNGCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Chapecoense vs Remo",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBBSQKMGV7ruIPlp2mQIREcQkCwJBT7DZ9XSpRc95ellkemtGB6YqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "03:30 AM | 18-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/chapecoense-sc-vs-remo-football-1492265/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/chapecoense-sc-vs-remo-football-1492265/2"
             }
         ]
     },
@@ -808,6 +765,35 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Utah Royals W",
+        "Team 2 Name": "Racing Louisville W",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEMEMoj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiAgh1IeuQYBjZuJ7wRVbgS6swYXPmtA.webp",
+        "Match Title": "Utah Royals W vs Racing Louisville W",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Utah%20Royals%20W%20vs%20Racing%20Louisville%20W&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 18-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/utah-royals-w-vs-racing-louisville-w-football-1508430/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/utah-royals-w-vs-racing-louisville-w-football-1508430/2"
             }
         ]
     },
