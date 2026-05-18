@@ -310,6 +310,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Djurgården",
+        "Team 2 Name": "Sirius",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRgyZPtRIhuICLhDb9u3fpQh4BCkz4oua8vXmi7TWmDVjREIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTVVqgCbYQ3EBFwgUhkHxAaTIEjoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Djurgården vs Sirius",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdEekhRDdgJaiBggG4zpywh5nEfJhCIw-tWDcp2icOyiQAYwXaUwNuE49gBQxbDkkuYxa4cEbEZwv36YBzAEIzBQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "11:00 PM | 18-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Swedish Allsvenskan",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-djurg-rden-vs-ik-sirius/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Swedish Allsvenskan",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-djurg-rden-vs-ik-sirius/2"
+            }
+        ]
+    },
+    {
         "Category": "Hockey",
         "League": "Hockey",
         "Team 1 Name": "Sweden Ice Hockey",
