@@ -64,20 +64,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - KCOP",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-athletics-vs-los-angeles-angels/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - KCOP",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-athletics-vs-los-angeles-angels/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -99,20 +85,6 @@
         "Start Time": "07:40 AM | 19-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - CHSN",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-chicago-white-sox-vs-seattle-mariners/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - CHSN",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-chicago-white-sox-vs-seattle-mariners/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -136,20 +108,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Padres.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-los-angeles-dodgers-vs-san-diego-padres/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Padres.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-los-angeles-dodgers-vs-san-diego-padres/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -172,54 +130,11 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - DBACKS.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-arizona-diamondbacks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - DBACKS.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-arizona-diamondbacks/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22486/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Portland Fire",
-        "Team 2 Name": "Connecticut Sun",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBw+YXvJBsQ3EHxAlchkClMgLOZYRjAmfFFzBl4ReaMdNaYZ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphggo4JM1IhuIEntwgAJiD4gU5kKuWEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Portland Fire vs Connecticut Sun",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EExAoQQ4DWAQQlLBJA0FzBSGIgsMkCF07VWykJVi9IeeJ3zJMOSmB8wA4Q2x4n9JLmKPBLgjk0gKOjJRgLnLMckA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 AM | 19-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox 12 Plus",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-connecticut-sun-vs-portland-fire/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox 12 Plus",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-connecticut-sun-vs-portland-fire/2"
             }
         ]
     },
@@ -783,7 +698,7 @@
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3m0kDYEjAoQ3EHxAATfbpA69xkiGWEYwJnxRcwZeEXminTWmBdjREEA.webp",
         "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS4hKYXmBRgkfELxBZDIE9RAkTIRBEMEK+ASh5gy8IgrFOH9MC-FiIIA.webp",
         "Match Title": "Phoenix Mercury vs Toronto Tempo",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Phoenix%20Mercury%20vs%20Toronto%20Tempo&font=Oswald",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6ECmAQQpARGbMQAmiCwga8pTAViQO8UuI75OyUrVMQMYGalTxfMAOENseYGHpJcxcYIcJyQnLijJRgDhJyEEA.webp",
         "Match Status": "Upcoming ⏳",
         "Start Time": "08:00 AM | 20-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
