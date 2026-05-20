@@ -13,20 +13,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC 10",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-cincinnati-reds-vs-philadelphia-phillies/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC 10",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-cincinnati-reds-vs-philadelphia-phillies/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -133,20 +119,6 @@
                 "Language": "English - TSN1",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-sweden-vs-slovenia/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/sweden-vs-slovenia-hockey-396688/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/sweden-vs-slovenia-hockey-396688/2"
             }
         ]
     },
