@@ -1,34 +1,5 @@
 [
     {
-        "Category": "Cricket",
-        "League": "Cricket",
-        "Team 1 Name": "Kolkata Knight Riders",
-        "Team 2 Name": "Mumbai Indians",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyp8EIFBuwhuICCAN8QAExBGDOTcYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAgIIGMCQhwMENzU6QfEABNjR84gmFNTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Kolkata Knight Riders vs Mumbai Indians",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIjg5aYWCG4g++3CCmmQMEwZQFgSCn2Gz6KMCpRc35ellkemOm5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 PM | 20-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Indian Premier League",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-kolkata-knight-riders-vs-mumbai-indians/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Indian Premier League",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-kolkata-knight-riders-vs-mumbai-indians/2"
-            }
-        ]
-    },
-    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Torreense",
@@ -231,35 +202,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Palermo",
-        "Team 2 Name": "Catanzaro",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTsQ3IjhjqQJEHxAp9IbSEMhEKAhSZ8UXMGXibSnJrTCOxoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgU2ZiFEkQ3EABMQKXUdM6QWiwQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Palermo vs Catanzaro",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECg38w3XGD4hdBkiCkgYuUyEQQQCpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:00 AM | 21-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/palermo-vs-catanzaro-football-1544952/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/palermo-vs-catanzaro-football-1544952/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Al-Khaleej",
         "Team 2 Name": "Al-Ahli",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLAATYKpDqB3ELr4gShvSBS4tIRDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
@@ -290,6 +232,35 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/al-khaleej-saihat-vs-al-ahli-jeddah-football-1436212/3"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Palermo",
+        "Team 2 Name": "Catanzaro",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTsQ3IjhjqQJEHxAp9IbSEMhEKAhSZ8UXMGXibSnJrTCOxoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgU2ZiFEkQ3EABMQKXUdM6QWiwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Palermo vs Catanzaro",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECg38w3XGD4hdBkiCkgYuUyEQQQCpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:00 AM | 21-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/palermo-vs-catanzaro-football-1544952/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/palermo-vs-catanzaro-football-1544952/2"
             }
         ]
     },
@@ -563,6 +534,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live_uefa-europa-league-knockout-stage_freiburg-aston-villa-live-streaming-1314690993/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_uefa-europa-league-knockout-stage_freiburg-aston-villa-live-streaming-1314690993/2"
             },
             {
                 "Source": "echo",
