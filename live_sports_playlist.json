@@ -28,42 +28,6 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "UCI Giro dItalia | UCI World Tour 🏁",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=UCI%20Giro%20dItalia%20%7C%20UCI%20World%20Tour%20%F0%9F%8F%81&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 PM | 22-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/uci-giro-ditalia-uci-world-tour-game-13622/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/uci-giro-ditalia-uci-world-tour-game-13622/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/uci-giro-ditalia-uci-world-tour-game-13622/3"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
         "Match Title": "International Darts Open 2026 🎯",
         "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=International%20Darts%20Open%202026%20%F0%9F%8E%AF&font=Oswald",
         "Match Status": "Live 🔴",
@@ -227,6 +191,13 @@
                 "Language": "English - TSN1",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-canada-vs-slovenia/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_world-championship-group-b_canada-slovenia-live-streaming-1307933757/1"
             },
             {
                 "Source": "echo",
@@ -475,85 +446,6 @@
         ]
     },
     {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "Canadian Grand Prix",
-        "Team 2 Name": "Practice 1",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Canadian Grand Prix Practice 1",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGTjgxKbENxB8DICCBS4QMC8dMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "10:30 PM | 22-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sky Sport 2 NZ",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-sprint-qualifying/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sky Sport 2 NZ",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-sprint-qualifying/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - Apple TV (F1TV)",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-sprint-qualifying/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - Apple TV (F1TV)",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-sprint-qualifying/4"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22512/1"
-            }
-        ]
-    },
-    {
-        "Category": "Darts",
-        "League": "Darts",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "International Darts Open | Day 1 - Evening",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmGhRAoQArCGIghIRXJkxgEEDBARsExXskLEKCsDFDxpAYkWImxvmAHCG2PMDD0kuYscGOE5OYCxoyUYI5qzGpAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "11:00 PM | 22-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - PDC.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-international-darts-open-day-1-evening/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - PDC.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-international-darts-open-day-1-evening/2"
-            }
-        ]
-    },
-    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "Somerset t20",
@@ -780,6 +672,56 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/leigh-leopards-vs-hull-fc-game-182283/4"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "Canadian Grand Prix",
+        "Team 2 Name": "Practice 1",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Canadian Grand Prix Practice 1",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGTjgxKbENxB8DICCBS4QMC8dMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "02:30 AM | 23-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Sky Sport 2 NZ",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-practice-1/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Sky Sport 2 NZ",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-practice-1/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - Apple TV (F1TV)",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-practice-1/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - Apple TV (F1TV)",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-canadian-grand-prix-practice-1/4"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/22512/1"
             }
         ]
     },
@@ -1539,8 +1481,8 @@
         "Team 2 Name": "Larrimore",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "BKFC 89 Herring v Larrimore",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=BKFC%2089%20Herring%20v%20Larrimore&font=Oswald",
+        "Match Title": "Herring v Larrimore",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Herring%20v%20Larrimore&font=Oswald",
         "Match Status": "Upcoming ⏳",
         "Start Time": "08:00 AM | 23-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
