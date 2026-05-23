@@ -1,63 +1,5 @@
 [
     {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Latvia Ice Hockey",
-        "Team 2 Name": "USA Ice Hockey",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1FoQvWgBNQ6kJty6YICCEQkQKdQQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hEUPELRAhuIACa4dIGPu0g+hkAQpM+6tmDKr680eqa0wjsaIhA.webp",
-        "Match Title": "Latvia Ice Hockey vs USA Ice Hockey",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduBAhBJENS0he241pQhdEY4kX5gSClhFzGKMKpQ835RtTkfb9GBu4mIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:20 PM | 23-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TSN3",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-latvia-vs-united-states/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TSN3",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-latvia-vs-united-states/2"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Denmark Ice Hockey",
-        "Team 2 Name": "Slovenia Ice Hockey",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmDEPSQha3ELpW49IGCAN8NpkCgIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuuMHxB8Ea7SBgGQKEKoghzAE1wEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Denmark Ice Hockey vs Slovenia Ice Hockey",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQNIIaSGohehkFhMhzKECRAQziaSyQUsIuYxRhVWjp-KNqclr4rMBgnuJiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:20 PM | 23-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TSN1",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-denmark-vs-slovenia/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TSN1",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-denmark-vs-slovenia/2"
-            }
-        ]
-    },
-    {
         "Category": "Darts",
         "League": "Darts",
         "Team 1 Name": "",
@@ -615,6 +557,13 @@
                 "Language": "Norwegian - Viaplay Norway",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-switzerland-vs-hungary/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_world-championship-group-a_switzerland-hungary-live-streaming-1308116574/1"
             }
         ]
     },
@@ -651,6 +600,41 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live_championship-promotion-playoffs_hull-middlesbrough-live-streaming-1324442232/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/hull-city-vs-middlesbrough-football-1545715/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/hull-city-vs-middlesbrough-football-1545715/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/hull-city-vs-middlesbrough-football-1545715/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/hull-city-vs-middlesbrough-football-1545715/4"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 5,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/hull-city-vs-middlesbrough-football-1545715/5"
             }
         ]
     },
@@ -773,6 +757,20 @@
                 "Language": "English - Serie A",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-bologna-vs-inter-milan/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/bologna-vs-inter-football-1378234/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/bologna-vs-inter-football-1378234/2"
             }
         ]
     },
@@ -1115,6 +1113,13 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-norway-vs-sweden/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_world-championship-group-b_norway-sweden-live-streaming-1308119571/1"
+            },
+            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -1264,6 +1269,41 @@
                 "Language": "English - ESPN+",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-valencia-vs-barcelona/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/valencia-vs-barcelona-football-1391197/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/valencia-vs-barcelona-football-1391197/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/valencia-vs-barcelona-football-1391197/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/valencia-vs-barcelona-football-1391197/4"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 5,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/valencia-vs-barcelona-football-1391197/5"
             },
             {
                 "Source": "golf",
@@ -1983,14 +2023,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Reds.TV",
+                "Language": "English - MLB.TV",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-st-louis-cardinals-vs-cincinnati-reds/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Reds.TV",
+                "Language": "English - MLB.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-st-louis-cardinals-vs-cincinnati-reds/2"
             },
