@@ -201,42 +201,6 @@
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Columbus Aviators",
-        "Team 2 Name": "Birmingham Stallions",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1okQIfpRAQQ3EH30gYIACamQKC7vUEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIgQAsMDAgUIbiAAmICCBK4QifUZMGCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Columbus Aviators vs Birmingham Stallions",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCETSwvEGLDAkIXVhCnTumCCtWSIZvkMUsIuYxRhVKHp-KNqct6O9GCe4mIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 24-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ABC",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-birmingham-stallions-vs-columbus-aviators/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ABC",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-birmingham-stallions-vs-columbus-aviators/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_ufl_columbus-aviators-birmingham-stallions-live-streaming-1307978712/1"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Toronto Blue Jays",
@@ -455,20 +419,6 @@
                 "Language": "English - Marlins.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-new-york-mets-vs-miami-marlins/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_marlins-mets-live-streaming-1307990700/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_marlins-mets-live-streaming-1307990700/2"
             },
             {
                 "Source": "echo",
@@ -1281,6 +1231,13 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-d-c-united-vs-cf-montr-al/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mls_dc-united-montreal-live-streaming-1242495261/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1317,6 +1274,13 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-charlotte-fc-vs-new-england-revolution/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mls_charlotte-new-england-live-streaming-1242494262/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1351,6 +1315,13 @@
                 "Language": "English - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-fc-cincinnati-vs-orlando-city-sc/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mls_cincinnati-orlando-live-streaming-1242496260/1"
             },
             {
                 "Source": "golf",
