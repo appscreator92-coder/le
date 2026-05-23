@@ -22,49 +22,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "The CJ Cup Byron Nelson | PGA Tour",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=The%20CJ%20Cup%20Byron%20Nelson%20%7C%20PGA%20Tour&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:00 PM | 22-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/the-cj-cup-byron-nelson-pga-tour-pga-526234/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/the-cj-cup-byron-nelson-pga-tour-pga-526234/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/the-cj-cup-byron-nelson-pga-tour-pga-526234/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/the-cj-cup-byron-nelson-pga-tour-pga-526234/4"
-            }
-        ]
-    },
-    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "Canadian Grand Prix",
@@ -718,8 +675,8 @@
     {
         "Category": "Fight",
         "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
+        "Team 1 Name": "Amari Jones",
+        "Team 2 Name": "Vincenzo Gualtieri",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
         "Match Title": "Amari Jones vs Vincenzo Gualtieri",
@@ -734,6 +691,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live-event_amari-jones-vs-vincenzo-gualtieri-live-stream/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/22644/1"
             }
         ]
     },
@@ -866,43 +830,14 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Boston Legacy W",
-        "Team 2 Name": "Seattle Reign FC W",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIAMYhEq5fXINNWcT3giq3Al1ZgwufFaA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEMEMqZ1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Match Title": "Boston Legacy W vs Seattle Reign FC W",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Boston%20Legacy%20W%20vs%20Seattle%20Reign%20FC%20W&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 23-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/boston-legacy-w-vs-seattle-reign-fc-w-football-1508434/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/boston-legacy-w-vs-seattle-reign-fc-w-football-1508434/2"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "WWE: Friday Night Smackdown",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmAYmIhJWEDGBCQNScBoUQiFCGnSxzNSCaaZcispAbFk0tMU9gfMAOENseO-SS5iKQXZYcIxgLejJRgDsABAhBAA.webp",
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Orlando Storm",
+        "Team 2 Name": "DC Defenders",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphgN2YFGG64Q2viH0wQAEwMgjEECisEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAkQ8MGpw4YIbiAAmIPoZBmUqkBaMGCFJnxRdN5evNFOmtMJrGiIQA.webp",
+        "Match Title": "Orlando Storm vs DC Defenders",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrSjSQKSjRC8QWIycMwQ58yQMskFLCLmMUYVbo6vyjanN35WwGCu4mIQQA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "06:00 AM | 23-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -910,37 +845,23 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - USA",
+                "Language": "English - FOX",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-wwe-friday-night-smackdown/1"
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-dc-defenders-vs-orlando-storm/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - USA",
+                "Language": "English - FOX",
                 "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-wwe-friday-night-smackdown/2"
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-dc-defenders-vs-orlando-storm/2"
             },
             {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live-event_friday-night-smackdown-live-stream/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/wwe-friday-night-smackdown-game-11114/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/wwe-friday-night-smackdown-game-11114/2"
+                "Embed_URL": "https://embedsports.top/embed/delta/live_ufl_orlando-storm-dc-defenders-live-streaming-1307807883/1"
             }
         ]
     },
@@ -1023,14 +944,14 @@
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Orlando Storm",
-        "Team 2 Name": "DC Defenders",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphgN2YFGG64Q2viH0wQAEwMgjEECisEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAkQ8MGpw4YIbiAAmIPoZBmUqkBaMGCFJnxRdN5evNFOmtMJrGiIQA.webp",
-        "Match Title": "Orlando Storm vs DC Defenders",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrSjSQKSjRC8QWIycMwQ58yQMskFLCLmMUYVbo6vyjanN35WwGCu4mIQQA.webp",
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "WWE: Friday Night Smackdown",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmAYmIhJWEDGBCQNScBoUQiFCGnSxzNSCaaZcispAbFk0tMU9gfMAOENseO-SS5iKQXZYcIxgLejJRgDsABAhBAA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "06:00 AM | 23-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -1038,23 +959,124 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - FOX",
+                "Language": "English - USA",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-dc-defenders-vs-orlando-storm/1"
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-wwe-friday-night-smackdown/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - FOX",
+                "Language": "English - USA",
                 "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-dc-defenders-vs-orlando-storm/2"
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-wwe-friday-night-smackdown/2"
             },
             {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_ufl_orlando-storm-dc-defenders-live-streaming-1307807883/1"
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_friday-night-smackdown-live-stream/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/wwe-friday-night-smackdown-game-11114/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/wwe-friday-night-smackdown-game-11114/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Boston Legacy W",
+        "Team 2 Name": "Seattle Reign FC W",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIAMYhEq5fXINNWcT3giq3Al1ZgwufFaA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEMEMqZ1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+        "Match Title": "Boston Legacy W vs Seattle Reign FC W",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Boston%20Legacy%20W%20vs%20Seattle%20Reign%20FC%20W&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 23-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/boston-legacy-w-vs-seattle-reign-fc-w-football-1508434/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/boston-legacy-w-vs-seattle-reign-fc-w-football-1508434/2"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "House of Glory Waging War ⭐",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=House%20of%20Glory%20Waging%20War%20%E2%AD%90&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 23-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-03-house-of-glory-waging-war-ppv-03/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-03-house-of-glory-waging-war-ppv-03/2"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Lucas Oil Show Me 100 Wheatland",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Lucas%20Oil%20Show%20Me%20100%20Wheatland&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:15 AM | 23-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-13-lucas-oil-show-me-100-wheatland-ppv-13/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-13-lucas-oil-show-me-100-wheatland-ppv-13/2"
             }
         ]
     },
@@ -1192,35 +1214,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Lucas Oil Show Me 100 Wheatland",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Lucas%20Oil%20Show%20Me%20100%20Wheatland&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:15 AM | 23-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-13-lucas-oil-show-me-100-wheatland-ppv-13/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-13-lucas-oil-show-me-100-wheatland-ppv-13/2"
             }
         ]
     },
