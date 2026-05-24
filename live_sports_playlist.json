@@ -116,61 +116,18 @@
         ]
     },
     {
-        "Category": "Cricket",
-        "League": "Cricket",
-        "Team 1 Name": "Mumbai Indians",
-        "Team 2 Name": "Rajasthan Royals",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAgIIGMCQhwMENzU6QfEABNjR84gmFNTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzCliTACZg+IbiAghDOjSBi7DIExAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Mumbai Indians vs Rajasthan Royals",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGClgkwLaKkhuIPodwgDBmKZTmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:00 PM | 24-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Indian Premier League",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-mumbai-indians-vs-rajasthan-royals/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Indian Premier League",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-mumbai-indians-vs-rajasthan-royals/2"
-            }
-        ]
-    },
-    {
-        "Category": "Darts",
-        "League": "Darts",
+        "Category": "Other",
+        "League": "Other",
         "Team 1 Name": "",
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "International Darts Open | Day 3 - Afternoon",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmGhRAoQArCGIghIRXJkxgEEDBARsExXskLEKCsDFDxpAYkWImxvmAHCG2PMDD0kuYscGOE5OYCxoyUYI5qzGpAA.webp",
+        "Match Title": "International Darts Open 2026 🎯",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=International%20Darts%20Open%202026%20%F0%9F%8E%AF&font=Oswald",
         "Match Status": "Live 🔴",
-        "Start Time": "04:00 PM | 24-May",
+        "Start Time": "05:00 PM | 24-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - PDC.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-international-darts-open-day-3-afternoon/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - PDC.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-international-darts-open-day-3-afternoon/2"
-            },
             {
                 "Source": "echo",
                 "Stream_No": 1,
@@ -248,35 +205,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/bolton-vs-stockport-county-football-1545176/5"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Stade Lausanne Ouchy",
-        "Team 2 Name": "St. Gallen",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl5IwKMABMQMHiG4gSIYzBApcIbcesEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLAowAE1UaEIbiAi5D6-SZK7cBCkz4ouYMvCLzRtprTD2xoiEA.webp",
-        "Match Title": "Stade Lausanne Ouchy vs St. Gallen",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Stade%20Lausanne%20Ouchy%20vs%20St.%20Gallen&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 PM | 24-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/stade-lausanne-ouchy-vs-fc-st-gallen-football-1541944/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/stade-lausanne-ouchy-vs-fc-st-gallen-football-1541944/2"
             }
         ]
     },
@@ -403,28 +331,6 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Luis Reynaldo Nunez vs Kyonosuke Kameda",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Luis%20Reynaldo%20Nunez%20vs%20Kyonosuke%20Kameda&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 PM | 24-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live-event_luis-reynaldo-nunez-vs-kyonosuke-kameda-live-stream/1"
-            }
-        ]
-    },
-    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "Kolkata Knight Riders",
@@ -450,6 +356,101 @@
                 "Language": "English - Indian Premier League",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-kolkata-knight-riders-vs-delhi-capitals/2"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "110th Running of the Indianapolis 500",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6ECGzAaIKTEkhKNYBBBYKFEEJAolKiZqxaQyg8rFSh68ZoVHtfMAOEMJd+klzFtghwnIWB2oyUYA5KzEpAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 PM | 24-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - FOX",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-110-th-running-of-the-indianapolis-500/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - FOX",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-110-th-running-of-the-indianapolis-500/2"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Luis Reynaldo Nunez vs Kyonosuke Kameda",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Luis%20Reynaldo%20Nunez%20vs%20Kyonosuke%20Kameda&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 PM | 24-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_luis-reynaldo-nunez-vs-kyonosuke-kameda-live-stream/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Albacete",
+        "Team 2 Name": "Real Sociedad II",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCor65Boubie8EVW4EurMGFz5zQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIbCFXZ65BgGNm4nvBFVuBLqzBhc+S0A.webp",
+        "Match Title": "Albacete vs Real Sociedad II",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Albacete%20vs%20Real%20Sociedad%20II&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:15 PM | 24-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/albacete-vs-real-sociedad-ii-football-1392215/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "FC Andorra",
+        "Team 2 Name": "Ceuta",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIoFABh64Q3EABMQiFCAggzu4zFwEKTPmrZgy8IvNFqmtME7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQ8QfBMDAgSIbiAAm64xGO6cfEPAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "FC Andorra vs Ceuta",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNrza0kIXdxB8QJIyAi4Q+4-pQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:15 PM | 24-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/fc-andorra-vs-ad-ceuta-fc-football-1396989/1"
             }
         ]
     },
@@ -587,50 +588,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Albacete",
-        "Team 2 Name": "Real Sociedad II",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCor65Boubie8EVW4EurMGFz5zQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIbCFXZ65BgGNm4nvBFVuBLqzBhc+S0A.webp",
-        "Match Title": "Albacete vs Real Sociedad II",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Albacete%20vs%20Real%20Sociedad%20II&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:15 PM | 24-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/albacete-vs-real-sociedad-ii-football-1392215/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "FC Andorra",
-        "Team 2 Name": "Ceuta",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIoFABh64Q3EABMQiFCAggzu4zFwEKTPmrZgy8IvNFqmtME7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQ8QfBMDAgSIbiAAm64xGO6cfEPAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "FC Andorra vs Ceuta",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNrza0kIXdxB8QJIyAi4Q+4-pQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:15 PM | 24-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/fc-andorra-vs-ad-ceuta-fc-football-1396989/1"
             }
         ]
     },
@@ -828,6 +785,20 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-west-ham-united-vs-leeds-united/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_premier-league_west-ham-leeds-live-streaming-1096761141/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_premier-league_west-ham-leeds-live-streaming-1096761141/2"
+            },
+            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -890,6 +861,13 @@
                 "Language": "English - Sky Sports Main Event",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-tottenham-hotspur-vs-everton/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_premier-league_tottenham-everton-live-streaming-1096760142/1"
             },
             {
                 "Source": "echo",
@@ -956,6 +934,13 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-sunderland-vs-chelsea/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_premier-league_sunderland-chelsea-live-streaming-1096759143/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -992,6 +977,13 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-nottingham-forest-vs-afc-bournemouth/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_premier-league_forest-bournemouth-live-streaming-1096758144/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1026,6 +1018,13 @@
                 "Language": "English - Sky Sports Action",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-manchester-city-vs-aston-villa/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_premier-league_man-city-aston-villa-live-streaming-1096757145/1"
             },
             {
                 "Source": "echo",
@@ -1078,6 +1077,13 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-liverpool-vs-brentford/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_premier-league_liverpool-brentford-live-streaming-1096756146/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1114,6 +1120,13 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-fulham-vs-newcastle-united/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_premier-league_fulham-newcastle-live-streaming-1096755147/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1148,6 +1161,13 @@
                 "Language": "English - Sky Sports Premier League",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-crystal-palace-vs-arsenal/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_premier-league_crystal-palace-arsenal-live-streaming-1096754148/1"
             },
             {
                 "Source": "echo",
@@ -1200,6 +1220,13 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-burnley-vs-wolverhampton-wanderers/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_premier-league_burnley-wolves-live-streaming-1096753149/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1234,6 +1261,13 @@
                 "Language": "English - Sky Sports Tennis",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-manchester-united/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_premier-league_brighton-man-utd-live-streaming-1096752150/1"
             },
             {
                 "Source": "echo",
