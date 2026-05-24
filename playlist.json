@@ -1,53 +1,5 @@
 [
     {
-        "Category": "FORMULA 1",
-        "League": "FORMULA 1",
-        "Team 1 Name": "Canadian Grand Prix",
-        "Team 2 Name": "Sprint",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Canadian Grand Prix VS Sprint",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Canadian%20Grand%20Prix%20VS%20Sprint&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "10:00 PM 23-05-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id===gNwETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
-        "Category": "MMA/PFL/BKFC",
-        "League": "MMA/PFL/BKFC",
-        "Team 1 Name": "PFL Brussels Habirora",
-        "Team 2 Name": "Henderson",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "PFL Brussels Habirora VS Henderson",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=PFL%20Brussels%20Habirora%20VS%20Henderson&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "10:30 PM 23-05-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id===gMxETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
-        "Category": "MLB",
-        "League": "MLB",
-        "Team 1 Name": "Cincinnati Reds",
-        "Team 2 Name": "St. Louis Cardinals",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Cincinnati Reds VS St. Louis Cardinals",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Cincinnati%20Reds%20VS%20St.%20Louis%20Cardinals&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "11:10 PM 23-05-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id===gNwYTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
         "Category": "MLB",
         "League": "MLB",
         "Team 1 Name": "New York Yankees",
@@ -61,22 +13,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
             "https://data-2.vercel.app/?id===AOxYTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
-        "Category": "GERMAN CUP",
-        "League": "GERMAN CUP",
-        "Team 1 Name": "Bayern Munich",
-        "Team 2 Name": "VfB Stuttgart",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Bayern Munich VS VfB Stuttgart",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Bayern%20Munich%20VS%20VfB%20Stuttgart&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "12:00 AM 24-05-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id===QMyETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
         ]
     },
     {
@@ -424,7 +360,7 @@
         "Team 2 Logo": "",
         "Match Title": "Cleveland Cavaliers VS New York Knicks",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Cleveland%20Cavaliers%20VS%20New%20York%20Knicks&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "06:00 AM 24-05-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -440,7 +376,7 @@
         "Team 2 Logo": "",
         "Match Title": "WWE Saturday VS Night Main Event",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=WWE%20Saturday%20VS%20Night%20Main%20Event&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "06:00 AM 24-05-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -456,7 +392,7 @@
         "Team 2 Logo": "",
         "Match Title": "Chicago Fire FC VS Toronto FC",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Chicago%20Fire%20FC%20VS%20Toronto%20FC&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "06:30 AM 24-05-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -472,7 +408,7 @@
         "Team 2 Logo": "",
         "Match Title": "Nashville SC VS New York City FC",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Nashville%20SC%20VS%20New%20York%20City%20FC&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "06:30 AM 24-05-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -488,7 +424,7 @@
         "Team 2 Logo": "",
         "Match Title": "Sporting Kansas City VS Red Bull New York",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Sporting%20Kansas%20City%20VS%20Red%20Bull%20New%20York&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "06:30 AM 24-05-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -504,7 +440,7 @@
         "Team 2 Logo": "",
         "Match Title": "Colorado Rapids VS FC Dallas",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Colorado%20Rapids%20VS%20FC%20Dallas&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "07:30 AM 24-05-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -520,7 +456,7 @@
         "Team 2 Logo": "",
         "Match Title": "Portland Timbers VS San Jose Earthquakes",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Portland%20Timbers%20VS%20San%20Jose%20Earthquakes&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "07:30 AM 24-05-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -536,7 +472,7 @@
         "Team 2 Logo": "",
         "Match Title": "San Diego FC VS Vancouver Whitecaps",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=San%20Diego%20FC%20VS%20Vancouver%20Whitecaps&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "07:30 AM 24-05-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
