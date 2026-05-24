@@ -228,20 +228,6 @@
                 "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_reds-cardinals-live-streaming-1307991699/1"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/cincinnati-reds-vs-stlouis-cardinals-baseball-178787/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/cincinnati-reds-vs-stlouis-cardinals-baseball-178787/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -276,27 +262,6 @@
                 "Language": "English - Apple TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-fc-cincinnati-vs-orlando-city-sc/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mls_cincinnati-orlando-live-streaming-1242496260/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/fc-cincinnati-vs-orlando-city-sc-football-1490311/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/fc-cincinnati-vs-orlando-city-sc-football-1490311/2"
             },
             {
                 "Source": "golf",
@@ -371,47 +336,11 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-d-c-united-vs-cf-montr-al/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mls_dc-united-montreal-live-streaming-1242495261/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22520/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "DC United",
-        "Team 2 Name": "CF Montreal",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfopDZ65BgGNm4nvBFVuBLqzBhc+S0A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfopAR65BgGNm4nvBFVuBLqzBhc+S0A.webp",
-        "Match Title": "DC United vs CF Montreal",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=DC%20United%20vs%20CF%20Montreal&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 24-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/dc-united-vs-cf-montreal-football-1490313/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/dc-united-vs-cf-montreal-football-1490313/2"
             }
         ]
     },
@@ -1140,6 +1069,28 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Fair Race Silver Dollar",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Fair%20Race%20Silver%20Dollar&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 24-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-25-fair-race-silver-dollar-ppv-25/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -1273,28 +1224,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Fair Race Silver Dollar",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Fair%20Race%20Silver%20Dollar&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 AM | 24-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-25-fair-race-silver-dollar-ppv-25/1"
             }
         ]
     },
