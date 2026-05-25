@@ -191,20 +191,6 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-minnesota-twins-vs-chicago-white-sox/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_white-sox-twins-live-streaming-1308313377/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_white-sox-twins-live-streaming-1308313377/2"
-            },
-            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -281,42 +267,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/slovenia-vs-italy-hockey-396683/3"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Germany Ice Hockey",
-        "Team 2 Name": "Great Britain Ice Hockey",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxREwwACZgk-ENxAbcekDBARjOfXwIUm1rmDLwi80SmBNaYR2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxBc0IOOBAhuIACa4dG-SD6njfAhSaWuYMvCLzRKYE1ph7Y0RCA.webp",
-        "Match Title": "Germany Ice Hockey vs Great Britain Ice Hockey",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmJRMOYEMGkheILMZBmUIEiAimri-MCQUsIuYxRhVWnWXhFqcloO9GCe4mIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:20 AM | 26-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_world-championship-group-a_germany-great-britain-live-streaming-1308363327/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/germany-vs-great-britain-hockey-396730/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/germany-vs-great-britain-hockey-396730/2"
             }
         ]
     },
@@ -1028,6 +978,13 @@
                 "Language": "English - Netflix",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-wwe-monday-night-raw/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_monday-night-raw-live-stream/1"
             },
             {
                 "Source": "golf",
