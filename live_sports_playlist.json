@@ -27,20 +27,6 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-washington-nationals-vs-cleveland-guardians/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_guardians-nationals-live-streaming-1308381309/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_guardians-nationals-live-streaming-1308381309/2"
-            },
-            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -959,28 +945,6 @@
     {
         "Category": "Hockey",
         "League": "Hockey",
-        "Team 1 Name": "Kitchener Rangers",
-        "Team 2 Name": "Chicoutimi Saguenéens",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhypQQwMCBggIIbiAAmIRHxCmQuPRZ0EKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC0wwACbAADCAgg+IbiA2qD5kLj1G9BCkz4ouYMvCLzRTpmpdjREIA.webp",
-        "Match Title": "Kitchener Rangers vs Chicoutimi Saguenéens",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Kitchener%20Rangers%20vs%20Chicoutimi%20Saguen%C3%A9ens&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 AM | 27-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_chl-memorial-cup_sagueneens-kitchener-rangers-live-streaming-1323239436/1"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
         "Team 1 Name": "Vegas Golden Knights",
         "Team 2 Name": "Colorado Avalanche",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACAJnRAQQJXCG4g1+kCh0hERoyBMEKTPii5gy8IvNGOmtMM7GiIQA.webp",
@@ -1053,6 +1017,28 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22699/1"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Kitchener Rangers",
+        "Team 2 Name": "Chicoutimi Saguenéens",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhypQQwMCBggIIbiAAmIRHxCmQuPRZ0EKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC0wwACbAADCAgg+IbiA2qD5kLj1G9BCkz4ouYMvCLzRTpmpdjREIA.webp",
+        "Match Title": "Kitchener Rangers vs Chicoutimi Saguenéens",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Kitchener%20Rangers%20vs%20Chicoutimi%20Saguen%C3%A9ens&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "07:00 AM | 27-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_chl-memorial-cup_sagueneens-kitchener-rangers-live-streaming-1323239436/1"
             }
         ]
     },
@@ -1413,6 +1399,13 @@
                 "Language": "English - NBC Sports BA",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-arizona-diamondbacks-vs-san-francisco-giants/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_giants-diamondbacks-live-streaming-1308394296/1"
             },
             {
                 "Source": "echo",
