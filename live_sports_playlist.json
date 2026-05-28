@@ -252,20 +252,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - CHSN",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-minnesota-twins-vs-chicago-white-sox/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - CHSN",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-minnesota-twins-vs-chicago-white-sox/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -332,59 +318,67 @@
         ]
     },
     {
-        "Category": "Cricket",
-        "League": "Cricket",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Willow Cricket",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "",
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Cerro Porteño",
+        "Team 2 Name": "Sporting Cristal",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDAADGHDdoSENxAATECVx7TRkzBB8CFJja5gy8IvNEpgTWmCdjREIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxRgAJqRBQUPENxB8Qao1twhE+lFoIUmfHWzBl4ReaJ1NaYJ2NEQgA.webp",
+        "Match Title": "Cerro Porteño vs Sporting Cristal",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCCgowvLLBDcQfI5pBnDhnClwFgSCn2Gz62lSi5gy8IllnumtGCeYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:00 AM | 29-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
+                "Source": "echo",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/1"
+                "Embed_URL": "https://embedsports.top/embed/echo/cerro-porteno-vs-sporting-cristal-football-1535316/1"
             },
             {
-                "Source": "admin",
+                "Source": "echo",
                 "Stream_No": 2,
-                "Language": "Willow 2",
+                "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/2"
+                "Embed_URL": "https://embedsports.top/embed/echo/cerro-porteno-vs-sporting-cristal-football-1535316/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Palmeiras",
+        "Team 2 Name": "Atlético Junior",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5bmD5gNMENxAQQfEIhImQF-buWEYwJnxRcwZeEXminTWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiRgkPbMDAIQ3ECRB8QAE10mzpkCYIUmfFFzBl4ReaIdNa20VLpA.webp",
+        "Match Title": "Palmeiras vs Atlético Junior",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUChAwQIZsCkhuIPsZAQdhyzh2NgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:00 AM | 29-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/palmeiras-vs-junior-football-1535327/1"
             },
             {
-                "Source": "admin",
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/palmeiras-vs-junior-football-1535327/2"
+            },
+            {
+                "Source": "echo",
                 "Stream_No": 3,
-                "Language": "Willow Sports",
+                "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "Willow 2",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "Willow Sports",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/6"
+                "Embed_URL": "https://embedsports.top/embed/echo/palmeiras-vs-junior-football-1535327/3"
             }
         ]
     },
@@ -447,6 +441,63 @@
         ]
     },
     {
+        "Category": "Cricket",
+        "League": "Cricket",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Willow Cricket",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "Willow 2",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "Willow Sports",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/4"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 5,
+                "Language": "Willow 2",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/5"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 6,
+                "Language": "Willow Sports",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/admin-willow-cricket/6"
+            }
+        ]
+    },
+    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "",
@@ -465,71 +516,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Cerro Porteño",
-        "Team 2 Name": "Sporting Cristal",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDAADGHDdoSENxAATECVx7TRkzBB8CFJja5gy8IvNEpgTWmCdjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxRgAJqRBQUPENxB8Qao1twhE+lFoIUmfHWzBl4ReaJ1NaYJ2NEQgA.webp",
-        "Match Title": "Cerro Porteño vs Sporting Cristal",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCCgowvLLBDcQfI5pBnDhnClwFgSCn2Gz62lSi5gy8IllnumtGCeYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:00 AM | 29-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/cerro-porteno-vs-sporting-cristal-football-1535316/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/cerro-porteno-vs-sporting-cristal-football-1535316/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Palmeiras",
-        "Team 2 Name": "Atlético Junior",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5bmD5gNMENxAQQfEIhImQF-buWEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiRgkPbMDAIQ3ECRB8QAE10mzpkCYIUmfFFzBl4ReaIdNa20VLpA.webp",
-        "Match Title": "Palmeiras vs Atlético Junior",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUChAwQIZsCkhuIPsZAQdhyzh2NgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:00 AM | 29-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/palmeiras-vs-junior-football-1535327/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/palmeiras-vs-junior-football-1535327/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/palmeiras-vs-junior-football-1535327/3"
             }
         ]
     },
@@ -616,6 +602,20 @@
                 "Language": "English - MLB.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-chicago-cubs-vs-pittsburgh-pirates/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_pirates-cubs-live-streaming-1308615075/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_pirates-cubs-live-streaming-1308615075/2"
             },
             {
                 "Source": "echo",
