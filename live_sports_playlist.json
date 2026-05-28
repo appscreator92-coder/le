@@ -564,35 +564,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "America de Cali",
-        "Team 2 Name": "Macara",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIhD1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikNhX1yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Match Title": "America de Cali vs Macara",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=America%20de%20Cali%20vs%20Macara&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:30 AM | 29-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/america-de-cali-vs-macara-football-1535218/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/america-de-cali-vs-macara-football-1535218/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "Tigre",
         "Team 2 Name": "Alianza Atletico",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIbCCZ1yDAMbNxPeCKrcCXVmDC58FoA.webp",
@@ -623,6 +594,35 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/tigre-vs-alianza-atletico-football-1535232/3"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "America de Cali",
+        "Team 2 Name": "Macara",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIhD1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikNhX1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+        "Match Title": "America de Cali vs Macara",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=America%20de%20Cali%20vs%20Macara&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:30 AM | 29-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/america-de-cali-vs-macara-football-1535218/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/america-de-cali-vs-macara-football-1535218/2"
             }
         ]
     },
@@ -717,6 +717,20 @@
                 "Language": "English - NBC",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-oklahoma-city-thunder-vs-san-antonio-spurs/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_nba_spurs-thunder-live-streaming-1319172507/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_nba_spurs-thunder-live-streaming-1319172507/2"
             },
             {
                 "Source": "echo",
