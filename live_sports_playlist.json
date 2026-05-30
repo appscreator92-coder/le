@@ -1,27 +1,5 @@
 [
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Washington",
-        "Team 2 Name": "Vega",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Washington - Vega",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Washington%20-%20Vega&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 AM | 30-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22770/1"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Athletics",
@@ -153,35 +131,6 @@
         ]
     },
     {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Sydney Swans",
-        "Team 2 Name": "Richmond Football Club",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyZT22EChDcQAExAQQfECeMw9BkwQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDAADGF5gwAEwYhuIHSAgg+IC+ZhmQKXAQpM+KLmDLwi80S6a1toqTogA.webp",
-        "Match Title": "Sydney Swans vs Richmond Football Club",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHCywNxKSG4g9JEIhggIIPof0aCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "09:15 AM | 30-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/sydney-swans-vs-richmond-tigers-australian-football-3446/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/sydney-swans-vs-richmond-tigers-australian-football-3446/2"
-            }
-        ]
-    },
-    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "ACT Brumbies",
@@ -250,6 +199,35 @@
                 "Language": "English - Fox League",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-knights-vs-eels/2"
+            }
+        ]
+    },
+    {
+        "Category": "Afl",
+        "League": "Afl",
+        "Team 1 Name": "Brisbane Lions",
+        "Team 2 Name": "Fremantle Football Club",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLAATNWHDqYIbiAgg++kDsQhzukwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3B8QieinYhuIACYgIINSGMgY+kCh0EKTPlrZgy8IvNFamtMM7GiIQA.webp",
+        "Match Title": "Brisbane Lions vs Fremantle Football Club",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSBBywKELW4gDGviBIhjICIdMg+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:15 PM | 30-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/brisbane-lions-vs-fremantle-dockers-australian-football-3447/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/brisbane-lions-vs-fremantle-dockers-australian-football-3447/2"
             }
         ]
     },
@@ -391,39 +369,10 @@
         ]
     },
     {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Brisbane Lions",
-        "Team 2 Name": "Fremantle Football Club",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLAATNWHDqYIbiAgg++kDsQhzukwQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3B8QieinYhuIACYgIINSGMgY+kCh0EKTPlrZgy8IvNFamtMM7GiIQA.webp",
-        "Match Title": "Brisbane Lions vs Fremantle Football Club",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSBBywKELW4gDGviBIhjICIdMg+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:15 PM | 30-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/brisbane-lions-vs-fremantle-dockers-australian-football-3447/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/brisbane-lions-vs-fremantle-dockers-australian-football-3447/2"
-            }
-        ]
-    },
-    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
-        "Team 1 Name": "Grand Prix Italy",
-        "Team 2 Name": "MotoGP FP1",
+        "Team 1 Name": "MotoGP Italian",
+        "Team 2 Name": "Grand Prix",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
         "Match Title": "MotoGP Italian Grand Prix 🏁",
@@ -445,6 +394,13 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/motogp-italian-grand-prix-game-122273/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/22810/1"
             }
         ]
     },
