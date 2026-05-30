@@ -17,7 +17,7 @@
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22773/1"
+                "Embed_URL": "https://embedsports.top/embed/golf/22763/1"
             }
         ]
     },
@@ -176,35 +176,6 @@
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Winnipeg Blue Bombers",
-        "Team 2 Name": "BC Lions",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD15aVWAFIQ3ECRAATXUdN9cIc-AIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTlw8cihDcQEXLpB8QiHDGMgUBCkz4ouYMhvrzRdprTAOxoiEA.webp",
-        "Match Title": "Winnipeg Blue Bombers vs BC Lions",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiE280IetxD6+BkIhggNOI1JBSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:30 AM | 30-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - CFL+",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-bc-lions-vs-winnipeg-blue-bombers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - CFL+",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-bc-lions-vs-winnipeg-blue-bombers/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Colorado Rockies",
@@ -230,20 +201,6 @@
                 "Language": "English - Rockies.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-colorado-rockies/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/colorado-rockies-vs-san-francisco-giants-baseball-178866/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/colorado-rockies-vs-san-francisco-giants-baseball-178866/2"
             },
             {
                 "Source": "golf",
@@ -280,28 +237,6 @@
                 "Language": "English - CFL+",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-calgary-stampeders-vs-edmonton-elks/2"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "Chicoutimi Saguenéens",
-        "Team 2 Name": "Everett Silvertips",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC0wwACbAADCAgg+IbiA2qD5kLj1G9BCkz4ouYMvCLzRTpmpdjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1rykIGCAEAGENxAATEIj5aQ5nIghaCFJnxRcwZeEXmjHTWmGdjREIA.webp",
-        "Match Title": "Chicoutimi Saguenéens vs Everett Silvertips",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Chicoutimi%20Saguen%C3%A9ens%20vs%20Everett%20Silvertips&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 AM | 30-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_chl-memorial-cup-knockout-stage_everett-silvertips-sagueneens-live-streaming-1332711954/1"
             }
         ]
     },
@@ -624,6 +559,20 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live-event_lux-061-live-stream/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-11-lux-061-ppv-11/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-11-lux-061-ppv-11/2"
             }
         ]
     },
@@ -1488,8 +1437,8 @@
         "Team 2 Name": "San Antonio Spurs",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Oklahoma City Thunder - San Antonio Spurs",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Oklahoma%20City%20Thunder%20-%20San%20Antonio%20Spurs&font=Oswald",
+        "Match Title": "Oklahoma City Thunder vs San Antonio Spurs",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Oklahoma%20City%20Thunder%20vs%20San%20Antonio%20Spurs&font=Oswald",
         "Match Status": "Upcoming ⏳",
         "Start Time": "06:00 AM | 31-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
