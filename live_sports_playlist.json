@@ -57,20 +57,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Mariners.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-arizona-diamondbacks-vs-seattle-mariners/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Mariners.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-arizona-diamondbacks-vs-seattle-mariners/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -92,20 +78,6 @@
         "Start Time": "08:15 AM | 30-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sportsnet LA",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-philadelphia-phillies-vs-los-angeles-dodgers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sportsnet LA",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-philadelphia-phillies-vs-los-angeles-dodgers/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -448,10 +420,10 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "Grand Prix Italy",
+        "Team 2 Name": "MotoGP FP1",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
         "Match Title": "MotoGP Italian Grand Prix 🏁",
