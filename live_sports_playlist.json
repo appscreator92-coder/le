@@ -334,6 +334,35 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "LIV Golf Korea | LIV Golf Series",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=LIV%20Golf%20Korea%20%7C%20LIV%20Golf%20Series&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "11:00 AM | 31-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/liv-golf-korea-liv-golf-series-game-162626/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/liv-golf-korea-liv-golf-series-game-162626/2"
+            }
+        ]
+    },
+    {
         "Category": "Afl",
         "League": "Afl",
         "Team 1 Name": "Melbourne Football Club",
@@ -1228,11 +1257,54 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Space City Home Network",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-milwaukee-brewers-vs-houston-astros/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Space City Home Network",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-milwaukee-brewers-vs-houston-astros/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22803/1"
+            }
+        ]
+    },
+    {
+        "Category": "Hockey",
+        "League": "Hockey",
+        "Team 1 Name": "Switzerland",
+        "Team 2 Name": "Finland",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Switzerland vs. Finland",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcbEDRBYQKYBBCIYwceNkwJMxdmwhi23TvHTxiRDp3HNlHsD5gBwhpulh6SXMWmDbCckOZ4HlGC26gIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "12:20 AM | 01-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - IIHF World Championship",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-switzerland-vs-finland/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - IIHF World Championship",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-switzerland-vs-finland/2"
             }
         ]
     },
@@ -1249,6 +1321,20 @@
         "Start Time": "12:35 AM | 01-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Rangers Sports Network",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-kansas-city-royals-vs-texas-rangers/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Rangers Sports Network",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-kansas-city-royals-vs-texas-rangers/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -1387,6 +1473,20 @@
         "Start Time": "05:20 AM | 01-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NBC",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-chicago-cubs-vs-st-louis-cardinals/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NBC",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-chicago-cubs-vs-st-louis-cardinals/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
