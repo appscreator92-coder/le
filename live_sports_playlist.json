@@ -24,65 +24,22 @@
     {
         "Category": "Fight",
         "League": "Fight",
-        "Team 1 Name": "O'Shaquie Foster",
-        "Team 2 Name": "Raymond Ford",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "O'Shaquie Foster vs. Raymond Ford",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmIdhAQQMChJBCQIYJOnyUckIgVMFc4PIgzJNEFhDaUey9sRisFvmAHCG2PMDD0kuYhcGOE5GICFoyUYI5KzEpAA.webp",
+        "Match Title": "O’Shaquie Foster vs Raymond Ford",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=O%E2%80%99Shaquie%20Foster%20vs%20Raymond%20Ford&font=Oswald",
         "Match Status": "Live 🔴",
         "Start Time": "06:00 AM | 31-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - DAZN",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-o-shaquie-foster-vs-raymond-ford/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - DAZN",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-o-shaquie-foster-vs-raymond-ford/2"
-            },
             {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live-event_o-shaquie-foster-vs-raymond-ford-live-stream/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "RAF 09: Steveson",
-        "Team 2 Name": "Romanov",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "RAF 09: Steveson vs. Romanov",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmRCBACIIIdmwgYICMBljFIYvOA0QWCmpRb5O8cvUVTKTUqwG+YAcIazb9JLmIHB9hORkCDjJRg9sBKkkA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 31-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - FOX Nation",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-raf-09-steveson-vs-romanov/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - FOX Nation",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-raf-09-steveson-vs-romanov/2"
             }
         ]
     },
@@ -105,28 +62,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_golden-knights-avalanche-live-streaming-1319198481/1"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "2026 NASCAR Cup Series at Nashville",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=2026%20NASCAR%20Cup%20Series%20at%20Nashville&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 31-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live-event_2026-nascar-cup-series-at-nashville-live-stream/1"
             }
         ]
     },
@@ -357,6 +292,35 @@
         ]
     },
     {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Canberra Raiders",
+        "Team 2 Name": "North Queensland Cowboys",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgFswYJJRDbuIACYgI+kIiN9j5iYRjAmfFFzBl4ReaIdNa60VLpA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4gAJmHAkQAxKrUgI6kIiN8QFnDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Canberra Raiders vs North Queensland Cowboys",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFHLB8tnJCG4g+IKSFMl9IRDBARjBYEgp9hs+ijAqNbD+XpZZGky0YB5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:05 PM | 31-May",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fox League",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-raiders-vs-cowboys/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fox League",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-raiders-vs-cowboys/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -490,35 +454,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Canberra Raiders",
-        "Team 2 Name": "North Queensland Cowboys",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgFswYJJRDbuIACYgI+kIiN9j5iYRjAmfFFzBl4ReaIdNa60VLpA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4gAJmHAkQAxKrUgI6kIiN8QFnDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Canberra Raiders vs North Queensland Cowboys",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFHLB8tnJCG4g+IKSFMl9IRDBARjBYEgp9hs+ijAqNbD+XpZZGky0YB5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:05 PM | 31-May",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox League",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-raiders-vs-cowboys/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox League",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-raiders-vs-cowboys/2"
             }
         ]
     },
