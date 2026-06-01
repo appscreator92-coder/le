@@ -1,23 +1,23 @@
 [
     {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "Colorado Rockies",
-        "Team 2 Name": "San Francisco Giants",
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Colorado Rockies - San Francisco Giants",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Colorado%20Rockies%20-%20San%20Francisco%20Giants&font=Oswald",
+        "Match Title": "Nascar Cup Series 2026 - Cracker Barrel 400",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Nascar%20Cup%20Series%202026%20-%20Cracker%20Barrel%20400&font=Oswald",
         "Match Status": "Live 🔴",
-        "Start Time": "01:10 AM | 01-Jun",
+        "Start Time": "02:43 PM | 31-May",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "golf",
+                "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22805/1"
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_nascar-cup-series-2026-cracker-barrel-400-live-stream/1"
             }
         ]
     },
@@ -84,35 +84,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22808/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Brazil",
-        "Team 2 Name": "Panama",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Brazil vs. Panama",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EJSzZsIYiBogUskBGbAaFEEObztMtXKazgygUJAxFlOSCXaIKYHzADhDSfbD0kuYvcFOE5JoC9oyUYE5GKhBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "03:30 AM | 01-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "Spanish - TVN Panama",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-brazil-vs-panama/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "Spanish - TVN Panama",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-brazil-vs-panama/2"
             }
         ]
     },
@@ -401,35 +372,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/cruzeiro-vs-fluminense-football-1492283/2"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Montréal Canadiens vs Carolina Hurricanes",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Montr%C3%A9al%20Canadiens%20vs%20Carolina%20Hurricanes&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 01-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_canadiens-hurricanes-live-streaming-1327224447/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_nhl-playoffs_canadiens-hurricanes-live-streaming-1327224447/2"
             }
         ]
     },
