@@ -51,28 +51,6 @@
         ]
     },
     {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Kitchener Rangers vs Everett Silvertips",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Kitchener%20Rangers%20vs%20Everett%20Silvertips&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 AM | 01-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_chl-memorial-cup-knockout-stage_kitchener-rangers-everett-silvertips-live-streaming-1334230434/1"
-            }
-        ]
-    },
-    {
         "Category": "Other",
         "League": "Other",
         "Team 1 Name": "",
@@ -129,13 +107,6 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-chicago-cubs-vs-st-louis-cardinals/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_cardinals-cubs-live-streaming-1309051638/1"
-            },
-            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -184,35 +155,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-10-cracker-barrell-400-ppv-10/2"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Husets Late Models",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Husets%20Late%20Models&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:20 AM | 01-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-09-husets-late-models-ppv-09/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-09-husets-late-models-ppv-09/2"
             }
         ]
     },
