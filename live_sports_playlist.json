@@ -51,35 +51,6 @@
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Louisville Kings",
-        "Team 2 Name": "Columbus Aviators",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Louisville Kings vs. Columbus Aviators",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EIhoghIGGJAps0ycAnymICCCwVlIYmOBDlzfZSmktZhRr0x5fMAOENseYGHpJcxeYIcJyhgLyjJRgDsAQzBFAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:00 AM | 01-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - FOX",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-louisville-kings-vs-columbus-aviators/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - FOX",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-louisville-kings-vs-columbus-aviators/2"
-            }
-        ]
-    },
-    {
         "Category": "Hockey",
         "League": "Hockey",
         "Team 1 Name": "",
@@ -192,8 +163,8 @@
         "League": "Football",
         "Team 1 Name": "Cruzeiro",
         "Team 2 Name": "Fluminense",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRNnrkGAY2bie8EVW4EurMGFz5zQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIKiAj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
         "Match Title": "Cruzeiro vs. Fluminense",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EBBBZgNMSFkRmzEAOnSmIIQvFCJIStuI7Z+qeuDiUUk4nzA+YAcIbY8t+klzELg+wnIaBFoyUYPZmmkA.webp",
         "Match Status": "Live 🔴",
@@ -213,49 +184,6 @@
                 "Language": "English - Premier Sports 2",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-cruzeiro-vs-fluminense/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/cruzeiro-vs-fluminense-football-1492283/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/cruzeiro-vs-fluminense-football-1492283/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Remo",
-        "Team 2 Name": "Sao Paulo",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikChAq65BgGNm4nvBFVuBLqzBhc+S0A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIKiH71yDAMbNxPeCKrcCXVmDC58FoA.webp",
-        "Match Title": "Remo vs Sao Paulo",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Remo%20vs%20Sao%20Paulo&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 01-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/remo-vs-sao-paulo-football-1492287/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/remo-vs-sao-paulo-football-1492287/2"
             }
         ]
     },
