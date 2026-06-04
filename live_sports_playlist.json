@@ -35,20 +35,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Angels.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-colorado-rockies-vs-los-angeles-angels/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Angels.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-colorado-rockies-vs-los-angeles-angels/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -90,35 +76,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22854/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Seattle Storm",
-        "Team 2 Name": "Phoenix Mercury",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphT8wSEDBB8wIENxAATXCAiaQiAySNGCFJn1VswZeEXmjVTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3m0kDYEjAoQ3EHxAATfbpA69xkiGWEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Seattle Storm vs Phoenix Mercury",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEL1agp5PhpBSQJfShCmQIRBakFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 AM | 04-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - USA Net",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-phoenix-mercury-vs-seattle-storm/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - USA Net",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-phoenix-mercury-vs-seattle-storm/2"
             }
         ]
     },
@@ -577,6 +534,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Prime Video",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-atlanta-dream-vs-indiana-fever/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Prime Video",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-atlanta-dream-vs-indiana-fever/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -650,6 +621,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Twins.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-kansas-city-royals-vs-minnesota-twins/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Twins.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-kansas-city-royals-vs-minnesota-twins/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -671,6 +656,20 @@
         "Start Time": "06:00 AM | 05-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - ABC",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-vegas-golden-knights-vs-carolina-hurricanes/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - ABC",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-vegas-golden-knights-vs-carolina-hurricanes/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -761,11 +760,25 @@
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgkYFGF6skIbiBIHcRkCAAmekChDwCFJnxRcwZeEXminTWmBdjREEA.webp",
         "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwgoMXMAAmwJCG4g+IRCGP6QJC6uWEYwJnxRcwZeEXminTWmBdjREEA.webp",
         "Match Title": "Minnesota Lynx vs Golden State Valkyries",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Minnesota%20Lynx%20vs%20Golden%20State%20Valkyries&font=Oswald",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EGLFYxwIcAghSECrJAoVIRAuA1szeSCEgYaiYcPYVOyQYt8wA4Qx0pgYeklzFnguwnIyBzoyUYHayzLJAA.webp",
         "Match Status": "Upcoming ⏳",
         "Start Time": "07:00 AM | 05-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Prime Video",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-golden-state-valkyries-vs-minnesota-lynx/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Prime Video",
+                "Quality": "SD",
+                "Embed_URL": "https://embedsports.top/embed/admin/ppv-golden-state-valkyries-vs-minnesota-lynx/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
