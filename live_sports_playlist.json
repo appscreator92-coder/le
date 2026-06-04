@@ -268,46 +268,18 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "AEW: Wednesday Night Dynamite",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICcmISAggYIGsBk0QKEFkmTgExVmBjFY5VPlSpYgyERMVYiXNkpgfMAOENseO-SS5itwQ4TkhzK6MlGAOaoEQQA.webp",
+        "Match Title": "AEW Dynamite",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=AEW%20Dynamite&font=Oswald",
         "Match Status": "Live 🔴",
         "Start Time": "06:00 AM | 04-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TBS",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-aew-wednesday-night-dynamite/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TBS",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-aew-wednesday-night-dynamite/2"
-            },
             {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live-event_aew-dynamite-live-stream/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/aew-wednesday-night-dynamite-aew-1/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/aew-wednesday-night-dynamite-aew-1/2"
             }
         ]
     },
@@ -351,20 +323,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_cubs-athletics-live-streaming-1309313376/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/chicago-cubs-vs-athletics-baseball-178936/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/chicago-cubs-vs-athletics-baseball-178936/2"
             },
             {
                 "Source": "golf",
