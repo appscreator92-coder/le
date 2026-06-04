@@ -183,64 +183,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Slovenia",
-        "Team 2 Name": "Cyprus",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkQCADCG5gQIEpt0GcKEDBDGdAExAQCFJnxRcwZeEXmjHTWmGdjREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4h4CYGDAgQAExDcQJHSBQhVZnaphGCFJnxRcwZdfXminTWltFS6QA.webp",
-        "Match Title": "Slovenia vs Cyprus",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EAMpDgEEDRkgYIRJKYzmUkNJTrKOkHojYNwSdJrMQKOYgMjgfMAOENseO-SS5iWwQ4TllroyUYA5SahBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:00 PM | 04-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sky Sport 2 NZ",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-slovenia-vs-cyprus/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sky Sport 2 NZ",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-slovenia-vs-cyprus/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "N.Ireland",
-        "Team 2 Name": "Guinea",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjjzuReqG4gSIbbt2JtIPToIUmfFFzBl4ReaOtNaYW2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLBIwZAYRghuIPiAi4dIbTkMATECgIUmfFF3Xl680Q6a0w6saIhA.webp",
-        "Match Title": "N.Ireland vs Guinea",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EGKEgUIRBBBYxICfJjBZUmhWYgmi6buIhZpRJQk6z2bZO0pgfMAOENseO-SS5itwQ4TkhzK6MlGAOqoEQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:00 PM | 04-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - BBC Two Northern Ireland",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-northern-ireland-vs-guinea/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - BBC Two Northern Ireland",
-                "Quality": "SD",
-                "Embed_URL": "https://embedsports.top/embed/admin/ppv-northern-ireland-vs-guinea/2"
-            }
-        ]
-    },
-    {
         "Category": "Other",
         "League": "Other",
         "Team 1 Name": "",
@@ -641,6 +583,49 @@
         ]
     },
     {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Leeds Rhinos",
+        "Team 2 Name": "St Helens",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAUxDFBWERAExC2AmGAOHmDSvTAE4xyBjYVlYMbYAIbB2bbJmaCKw7AnQgBIFCGZycMZQVjB8wnlTYJIXfjx10woyuQhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAUxAQxQKwiIAmIWwEwwhw8wa16YAnGBQMbBsrBjbBcwDu2yYWgysOwJ0eEChAs5OGCAUFYwAsN7V2CSNwG8d9MKKoUIQA.webp",
+        "Match Title": "Leeds Rhinos vs St Helens",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Leeds%20Rhinos%20vs%20St%20Helens&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:30 AM | 05-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/leeds-rhinos-vs-st-helens-game-184842/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/leeds-rhinos-vs-st-helens-game-184842/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/leeds-rhinos-vs-st-helens-game-184842/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/leeds-rhinos-vs-st-helens-game-184842/4"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -831,49 +816,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22902/1"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Leeds Rhinos",
-        "Team 2 Name": "St Helens",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgUYbmD5gAJrpDcQEIyD4hzZkqZOMKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCVgYQbT4huIbTBAATI7hAGQeswQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Leeds Rhinos vs St Helens",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiEQp+wKSBQhuIDXpIhz5nBo0KmSCn2Gz6KMCu1s35ellnamtGBuYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "01:00 AM | 05-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/leeds-rhinos-vs-st-helens-game-184842/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/leeds-rhinos-vs-st-helens-game-184842/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/leeds-rhinos-vs-st-helens-game-184842/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/leeds-rhinos-vs-st-helens-game-184842/4"
             }
         ]
     },
