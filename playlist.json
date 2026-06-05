@@ -32,22 +32,6 @@
         ]
     },
     {
-        "Category": "BOXING",
-        "League": "BOXING",
-        "Team 1 Name": "Edward Vazquez",
-        "Team 2 Name": "Daniel Lugo",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Edward Vazquez VS Daniel Lugo",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Edward%20Vazquez%20VS%20Daniel%20Lugo&font=Oswald",
-        "Match Status": "Upcoming",
-        "Start Time": "03:30 AM 06-06-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id===QMxETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
         "Category": "MLB",
         "League": "MLB",
         "Team 1 Name": "Philadelphia Phillies",
@@ -56,7 +40,7 @@
         "Team 2 Logo": "",
         "Match Title": "Philadelphia Phillies VS Chicago White Sox",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Philadelphia%20Phillies%20VS%20Chicago%20White%20Sox&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "04:40 AM 06-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -72,7 +56,7 @@
         "Team 2 Logo": "",
         "Match Title": "Detroit Tigers VS Seattle Mariners",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Detroit%20Tigers%20VS%20Seattle%20Mariners&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "04:40 AM 06-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
@@ -157,6 +141,22 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
             "https://data-2.vercel.app/?id===gMwcTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+        ]
+    },
+    {
+        "Category": "BOXING",
+        "League": "BOXING",
+        "Team 1 Name": "Edward Vazquez",
+        "Team 2 Name": "Daniel Lugo",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Edward Vazquez VS Daniel Lugo",
+        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Edward%20Vazquez%20VS%20Daniel%20Lugo&font=Oswald",
+        "Match Status": "Upcoming",
+        "Start Time": "05:30 AM 06-06-2026",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Stream URL": [
+            "https://data-2.vercel.app/?id===QMxETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
         ]
     },
     {
