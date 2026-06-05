@@ -205,56 +205,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Nordic Darts Masters 2026  🎯",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Nordic%20Darts%20Masters%202026%20%20%F0%9F%8E%AF&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:00 PM | 05-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/nordic-darts-masters-2026-darts-1/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/nordic-darts-masters-2026-darts-1/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/nordic-darts-masters-2026-darts-1/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/nordic-darts-masters-2026-darts-1/4"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/nordic-darts-masters-2026-darts-1/5"
-            }
-        ]
-    },
-    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "Yorkshire Vikings",
@@ -325,11 +275,47 @@
                 "Embed_URL": "https://embedsports.top/embed/delta/live_mlb_cubs-giants-live-streaming-1309551138/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/chicago-cubs-vs-san-francisco-giants-baseball-178962/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22885/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Edward Vazquez",
+        "Team 2 Name": "Daniel Lugo",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Vazquez vs Lugo",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Vazquez%20vs%20Lugo&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:30 AM | 06-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_vazquez-vs-lugo-live-stream/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/golf/22930/1"
             }
         ]
     },
@@ -467,35 +453,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Edward Vazquez",
-        "Team 2 Name": "Daniel Lugo",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Vazquez vs Lugo",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Vazquez%20vs%20Lugo&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "03:30 AM | 06-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live-event_vazquez-vs-lugo-live-stream/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/golf/22930/1"
             }
         ]
     },
