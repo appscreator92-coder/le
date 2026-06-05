@@ -27,13 +27,6 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-atlanta-dream-vs-indiana-fever/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/delta/live_wnba_fever-atlanta-live-streaming-1210764024/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -394,6 +387,64 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Ramirez vs Richards",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Ramirez%20vs%20Richards&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 05-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_ramirez-vs-richards-live-stream/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Fowler",
+        "Team 2 Name": "Johnson",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "UFC BJJ 9: Fowler vs Johnson",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=UFC%20BJJ%209%3A%20Fowler%20vs%20Johnson&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 05-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live-event_ufc-bjj-9-fowler-vs-johnson-live-stream/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-05-ufc-bjj-9-fowler-v-johnson-ppv-05/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-05-ufc-bjj-9-fowler-v-johnson-ppv-05/2"
+            }
+        ]
+    },
+    {
         "Category": "Other",
         "League": "Other",
         "Team 1 Name": "",
@@ -626,35 +677,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/echo/tna-impact-tna-1/2"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "UFC BJJ 9 Fowler v Johnson",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=UFC%20BJJ%209%20Fowler%20v%20Johnson&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 AM | 05-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-05-ufc-bjj-9-fowler-v-johnson-ppv-05/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedsports.top/embed/echo/ppv-event-05-ufc-bjj-9-fowler-v-johnson-ppv-05/2"
             }
         ]
     },
