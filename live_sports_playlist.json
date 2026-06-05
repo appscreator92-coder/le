@@ -565,6 +565,35 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Puerto Rico",
+        "Team 2 Name": "Saudi Arabia",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIMin4hEEENxB89IY7v2IcKEABMCFJn01swZeEXmjNTWmGdjREIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwgo4PrDDcQOkiBRrdq-XyOMKTPii5gy8IvNE2mtMHbGiIQA.webp",
+        "Match Title": "Puerto Rico vs Saudi Arabia",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Puerto%20Rico%20vs%20Saudi%20Arabia&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:00 AM | 06-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/puerto-rico-vs-saudi-arabia-football-1546497/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/echo/puerto-rico-vs-saudi-arabia-football-1546497/2"
+            }
+        ]
+    },
+    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "New York Yankees",
