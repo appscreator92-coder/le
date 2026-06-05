@@ -180,8 +180,8 @@
         "League": "Cricket",
         "Team 1 Name": "England",
         "Team 2 Name": "New Zealand",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0ICCERFV9cgwDGzST3hiq3Al1ZgwufFaA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0ICCAAmIbPXIMBzYGB7xxVCYQaswWtrghA.webp",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
         "Match Title": "England vs. New Zealand",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWMAY20mHlFmoBNDgDgBTSTHeBZ6edc8J4IICc6EFhBMJE4BAoghc4mJAwQIYDRAopk7aQURlsxCmbAhIRIazMQh4qb5gBwhtjzAw9JLgeDPLByyCgKmjJRgzjJmEEA.webp",
         "Match Status": "Live 🔴",
@@ -708,6 +708,13 @@
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-hungary-vs-finland/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_hungary-finland-live-streaming-1337545116/1"
+            },
+            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -799,6 +806,13 @@
                 "Language": "English - Sky Sport 6 NZ",
                 "Quality": "SD",
                 "Embed_URL": "https://embedsports.top/embed/admin/ppv-azerbaijan-vs-malta/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_azerbaijan-malta-live-streaming-1337546115/1"
             }
         ]
     },
@@ -878,6 +892,28 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedsports.top/embed/golf/22885/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Paraguay",
+        "Team 2 Name": "Nicaragua",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMxAdzAATEBBDcQJQyER6DKfSAvLCMYEz4ouYMvCLzRTprTAuxoiCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIwQ8MOHkQQ3EH10gjOvYkRGUBCkz4ouYMhvrzRdprTAOxoiEA.webp",
+        "Match Title": "Paraguay vs Nicaragua",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLBJsIAdJDcNIY1N1GYBkChAkCwbTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:15 AM | 06-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedsports.top/embed/delta/live_int-friendly-games_paraguay-nicaragua-live-streaming-1337547114/1"
             }
         ]
     },
