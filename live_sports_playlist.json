@@ -383,6 +383,28 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Armenia",
+        "Team 2 Name": "Kazakhstan",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAh+zMGRyruIPiBggSIFCAghdAExCI+BCkztdN5evNEpgTWmE1jREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxAh4YAQBNgSEDBDcQJI7hAoQEC2ZOaCFJnxRcwZdfXminTWmBdjREEA.webp",
+        "Match Title": "Armenia vs Kazakhstan",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGAAGbWDJ8wG7iD4mQEEFJAoQiGJfMFgSCn2Gz6KPWxRc95eixZXyZaMG96UQggA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 PM | 06-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedstreams.top/embed/delta/live_int-friendly-games_armenia-kazakhstan-live-streaming-1337589072/1"
+            }
+        ]
+    },
+    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "",
@@ -426,24 +448,31 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Armenia",
-        "Team 2 Name": "Kazakhstan",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAh+zMGRyruIPiBggSIFCAghdAExCI+BCkztdN5evNEpgTWmE1jREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxAh4YAQBNgSEDBDcQJI7hAoQEC2ZOaCFJnxRcwZdfXminTWmBdjREEA.webp",
-        "Match Title": "Armenia vs Kazakhstan",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGAAGbWDJ8wG7iD4mQEEFJAoQiGJfMFgSCn2Gz6KPWxRc95eixZXyZaMG96UQggA.webp",
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Bath Rugby",
+        "Team 2 Name": "Leicester Tigers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIh6YEHByJuIVRBAATIyFMoQiY3wIUm1rmDLwi80SmBNaYR2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwggSIFMCYhgYENzW4QiHAZQhVqiYRhb+mtmDLwi80Zqa0wTsaIhA.webp",
+        "Match Title": "Bath Rugby vs Leicester Tigers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEN2wh6iGPw0g+IEiFNGzIKSBS4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
         "Match Status": "Live 🔴",
-        "Start Time": "08:00 PM | 06-Jun",
+        "Start Time": "08:15 PM | 06-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
+                "Source": "echo",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embedstreams.top/embed/delta/live_int-friendly-games_armenia-kazakhstan-live-streaming-1337589072/1"
+                "Embed_URL": "https://embedstreams.top/embed/echo/bath-vs-leicester-tigers-rugby-50129/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embedstreams.top/embed/echo/bath-vs-leicester-tigers-rugby-50129/2"
             }
         ]
     },
@@ -581,78 +610,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedstreams.top/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Exeter Chiefs",
-        "Team 2 Name": "Saracens",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRsQ6gCZgQdENxAaDuECnUg+ZnBMIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1EAGENxAoQiHJr4gSIYweMATLSAMQCFJnxRcwZeEXmjHTWmGdjREIA.webp",
-        "Match Title": "Exeter Chiefs vs Saracens",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXsDAqx3ELr4gSIYwZMgpIFOYLAkFPsNn0UWtii5by9LLPdNaYK70ohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:15 PM | 06-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedstreams.top/embed/echo/exeter-chiefs-vs-saracens-rugby-50130/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedstreams.top/embed/echo/exeter-chiefs-vs-saracens-rugby-50130/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedstreams.top/embed/echo/exeter-chiefs-vs-saracens-rugby-50130/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedstreams.top/embed/echo/exeter-chiefs-vs-saracens-rugby-50130/4"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Bath Rugby",
-        "Team 2 Name": "Leicester Tigers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIh6YEHByJuIVRBAATIyFMoQiY3wIUm1rmDLwi80SmBNaYR2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwggSIFMCYhgYENzW4QiHAZQhVqiYRhb+mtmDLwi80Zqa0wTsaIhA.webp",
-        "Match Title": "Bath Rugby vs Leicester Tigers",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEN2wh6iGPw0g+IEiFNGzIKSBS4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:15 PM | 06-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedstreams.top/embed/echo/bath-vs-leicester-tigers-rugby-50129/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedstreams.top/embed/echo/bath-vs-leicester-tigers-rugby-50129/2"
             }
         ]
     },
