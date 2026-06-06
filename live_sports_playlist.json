@@ -66,35 +66,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "The Memorial Tournament presented by Workday | PGA Tour",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=The%20Memorial%20Tournament%20presented%20by%20Workday%20%7C%20PGA%20Tour&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "09:30 PM | 06-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/the-memorial-tournament-presented-by-workday-pga-tour-pga-526234/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/the-memorial-tournament-presented-by-workday-pga-tour-pga-526234/2"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "Josh Padley",
@@ -134,6 +105,28 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/22970/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "East vs West 24",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuGYKwBNgBTFAViPzAGMFZg0wBOaeU4eO4HNcgw4EyCk6cAhv2BjKRYXwERM2XL1aEK1eLXpMoLMu25cJNdqp2ZVvfs3QgRISvcd4Qzu85QvHdyiTRoLJA4MIBC+aCDkDHRhojj8rEi0lEKcYKoaEMBRfEJ6WGnAmXwQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "11:00 PM | 06-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/admin-east-vs-west-24/1"
             }
         ]
     },
@@ -319,52 +312,24 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Zuffa Boxing 7 Billam-Smith",
-        "Team 2 Name": "Rozicki",
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Zuffa Boxing 7 Billam-Smith vs Rozicki",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDFQSIXbzB6QWI7pAxNIaSAimsLJBTvtR4lGFUoe78o2pzP+KzAYO7iWkA.webp",
+        "Match Title": "USC Trojans vs North Carolina Tar Heels",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=USC%20Trojans%20vs%20North%20Carolina%20Tar%20Heels&font=Oswald",
         "Match Status": "Live 🔴",
         "Start Time": "12:00 AM | 07-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-03-billam-smith-v-rozicki-ppv-03/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-03-billam-smith-v-rozicki-ppv-03/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-03-billam-smith-v-rozicki-ppv-03/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-03-billam-smith-v-rozicki-ppv-03/4"
-            },
-            {
-                "Source": "golf",
+                "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/22969/1"
+                "Embed_URL": "https://embed.st/embed/delta/live_ncaa-division-i-championship_usc-trojans-north-carolina-tar-heels-live-streaming-1338393267/1"
             }
         ]
     },
@@ -391,28 +356,6 @@
         ]
     },
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "USC Trojans vs North Carolina Tar Heels",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=USC%20Trojans%20vs%20North%20Carolina%20Tar%20Heels&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:00 AM | 07-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_ncaa-division-i-championship_usc-trojans-north-carolina-tar-heels-live-streaming-1338393267/1"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Minnesota Twins",
@@ -425,27 +368,6 @@
         "Start Time": "12:10 AM | 07-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_twins-royals-live-streaming-1309694994/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_twins-royals-live-streaming-1309694994/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/minnesota-twins-vs-kansas-city-royals-baseball-178965/1"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -658,92 +580,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Australia",
-        "Team 2 Name": "Switzerland",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksIYg+YFGF4kQ3Nbv2IAJiB0gQMcwQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzA9swAAwgAJppDcdhg3xCmYpkBFMEKTPii5gy8IvNEOmtME7GiIQA.webp",
-        "Match Title": "Switzerland vs Australia",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Switzerland%20vs%20Australia&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 07-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_int-friendly-games_switzerland-australia-live-streaming-1337595066/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/switzerland-vs-australia-football-1542181/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/switzerland-vs-australia-football-1542181/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/switzerland-vs-australia-football-1542181/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/switzerland-vs-australia-football-1542181/4"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Castellón",
-        "Team 2 Name": "Almeria",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIKopAR65BgGNm4nvBFVuBLqzBhc+S0A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCoh49cg0XNxPeCKrcCXVmDC58FoA.webp",
-        "Match Title": "Castellón vs Almeria",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Castell%C3%B3n%20vs%20Almeria&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 07-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/castellon-vs-almeria-football-1548052/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/castellon-vs-almeria-football-1548052/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/castellon-vs-almeria-football-1548052/3"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Toronto Blue Jays",
@@ -783,35 +619,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/22919/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "FCC 46",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=FCC%2046&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:30 AM | 07-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-07-fcc-46-ppv-07/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-07-fcc-46-ppv-07/2"
             }
         ]
     },
@@ -1189,57 +996,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "AMA Supercross Championship Sacramento",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=AMA%20Supercross%20Championship%20Sacramento&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "03:00 AM | 07-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-ama-supercross-championship-sacramento-ppv-13/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-ama-supercross-championship-sacramento-ppv-13/2"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Ole Miss Rebels vs Auburn Tigers",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Ole%20Miss%20Rebels%20vs%20Auburn%20Tigers&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "03:00 AM | 07-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_ncaa-division-i-championship_ole-miss-rebels-auburn-tigers-live-streaming-1338535125/1"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "UFC Fight Night 278 Muhammad",
@@ -1267,32 +1023,11 @@
                 "Embed_URL": "https://embed.st/embed/delta/live-event_ufc-fight-night-muhammad-vs-bonfim-live-stream/1"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-ufc-fight-night-muhammad-v-bonfim-ppv-01/1"
-            },
-            {
-                "Source": "echo",
+                "Source": "delta",
                 "Stream_No": 2,
-                "Language": "",
+                "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-ufc-fight-night-muhammad-v-bonfim-ppv-01/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-ufc-fight-night-muhammad-v-bonfim-ppv-01/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-ufc-fight-night-muhammad-v-bonfim-ppv-01/4"
+                "Embed_URL": "https://embed.st/embed/delta/live-event_ufc-fight-night-muhammad-vs-bonfim-live-stream/2"
             },
             {
                 "Source": "golf",
@@ -1300,6 +1035,57 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/22968/1"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Ole Miss Rebels vs Auburn Tigers",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Ole%20Miss%20Rebels%20vs%20Auburn%20Tigers&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:00 AM | 07-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_ncaa-division-i-championship_ole-miss-rebels-auburn-tigers-live-streaming-1338535125/1"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "AMA Supercross Championship Sacramento",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=AMA%20Supercross%20Championship%20Sacramento&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:00 AM | 07-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-ama-supercross-championship-sacramento-ppv-13/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-ama-supercross-championship-sacramento-ppv-13/2"
             }
         ]
     },
@@ -1454,6 +1240,13 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "Spanish - ESPN Deportes",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/admin-brazil-vs-egypt/1"
+            },
+            {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1517,6 +1310,13 @@
         "Start Time": "04:00 AM | 07-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_atlanta-mystics-live-streaming-1210821966/1"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
