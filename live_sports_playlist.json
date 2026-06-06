@@ -174,49 +174,6 @@
         ]
     },
     {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Brisbane Broncos",
-        "Team 2 Name": "Gold Coast Titans",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3pMkIACZgyfEN00gIBxEd0bDIEAQpM+KLtvL15o+01phtY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBRuYGbBDbuIACar9IRBBB8zuVQQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Brisbane Broncos vs Gold Coast Titans",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNih64QKMCRDcQfEFJBn9hxDB0gSBYEgp9hs+rpWa2e8vSyzNTLRgemKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "03:30 PM | 06-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedstreams.top/embed/echo/brisbane-broncos-vs-gold-coast-titans-game-576373/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedstreams.top/embed/echo/brisbane-broncos-vs-gold-coast-titans-game-576373/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedstreams.top/embed/echo/brisbane-broncos-vs-gold-coast-titans-game-576373/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embedstreams.top/embed/echo/brisbane-broncos-vs-gold-coast-titans-game-576373/4"
-            }
-        ]
-    },
-    {
         "Category": "Afl",
         "League": "Afl",
         "Team 1 Name": "West Coast Eagles",
@@ -293,6 +250,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedstreams.top/embed/golf/22878/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedstreams.top/embed/golf/22878/2"
             }
         ]
     },
@@ -872,6 +836,28 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
+        "Match Title": "Chris Billam-Smith vs Ryan Rozicki",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Chris%20Billam-Smith%20vs%20Ryan%20Rozicki&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "11:00 PM | 06-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedstreams.top/embed/delta/live-event_chris-billam-smith-vs-ryan-rozicki-live-stream/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
         "Match Title": "Dalton Smith vs Alberto Puello",
         "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Dalton%20Smith%20vs%20Alberto%20Puello&font=Oswald",
         "Match Status": "Upcoming ⏳",
@@ -1007,6 +993,28 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embedstreams.top/embed/golf/22938/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Ricardo Rafael Sandoval vs Galal Yafai",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Ricardo%20Rafael%20Sandoval%20vs%20Galal%20Yafai&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "12:00 AM | 07-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embedstreams.top/embed/delta/live-event_ricardo-rafael-sandoval-vs-galal-yafai-live-stream/1"
             }
         ]
     },
