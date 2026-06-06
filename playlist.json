@@ -1,53 +1,5 @@
 [
     {
-        "Category": "WNBA",
-        "League": "WNBA",
-        "Team 1 Name": "Los Angeles Sparks",
-        "Team 2 Name": "Dallas Wings",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Los Angeles Sparks VS Dallas Wings",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Los%20Angeles%20Sparks%20VS%20Dallas%20Wings&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "08:00 AM 06-06-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id===AMxcTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
-        "Category": "WNBA",
-        "League": "WNBA",
-        "Team 1 Name": "Portland Fire",
-        "Team 2 Name": "Phoenix Mercury",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Portland Fire VS Phoenix Mercury",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Portland%20Fire%20VS%20Phoenix%20Mercury&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "08:00 AM 06-06-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id===QNxcTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
-        "Category": "MLB",
-        "League": "MLB",
-        "Team 1 Name": "Los Angeles Dodgers",
-        "Team 2 Name": "Los Angeles Angels",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Los Angeles Dodgers VS Los Angeles Angels",
-        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Los%20Angeles%20Dodgers%20VS%20Los%20Angeles%20Angels&font=Oswald",
-        "Match Status": "Live",
-        "Start Time": "08:10 AM 06-06-2026",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Stream URL": [
-            "https://data-2.vercel.app/?id===wMxYTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
-        ]
-    },
-    {
         "Category": "FORMULA 1",
         "League": "FORMULA 1",
         "Team 1 Name": "Monaco Grand Prix",
@@ -56,11 +8,28 @@
         "Team 2 Logo": "",
         "Match Title": "Monaco Grand Prix VS Practice 3",
         "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Monaco%20Grand%20Prix%20VS%20Practice%203&font=Oswald",
-        "Match Status": "Upcoming",
+        "Match Status": "Live",
         "Start Time": "04:30 PM 06-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
-            "https://data-2.vercel.app/?id===gNwETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+            "https://data-2.vercel.app/?id===gNwETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa",
+            "https://data-2.vercel.app/?id===AMzETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+        ]
+    },
+    {
+        "Category": "INTERNATIONAL FRIENDLY",
+        "League": "INTERNATIONAL FRIENDLY",
+        "Team 1 Name": "Belgium",
+        "Team 2 Name": "Tunisia",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Belgium VS Tunisia",
+        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Belgium%20VS%20Tunisia&font=Oswald",
+        "Match Status": "Upcoming",
+        "Start Time": "07:00 PM 06-06-2026",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Stream URL": [
+            "https://data-2.vercel.app/?id===wNxETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
         ]
     },
     {
@@ -92,7 +61,8 @@
         "Start Time": "10:00 PM 06-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
-            "https://data-2.vercel.app/?id===gNwETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+            "https://data-2.vercel.app/?id===gNwETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa",
+            "https://data-2.vercel.app/?id===AMzETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
         ]
     },
     {
@@ -125,6 +95,22 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
             "https://data-2.vercel.app/?id===QOwYTPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+        ]
+    },
+    {
+        "Category": "INTERNATIONAL FRIENDLY",
+        "League": "INTERNATIONAL FRIENDLY",
+        "Team 1 Name": "Portugal",
+        "Team 2 Name": "Chile",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Portugal VS Chile",
+        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Portugal%20VS%20Chile&font=Oswald",
+        "Match Status": "Upcoming",
+        "Start Time": "11:45 PM 06-06-2026",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Stream URL": [
+            "https://data-2.vercel.app/?id===AOxETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
         ]
     },
     {
@@ -256,6 +242,22 @@
         ]
     },
     {
+        "Category": "INTERNATIONAL FRIENDLY",
+        "League": "INTERNATIONAL FRIENDLY",
+        "Team 1 Name": "England",
+        "Team 2 Name": "New Zealand",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "England VS New Zealand",
+        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=England%20VS%20New%20Zealand&font=Oswald",
+        "Match Status": "Upcoming",
+        "Start Time": "02:00 AM 07-06-2026",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Stream URL": [
+            "https://data-2.vercel.app/?id===QOxETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+        ]
+    },
+    {
         "Category": "MLB",
         "League": "MLB",
         "Team 1 Name": "Philadelphia Phillies",
@@ -380,7 +382,23 @@
         "Start Time": "04:00 AM 07-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
-            "https://data-2.vercel.app/?id===QNyETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+            "https://data-2.vercel.app/?id===QNxETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+        ]
+    },
+    {
+        "Category": "INTERNATIONAL FRIENDLY",
+        "League": "INTERNATIONAL FRIENDLY",
+        "Team 1 Name": "Venezuela",
+        "Team 2 Name": "Türkiye",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Venezuela VS Türkiye",
+        "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Venezuela%20VS%20T%C3%BCrkiye&font=Oswald",
+        "Match Status": "Upcoming",
+        "Start Time": "04:00 AM 07-06-2026",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Stream URL": [
+            "https://data-2.vercel.app/?id===AMyETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
         ]
     },
     {
@@ -524,7 +542,8 @@
         "Start Time": "07:00 PM 07-06-2026",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Stream URL": [
-            "https://data-2.vercel.app/?id===gNwETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
+            "https://data-2.vercel.app/?id===gNwETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa",
+            "https://data-2.vercel.app/?id===AMzETPkh2PwhGcug2Y0VmZvU2YyV3bz9yZy9mLkhGZlJWbl9yL6MHc0RHa"
         ]
     },
     {
