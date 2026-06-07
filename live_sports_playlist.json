@@ -181,35 +181,6 @@
         ]
     },
     {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Essendon Bombers",
-        "Team 2 Name": "Carlton Blues",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQ2euQYBjZsJ7wxVcYQaswYXPn1A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQUuuQYBjZsJ7wxVcYQaswYXPn1A.webp",
-        "Match Title": "Essendon Bombers vs Carlton Blues",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Essendon%20Bombers%20vs%20Carlton%20Blues&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "03:20 PM | 07-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/essendon-bombers-vs-carlton-blues-australian-football-3457/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/essendon-bombers-vs-carlton-blues-australian-football-3457/2"
-            }
-        ]
-    },
-    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "England",
@@ -502,6 +473,20 @@
                 "Language": "English - Sky Sport Select NZ",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-liechtenstein-vs-cyprus/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/liechtenstein-vs-cyprus-football-1544362/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/liechtenstein-vs-cyprus-football-1544362/2"
             }
         ]
     },
@@ -617,6 +602,27 @@
                 "Language": "English - Sky Sport 9 NZ",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-denmark-vs-ukraine/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/denmark-vs-ukraine-football-1543830/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/denmark-vs-ukraine-football-1543830/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/denmark-vs-ukraine-football-1543830/3"
             }
         ]
     },
@@ -682,6 +688,13 @@
                 "Language": "English - YES",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-new-york-yankees/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/new-york-yankees-vs-boston-red-sox-baseball-178986/1"
             },
             {
                 "Source": "golf",
@@ -754,6 +767,13 @@
                 "Language": "English - Sportsnet",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-toronto-blue-jays/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/toronto-blue-jays-vs-baltimore-orioles-baseball-178981/1"
             },
             {
                 "Source": "golf",
@@ -833,6 +853,42 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/22958/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "York United",
+        "Team 2 Name": "Forge",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIfopDx65BgGNm4nvBFVuBLqzBhc+S0A.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEIRSBj1yDAMbNxPeCKrcCXVmDC58FoA.webp",
+        "Match Title": "York United vs Forge",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=York%20United%20vs%20Forge&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "12:00 AM | 08-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/york-united-vs-forge-football-1517296/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/york-united-vs-forge-football-1517296/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/york-united-vs-forge-football-1517296/3"
             }
         ]
     },
@@ -965,6 +1021,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-st-louis-cardinals/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/stlouis-cardinals-vs-cincinnati-reds-baseball-178983/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1035,6 +1098,63 @@
                 "Language": "English - Sky Sport 9 NZ",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-croatia-vs-slovenia/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/croatia-vs-slovenia-football-1512768/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/croatia-vs-slovenia-football-1512768/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/croatia-vs-slovenia-football-1512768/3"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Las Palmas",
+        "Team 2 Name": "Málaga",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksK7gUDEN00gAJtr0QQhxHpiaCFJn3VswZeEXmj1TWmDtjREIA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJxuYFGAAm2ENxAQQfEIhIgYuEChBnGFJnxRcwZeEXminTWmBdjREEA.webp",
+        "Match Title": "Las Palmas vs Málaga",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHCjC8ADCCgQQ3EHxAlTe3CBggUIRPALAkFPsNn1NKlFzBl4RLFlvJlowXzFRCCA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 08-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/las-palmas-vs-malaga-football-1548053/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/las-palmas-vs-malaga-football-1548053/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/las-palmas-vs-malaga-football-1548053/3"
             }
         ]
     },
@@ -1064,6 +1184,34 @@
                 "Language": "English - ITV4",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-morocco-vs-norway/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/morocco-vs-norway-football-1540950/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/morocco-vs-norway-football-1540950/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/morocco-vs-norway-football-1540950/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/morocco-vs-norway-football-1540950/4"
             }
         ]
     },
@@ -1093,6 +1241,20 @@
                 "Language": "English - Sky Sport 3 NZ",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-greece-vs-italy/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/greece-vs-italy-football-1540590/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/greece-vs-italy-football-1540590/2"
             }
         ]
     },
@@ -1259,6 +1421,20 @@
                 "Language": "German - SPORTDIGITAL FUSSBALL",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-ecuador-vs-guatemala/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ecuador-vs-guatemala-football-1542182/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ecuador-vs-guatemala-football-1542182/2"
             }
         ]
     },
