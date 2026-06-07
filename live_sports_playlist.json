@@ -1102,6 +1102,28 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "USAC Silver Crowns WWT 🔥",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=USAC%20Silver%20Crowns%20WWT%20%F0%9F%94%A5&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:45 AM | 08-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-02-usac-silver-crowns-wwt-ppv-02/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -1239,24 +1261,24 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
         "Team 1 Name": "",
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "USAC Silver Crowns WWT 🔥",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=USAC%20Silver%20Crowns%20WWT%20%F0%9F%94%A5&font=Oswald",
+        "Match Title": "2026 NASCAR Cup Series at Michigan",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=2026%20NASCAR%20Cup%20Series%20at%20Michigan&font=Oswald",
         "Match Status": "Upcoming ⏳",
-        "Start Time": "01:45 AM | 08-Jun",
+        "Start Time": "02:00 AM | 08-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "echo",
+                "Source": "delta",
                 "Stream_No": 1,
-                "Language": "",
+                "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-02-usac-silver-crowns-wwt-ppv-02/1"
+                "Embed_URL": "https://embed.st/embed/delta/live-event_2026-nascar-cup-series-at-michigan-live-stream/1"
             }
         ]
     },
