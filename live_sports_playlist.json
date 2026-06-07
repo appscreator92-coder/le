@@ -95,28 +95,6 @@
         ]
     },
     {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "2026 Truck Series at Michigan",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=2026%20Truck%20Series%20at%20Michigan&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:30 AM | 07-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_2026-truck-series-at-michigan-live-stream/1"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Philadelphia Phillies",
@@ -242,9 +220,44 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English",
+                "Language": "English - Paramount+",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/admin-ufc-fight-night-278-muhammad-vs-bonfim/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-muhammad-vs-bonfim/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-muhammad-vs-bonfim/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "Spanish - Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-muhammad-vs-bonfim/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "Spanish - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-muhammad-vs-bonfim/4"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 5,
+                "Language": "Portuguese - Paramount+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-muhammad-vs-bonfim/5"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 6,
+                "Language": "Portuguese - Paramount+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-muhammad-vs-bonfim/6"
             },
             {
                 "Source": "delta",
@@ -381,35 +394,6 @@
                 "Language": "English - ITVX",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-brazil-vs-egypt/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Venezuela",
-        "Team 2 Name": "Türkiye",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Venezuela vs. Türkiye",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEMJAwQEECFJTgiGKWARsEkFmDjpAYwUHhSnRtkoQKU-DVqZlq-zCCRTbPTCFgSXHqtDnVnVjMisCEzBnWzIIIA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:00 AM | 07-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - FOX Soccer Plus",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-venezuela-vs-t-rkiye/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - FOX Soccer Plus",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-venezuela-vs-t-rkiye/2"
             }
         ]
     },
