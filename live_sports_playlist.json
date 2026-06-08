@@ -1,34 +1,5 @@
 [
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Super Series Pool  🎱",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Super%20Series%20Pool%20%20%F0%9F%8E%B1&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:00 PM | 08-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/super-series-pool-pick3/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/super-series-pool-pick3/2"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "WWE Monday Night",
@@ -74,35 +45,6 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Netherlands",
-        "Team 2 Name": "Uzbekistan",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDdYIGKGwgIqkCRAoQiPiDOnuemAQpM+KLmDLwi80Q6a0wTsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIhR8vmCSkQ3NSBQg+BkBBCIAJiBhqCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Netherlands vs Uzbekistan",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKuJBZsIYSEQ0SsqSpoSUMmMHjAa0shFIyAxiGOkQSlFN0gtVDfzCCRTbPTCFgSXMY1DnVkNhIw0CbXJnYEMDIA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:45 AM | 09-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox Soccer Plus",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-netherlands-vs-uzbekistan/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox Soccer Plus",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-netherlands-vs-uzbekistan/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
         "Team 1 Name": "France",
         "Team 2 Name": "N.Ireland",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphgha+EHCQgSIbiD64QAEz0nzIHXoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
@@ -126,20 +68,6 @@
                 "Language": "English - Sky Sport 2 NZ",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-france-vs-northern-ireland/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_int-friendly-games_france-northern-ireland-live-streaming-1344985668/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23007/1"
             }
         ]
     },
