@@ -57,35 +57,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Portugal",
-        "Team 2 Name": "Nigeria",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+YbmAAmsMChDcQEECRNGQWiyBghb8AhSZ8UXMGVX15ol01pg3YqIQQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm7UyKMOBzcQEECX26QAExMgYh4wQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Portugal vs Nigeria",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYhEIECRBZgVEDFKzgEEDQ0oQ2meqkjSi+buCIIqmvBEgUR0eUsChRgtnphCwJLnH2hMG5OS2Fje3cbMCD1YwggA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:45 AM | 11-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sky Sport 2 NZ",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-portugal-vs-nigeria/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sky Sport 2 NZ",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-portugal-vs-nigeria/2"
-            }
-        ]
-    },
-    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "",
@@ -232,13 +203,35 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/england-vs-costa-rica-football-1525494/4"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Money in the Bank 150 Berlin 💥",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Money%20in%20the%20Bank%20150%20Berlin%20%F0%9F%92%A5&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:30 AM | 11-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-money-in-the-bank-150-berlin-ppv-01/1"
             },
             {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23057/1"
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-money-in-the-bank-150-berlin-ppv-01/2"
             }
         ]
     },
@@ -608,6 +601,35 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "USAC Indiana Midget Week Paragon  🔥",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=USAC%20Indiana%20Midget%20Week%20Paragon%20%20%F0%9F%94%A5&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:45 AM | 11-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-02-usac-indiana-midget-week-paragon-ppv-02/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-02-usac-indiana-midget-week-paragon-ppv-02/2"
+            }
+        ]
+    },
+    {
         "Category": "Basketball",
         "League": "Basketball",
         "Team 1 Name": "Toronto Tempo",
@@ -678,6 +700,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-toronto-blue-jays/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_blue-jays-phillies-live-streaming-1327522149/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_blue-jays-phillies-live-streaming-1327522149/2"
+            },
+            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -719,6 +755,20 @@
                 "Language": "English - Cardinals.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-new-york-mets/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_mets-cardinals-live-streaming-1327523148/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_mets-cardinals-live-streaming-1327523148/2"
             },
             {
                 "Source": "echo",
