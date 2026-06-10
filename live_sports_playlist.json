@@ -341,76 +341,11 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-dream-vs-chicago-sky/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_chicago-atlanta-live-streaming-1210863924/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_chicago-atlanta-live-streaming-1210863924/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/22985/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Atlético Ottawa",
-        "Team 2 Name": "Supra du Québec",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIUXzBIwZPiG7qQRxIhL7cIACYgYBCkz4ouO8vXminTWmB1jREIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBw+YEiAAmYbiH16+IIzBB7E51SBQEKTPii4by9eaMdNaYDWNEQgA.webp",
-        "Match Title": "Atlético Ottawa vs Supra du Québec",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Atl%C3%A9tico%20Ottawa%20vs%20Supra%20du%20Qu%C3%A9bec&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 AM | 10-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/atletico-ottawa-vs-supra-du-quebec-football-1517297/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Saudi Arabia",
-        "Team 2 Name": "Senegal",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwgo4PrDDcQOkiBRrdq-XyOMKTPii5gy8IvNE2mtMHbGiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSUz0wfMCiYgYIXiCwgjukiAggAJiETnmhGMHwCtHMGXhEFYrU7VvxYhBAA.webp",
-        "Match Title": "Saudi Arabia vs Senegal",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Saudi%20Arabia%20vs%20Senegal&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 AM | 10-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/saudi-arabia-vs-senegal-football-1544368/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/saudi-arabia-vs-senegal-football-1544368/2"
             }
         ]
     },
@@ -1034,13 +969,6 @@
                 "Embed_URL": "https://embed.st/embed/echo/argentina-vs-iceland-football-1540357/4"
             },
             {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/argentina-vs-iceland-football-1540357/5"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1398,6 +1326,20 @@
                 "Language": "English - NBC Sports CA",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-athletics/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_athletics-brewers-live-streaming-1327407264/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_athletics-brewers-live-streaming-1327407264/2"
             },
             {
                 "Source": "golf",
