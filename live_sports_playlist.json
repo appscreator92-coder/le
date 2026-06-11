@@ -29,35 +29,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "UCI Tour Auvergne | UCI World Tour 🏁",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=UCI%20Tour%20Auvergne%20%7C%20UCI%20World%20Tour%20%F0%9F%8F%81&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:15 PM | 11-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/uci-tour-auvergne-uci-world-tour-game-13622/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/uci-tour-auvergne-uci-world-tour-game-13622/2"
-            }
-        ]
-    },
-    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "",
@@ -324,8 +295,8 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
+        "Team 1 Name": "FIFA World Cup Opening Ceremony",
+        "Team 2 Name": "Mexico",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
         "Match Title": "FIFA World Cup Opening Ceremony: Mexico",
@@ -389,6 +360,13 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/fifa-world-cup-opening-ceremony-mexico-game-251515/4"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23120/1"
             }
         ]
     },
@@ -775,6 +753,13 @@
                 "Language": "English - Marquee Sports Net",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-colorado-rockies/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/colorado-rockies-vs-chicago-cubs-baseball-179038/1"
             },
             {
                 "Source": "golf",
