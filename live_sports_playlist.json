@@ -28,6 +28,28 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
+        "Match Title": "World Cup 2026 Opening Ceremony",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=World%20Cup%202026%20Opening%20Ceremony&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "11:30 PM | 12-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23121/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
         "Match Title": "World Cup 2026 Opening Ceremony: Canada",
         "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=World%20Cup%202026%20Opening%20Ceremony%3A%20Canada&font=Oswald",
         "Match Status": "Live 🔴",
@@ -134,6 +156,20 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/wakefield-trinity-vs-wigan-warriors-game-184842/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/wakefield-trinity-vs-wigan-warriors-game-184842/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/wakefield-trinity-vs-wigan-warriors-game-184842/4"
             }
         ]
     },
@@ -290,6 +326,13 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/canada-vs-bosnia-herzegovina-football-1539000/5"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 6,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/canada-vs-bosnia-herzegovina-football-1539000/6"
             },
             {
                 "Source": "golf",
