@@ -618,6 +618,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-qatar-vs-switzerland/6"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-b_qatar-switzerland-live-streaming-1243362393/1"
+            },
+            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -1316,12 +1323,12 @@
     {
         "Category": "Fight",
         "League": "Fight",
-        "Team 1 Name": "Khamzat Chimaev",
-        "Team 2 Name": "Dillon Danis",
+        "Team 1 Name": "Chimaev",
+        "Team 2 Name": "Danis",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Khamzat Chimaev - Dillon Danis",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Khamzat%20Chimaev%20-%20Dillon%20Danis&font=Oswald",
+        "Match Title": "RAF 10: Chimaev vs Danis",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=RAF%2010%3A%20Chimaev%20vs%20Danis&font=Oswald",
         "Match Status": "Upcoming ⏳",
         "Start Time": "06:00 AM | 14-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
