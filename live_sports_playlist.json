@@ -231,91 +231,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Qatar",
-        "Team 2 Name": "Switzerland",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiwIQtFNnUhuIACYgIuEHxAwQFgxeWEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksIYg+YFGF4kQ3Nbv2IAJiB0gQMcwQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Qatar vs Switzerland",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMCTAZKEBvwhuIPsZAkQMMyGuIcEpkgp9hs+ijAqNbD+XpZZ+szAYB5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 14-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ITV1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-qatar-vs-switzerland/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ITV1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-qatar-vs-switzerland/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - FOX",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-qatar-vs-switzerland/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - FOX",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-qatar-vs-switzerland/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "Spanish - Telemundo",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-qatar-vs-switzerland/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "Spanish - Telemundo",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-qatar-vs-switzerland/6"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/qatar-vs-switzerland-german-spanish-game-2026/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/qatar-vs-switzerland-german-spanish-game-2026/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/qatar-vs-switzerland-german-spanish-game-2026/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/qatar-vs-switzerland-german-spanish-game-2026/4"
-            }
-        ]
-    },
-    {
         "Category": "American-football",
         "League": "American-football",
         "Team 1 Name": "DC Defenders",
@@ -907,12 +822,26 @@
         "Team 2 Name": "Elia Carranza 2",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Oshae Jones - Elia Carranza 2",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Oshae%20Jones%20-%20Elia%20Carranza%202&font=Oswald",
+        "Match Title": "Jones v Carranza 2 💥",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Jones%20v%20Carranza%202%20%F0%9F%92%A5&font=Oswald",
         "Match Status": "Live 🔴",
-        "Start Time": "03:00 AM | 14-Jun",
+        "Start Time": "03:30 AM | 14-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-jones-v-carranza-2-ppv-01/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-jones-v-carranza-2-ppv-01/2"
+            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -1129,6 +1058,13 @@
                 "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-c_brazil-morocco-live-streaming-1243363392/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-c_brazil-morocco-live-streaming-1243363392/3"
+            },
+            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -1162,6 +1098,13 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/brazil-vs-morocco-football-1489371/5"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 6,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/brazil-vs-morocco-football-1489371/6"
             },
             {
                 "Source": "golf",
