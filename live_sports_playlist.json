@@ -305,6 +305,42 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "PFL Africa Adeshina",
+        "Team 2 Name": "Campos",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "PFL Africa Adeshina v Campos",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=PFL%20Africa%20Adeshina%20v%20Campos&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:00 AM | 14-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-10-pfl-africa-adeshina-v-campos-ppv-10/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-10-pfl-africa-adeshina-v-campos-ppv-10/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23178/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -438,42 +474,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "PFL Africa Adeshina",
-        "Team 2 Name": "Campos",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "PFL Africa Adeshina v Campos",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=PFL%20Africa%20Adeshina%20v%20Campos&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:00 AM | 14-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-10-pfl-africa-adeshina-v-campos-ppv-10/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-10-pfl-africa-adeshina-v-campos-ppv-10/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23178/1"
             }
         ]
     },
