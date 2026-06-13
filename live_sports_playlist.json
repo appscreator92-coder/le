@@ -1,48 +1,5 @@
 [
     {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "North Melbourne Football Club",
-        "Team 2 Name": "West Coast Eagles",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIgyIEL1YAGTWo0gIB7nqMoQMAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnAxmsXMAAmIbiB0QQfECeMwjIQ1oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "North Melbourne Football Club vs West Coast Eagles",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGBDAZA+txD6pICCD4hzZmCBK5TBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:15 PM | 13-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/north-melbourne-kangaroos-vs-west-coast-eagles-australian-football-3462/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/north-melbourne-kangaroos-vs-west-coast-eagles-australian-football-3462/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/north-melbourne-kangaroos-vs-west-coast-eagles-australian-football-3462/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/north-melbourne-kangaroos-vs-west-coast-eagles-australian-football-3462/4"
-            }
-        ]
-    },
-    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "New Zealand Warriors",
@@ -662,6 +619,35 @@
         ]
     },
     {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Tommy Fury",
+        "Team 2 Name": "Eddie Hall",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Tommy Fury vs Eddie Hall",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF5h+1AWDEpNILCFO8QMU8avTNLJBSwi5jFPo4oe+8o10H5rMBg7oxiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "11:00 PM | 13-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tommy-fury-vs-eddie-hall/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - DAZN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tommy-fury-vs-eddie-hall/2"
+            }
+        ]
+    },
+    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Minnesota Twins",
@@ -925,13 +911,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-miami-marlins-vs-pittsburgh-pirates/2"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/pittsburgh-pirates-vs-miami-marlins-baseball-179059/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -966,6 +945,13 @@
                 "Language": "English - Nationals.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-washington-nationals/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/washington-nationals-vs-seattle-mariners-baseball-179056/1"
             },
             {
                 "Source": "golf",
@@ -1429,35 +1415,6 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "UFC Freedom 250: Topuria",
-        "Team 2 Name": "Gaethje",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "UFC Freedom 250: Topuria vs. Gaethje",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgsIRFRnAIIRYmFLgc2SDJYRuuapIg5IeWXgKQKEDBFHrElOQigwg3QWz0whYElzjHIVdWZ2FSeg9zMFcFcIggA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:00 AM | 14-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-freedom-250-topuria-vs-gaethje/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-freedom-250-topuria-vs-gaethje/2"
-            }
-        ]
-    },
-    {
         "Category": "Basketball",
         "League": "Basketball",
         "Team 1 Name": "Las Vegas Aces",
@@ -1490,6 +1447,35 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23124/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Jesse Rodriguez",
+        "Team 2 Name": "Antonio Vargas",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Jesse Rodriguez vs Antonio Vargas",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlV4gIIeLhggtWECYPHqukBeOT8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 14-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - DAZN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-bam-rodriguez-vs-antonio-vargas/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - DAZN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-bam-rodriguez-vs-antonio-vargas/2"
             }
         ]
     },
