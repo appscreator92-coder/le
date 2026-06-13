@@ -53,28 +53,6 @@
     {
         "Category": "Fight",
         "League": "Fight",
-        "Team 1 Name": "Freddy Kiwitt",
-        "Team 2 Name": "Henry Kigongo Kasujja",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Freddy Kiwitt - Henry Kigongo Kasujja",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Freddy%20Kiwitt%20-%20Henry%20Kigongo%20Kasujja&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:00 PM | 13-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23177/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
         "Team 1 Name": "Tommy Fury",
         "Team 2 Name": "Eddie Hall",
         "Team 1 Logo": "",
@@ -130,10 +108,10 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "PFL Africa Adeshina",
-        "Team 2 Name": "Campos",
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
         "Match Title": "PFL Africa Adeshina v Campos",
@@ -155,13 +133,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/ppv-event-10-pfl-africa-adeshina-v-campos-ppv-10/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23178/1"
             }
         ]
     },
@@ -1158,6 +1129,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-houston-astros-vs-kansas-city-royals/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_royals-astros-live-streaming-1327912758/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_royals-astros-live-streaming-1327912758/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1194,40 +1179,25 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-milwaukee-brewers/2"
             },
             {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23140/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Chimaev",
-        "Team 2 Name": "Danis",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "RAF 10: Chimaev vs Danis",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=RAF%2010%3A%20Chimaev%20vs%20Danis&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:00 AM | 14-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_raf-10-chimaev-vs-danis-live-stream/1"
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_brewers-phillies-live-streaming-1327913757/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_brewers-phillies-live-streaming-1327913757/2"
             },
             {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23174/1"
+                "Embed_URL": "https://embed.st/embed/golf/23140/1"
             }
         ]
     },
@@ -1257,6 +1227,49 @@
                 "Language": "English - TNT",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-aew-saturday-night-collision/2"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "RAF 10: Khamzat Chimaev",
+        "Team 2 Name": "Dillon Danis",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "RAF 10: Khamzat Chimaev vs. Dillon Danis",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw0sCohhICCADGIFCBIg1imXJjYQWFSP3i5MlDpqqYukIkuWs2U-zCCRTbPTCFgSXPNNDnVghXMlMCYHhyZ2BgsgggA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 14-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - FOX Nation",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-raf-10-khamzat-chimaev-vs-dillon-danis/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - FOX Nation",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-raf-10-khamzat-chimaev-vs-dillon-danis/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_raf-10-chimaev-vs-danis-live-stream/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23174/1"
             }
         ]
     },
