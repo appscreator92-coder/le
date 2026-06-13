@@ -382,20 +382,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sportsnet One",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-toronto-blue-jays/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sportsnet One",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-toronto-blue-jays/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -483,46 +469,18 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "WWE: Friday Night Smackdown",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRAGMQ0rCBgiQVacBqJEKELNnjSIRCU1yRweCpAal0idkV6U5CKDCDjBbPTCFgSXBPtDnVkdhUno3UzBnYEcyCCA.webp",
+        "Match Title": "Friday Night Smackdown",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Friday%20Night%20Smackdown&font=Oswald",
         "Match Status": "Live 🔴",
         "Start Time": "06:00 AM | 13-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - USA",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - USA",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/2"
-            },
             {
                 "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live-event_friday-night-smackdown-live-stream/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/wwe-friday-night-smackdown-game-11114/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/wwe-friday-night-smackdown-game-11114/2"
             }
         ]
     },
@@ -729,41 +687,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-d_usa-paraguay-live-streaming-1243322433/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/usa-vs-paraguay-football-1489370/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/usa-vs-paraguay-football-1489370/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/usa-vs-paraguay-football-1489370/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/usa-vs-paraguay-football-1489370/4"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/usa-vs-paraguay-football-1489370/5"
             },
             {
                 "Source": "golf",
@@ -1024,6 +947,49 @@
         ]
     },
     {
+        "Category": "Afl",
+        "League": "Afl",
+        "Team 1 Name": "Melbourne Demons",
+        "Team 2 Name": "Essendon Bombers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQKeuQYBjZsJ7wxVcYQaswYXPn1A.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQ2euQYBjZsJ7wxVcYQaswYXPn1A.webp",
+        "Match Title": "Melbourne Demons vs Essendon Bombers",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Melbourne%20Demons%20vs%20Essendon%20Bombers&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "09:15 AM | 13-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/melbourne-demons-vs-essendon-bombers-australian-football-3461/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/melbourne-demons-vs-essendon-bombers-australian-football-3461/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/melbourne-demons-vs-essendon-bombers-australian-football-3461/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/melbourne-demons-vs-essendon-bombers-australian-football-3461/4"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -1157,49 +1123,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Melbourne Demons",
-        "Team 2 Name": "Essendon Bombers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQKeuQYBjZsJ7wxVcYQaswYXPn1A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQ2euQYBjZsJ7wxVcYQaswYXPn1A.webp",
-        "Match Title": "Melbourne Demons vs Essendon Bombers",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Melbourne%20Demons%20vs%20Essendon%20Bombers&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "09:15 AM | 13-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/melbourne-demons-vs-essendon-bombers-australian-football-3461/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/melbourne-demons-vs-essendon-bombers-australian-football-3461/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/melbourne-demons-vs-essendon-bombers-australian-football-3461/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/melbourne-demons-vs-essendon-bombers-australian-football-3461/4"
             }
         ]
     },
