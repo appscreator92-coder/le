@@ -199,13 +199,6 @@
                 "Language": "English - Brewers.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-milwaukee-brewers/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23164/1"
             }
         ]
     },
@@ -235,13 +228,6 @@
                 "Language": "English - Twins.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-minnesota-twins/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23165/1"
             }
         ]
     },
@@ -271,13 +257,6 @@
                 "Language": "English - Royals.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-houston-astros-vs-kansas-city-royals/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23162/1"
             }
         ]
     },
@@ -307,13 +286,6 @@
                 "Language": "English - CHSN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-chicago-white-sox/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23163/1"
             }
         ]
     },
@@ -343,13 +315,6 @@
                 "Language": "English - NBC Sports CA",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-athletics/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/athletics-vs-colorado-rockies-baseball-179083/1"
             },
             {
                 "Source": "golf",
@@ -613,6 +578,163 @@
         ]
     },
     {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Côte d'Ivoire vs Ecuador",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=C%C3%B4te%20d%27Ivoire%20vs%20Ecuador&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:00 AM | 15-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-e_cote-divoire-ecuador-live-streaming-1243479276/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-e_cote-divoire-ecuador-live-streaming-1243479276/2"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "North Carolina Tar Heels vs West Virginia Mountaineers",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=North%20Carolina%20Tar%20Heels%20vs%20West%20Virginia%20Mountaineers&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:00 AM | 15-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_ncaa-division-i-championship_north-carolina-tar-heels-west-virginia-mountaineers-live-streaming-1347049602/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Ivory Coast",
+        "Team 2 Name": "Ecuador",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YcGS0huICCBIG9IACZGz++AQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQfMBoAmuMChDcQJEPsP6QJkIhgGCFJnxRcwZeEXminTWmBdjREEA.webp",
+        "Match Title": "Ivory Coast vs Ecuador",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJC8+IAThRbdRkiBggTIEIhzwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:00 AM | 15-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - FS1",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ivory-coast-vs-ecuador/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - FS1",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ivory-coast-vs-ecuador/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - BBC One",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ivory-coast-vs-ecuador/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - BBC One",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ivory-coast-vs-ecuador/4"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 5,
+                "Language": "Spanish - Telemundo",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ivory-coast-vs-ecuador/5"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 6,
+                "Language": "Spanish - Telemundo",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ivory-coast-vs-ecuador/6"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ivory-coast-vs-ecuador-football-1489375/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ivory-coast-vs-ecuador-football-1489375/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ivory-coast-vs-ecuador-football-1489375/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ivory-coast-vs-ecuador-football-1489375/4"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 5,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ivory-coast-vs-ecuador-football-1489375/5"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23117/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23117/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -746,163 +868,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Côte d'Ivoire vs Ecuador",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=C%C3%B4te%20d%27Ivoire%20vs%20Ecuador&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "05:00 AM | 15-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-e_cote-divoire-ecuador-live-streaming-1243479276/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-e_cote-divoire-ecuador-live-streaming-1243479276/2"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "North Carolina Tar Heels vs West Virginia Mountaineers",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=North%20Carolina%20Tar%20Heels%20vs%20West%20Virginia%20Mountaineers&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "05:00 AM | 15-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_ncaa-division-i-championship_north-carolina-tar-heels-west-virginia-mountaineers-live-streaming-1347049602/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Ivory Coast",
-        "Team 2 Name": "Ecuador",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YcGS0huICCBIG9IACZGz++AQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQfMBoAmuMChDcQJEPsP6QJkIhgGCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Ivory Coast vs Ecuador",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJC8+IAThRbdRkiBggTIEIhzwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "05:00 AM | 15-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - FS1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ivory-coast-vs-ecuador/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - FS1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ivory-coast-vs-ecuador/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - BBC One",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ivory-coast-vs-ecuador/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - BBC One",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ivory-coast-vs-ecuador/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "Spanish - Telemundo",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ivory-coast-vs-ecuador/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "Spanish - Telemundo",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ivory-coast-vs-ecuador/6"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ivory-coast-vs-ecuador-football-1489375/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ivory-coast-vs-ecuador-football-1489375/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ivory-coast-vs-ecuador-football-1489375/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ivory-coast-vs-ecuador-football-1489375/4"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ivory-coast-vs-ecuador-football-1489375/5"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23117/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23117/2"
             }
         ]
     },
