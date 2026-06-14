@@ -192,20 +192,6 @@
                 "Language": "Spanish - Telemundo",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-australia-vs-t-rkiye/6"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23114/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23114/2"
             }
         ]
     },
@@ -299,6 +285,56 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/wests-tigers-vs-gold-coast-titans-game-197832/4"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "Formula 1 2026",
+        "Team 2 Name": "Spain GP",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Formula 3: Spain -R4 | Formula 2: Spain -R5",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Formula%203%3A%20Spain%20-R4%20%7C%20Formula%202%3A%20Spain%20-R5&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:30 PM | 14-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/formula-3-spain-r4-formula-2-spain-r5-game-19996/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/formula-3-spain-r4-formula-2-spain-r5-game-19996/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/formula-3-spain-r4-formula-2-spain-r5-game-19996/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/formula-3-spain-r4-formula-2-spain-r5-game-19996/4"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23151/1"
             }
         ]
     },
@@ -436,56 +472,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "Formula 1 2026",
-        "Team 2 Name": "Spain GP",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Formula 3: Spain -R4 | Formula 2: Spain -R5",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Formula%203%3A%20Spain%20-R4%20%7C%20Formula%202%3A%20Spain%20-R5&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:30 PM | 14-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/formula-3-spain-r4-formula-2-spain-r5-game-19996/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/formula-3-spain-r4-formula-2-spain-r5-game-19996/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/formula-3-spain-r4-formula-2-spain-r5-game-19996/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/formula-3-spain-r4-formula-2-spain-r5-game-19996/4"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23151/1"
             }
         ]
     },
