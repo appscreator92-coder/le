@@ -490,34 +490,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-los-angeles-angels/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_angels-rays-live-streaming-1328069601/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_angels-rays-live-streaming-1328069601/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/los-angeles-angels-vs-tampa-bay-rays-baseball-179078/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/los-angeles-angels-vs-tampa-bay-rays-baseball-179078/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -574,57 +546,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23200/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Côte d'Ivoire vs Ecuador",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=C%C3%B4te%20d%27Ivoire%20vs%20Ecuador&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 AM | 15-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-e_cote-divoire-ecuador-live-streaming-1243479276/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-e_cote-divoire-ecuador-live-streaming-1243479276/2"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "North Carolina Tar Heels vs West Virginia Mountaineers",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=North%20Carolina%20Tar%20Heels%20vs%20West%20Virginia%20Mountaineers&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 AM | 15-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_ncaa-division-i-championship_north-carolina-tar-heels-west-virginia-mountaineers-live-streaming-1347049602/1"
             }
         ]
     },
@@ -731,6 +652,86 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23117/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Côte d'Ivoire vs Ecuador",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=C%C3%B4te%20d%27Ivoire%20vs%20Ecuador&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:00 AM | 15-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-e_cote-divoire-ecuador-live-streaming-1243479276/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-e_cote-divoire-ecuador-live-streaming-1243479276/2"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "UFC Freedom 250 Prelims 💥",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=UFC%20Freedom%20250%20Prelims%20%F0%9F%92%A5&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:00 AM | 15-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-ufc-freedom-250-prelims-ppv-01/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-ufc-freedom-250-prelims-ppv-01/2"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "North Carolina Tar Heels vs West Virginia Mountaineers",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=North%20Carolina%20Tar%20Heels%20vs%20West%20Virginia%20Mountaineers&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:12 AM | 15-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_ncaa-division-i-championship_north-carolina-tar-heels-west-virginia-mountaineers-live-streaming-1347049602/1"
             }
         ]
     },
@@ -906,6 +907,34 @@
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_red-sox-rangers-live-streaming-1328070600/1"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/boston-red-sox-vs-texas-rangers-baseball-179084/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/boston-red-sox-vs-texas-rangers-baseball-179084/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/boston-red-sox-vs-texas-rangers-baseball-179084/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/boston-red-sox-vs-texas-rangers-baseball-179084/4"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -940,6 +969,20 @@
                 "Language": "English - ABC",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-carolina-hurricanes-vs-vegas-golden-knights/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nhl-playoffs_golden-knights-hurricanes-live-streaming-1335654009/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_nhl-playoffs_golden-knights-hurricanes-live-streaming-1335654009/2"
             },
             {
                 "Source": "golf",
