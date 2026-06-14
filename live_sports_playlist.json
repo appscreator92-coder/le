@@ -1,34 +1,5 @@
 [
     {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Wests Tigers",
-        "Team 2 Name": "Gold Coast Titans",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3gIQAE3Ybg6kNw0gIBxEb4hzKQwQpM+KLmDKr680faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBRuYGbBDbuIACar9IRBBB8zuVQQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Wests Tigers vs Gold Coast Titans",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCBCVYICLpDcQfEFM0gSBkIkOIpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:05 PM | 14-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox League",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-wests-tigers-vs-titans/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox League",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-wests-tigers-vs-titans/2"
-            }
-        ]
-    },
-    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "",
@@ -68,6 +39,35 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/formula-3-spain-r4-formula-2-spain-r5-game-19996/4"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "World SBK Italian Round | World SBK Championship Season 🏁",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=World%20SBK%20Italian%20Round%20%7C%20World%20SBK%20Championship%20Season%20%F0%9F%8F%81&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:45 PM | 14-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/world-sbk-italian-round-world-sbk-championship-season-game-4u8337/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/world-sbk-italian-round-world-sbk-championship-season-game-4u8337/2"
             }
         ]
     },
@@ -209,35 +209,6 @@
         ]
     },
     {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "World SBK Italian Round | World SBK Championship Season 🏁",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=World%20SBK%20Italian%20Round%20%7C%20World%20SBK%20Championship%20Season%20%F0%9F%8F%81&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:45 PM | 14-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/world-sbk-italian-round-world-sbk-championship-season-game-4u8337/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/world-sbk-italian-round-world-sbk-championship-season-game-4u8337/2"
-            }
-        ]
-    },
-    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "",
@@ -320,6 +291,28 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/rbc-canadian-open-pga-tour-pga-526234/4"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Tarik Haddir",
+        "Team 2 Name": "Adama Diarra",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Tarik Haddir - Adama Diarra",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Tarik%20Haddir%20-%20Adama%20Diarra&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "07:00 PM | 14-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23199/1"
             }
         ]
     },
@@ -523,48 +516,6 @@
         "Start Time": "11:00 PM | 14-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - BBC/ITV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-germany-vs-cura-ao/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - BBC/ITV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-germany-vs-cura-ao/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - FOX",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-germany-vs-cura-ao/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - FOX",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-germany-vs-cura-ao/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "Spanish - Telemundo",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-germany-vs-cura-ao/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "Spanish - Telemundo",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-germany-vs-cura-ao/6"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -1099,48 +1050,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - BBC/ITV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-netherlands-vs-japan/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - BBC/ITV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-netherlands-vs-japan/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - FOX",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-netherlands-vs-japan/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - FOX",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-netherlands-vs-japan/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "Spanish - Telemundo",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-netherlands-vs-japan/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "Spanish - Telemundo",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-netherlands-vs-japan/6"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1205,48 +1114,6 @@
         "Start Time": "05:00 AM | 15-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - BBC/ITV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ivory-coast-vs-ecuador/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - BBC/ITV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ivory-coast-vs-ecuador/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - FS1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ivory-coast-vs-ecuador/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - FS1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ivory-coast-vs-ecuador/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "Spanish - Telemundo",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ivory-coast-vs-ecuador/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "Spanish - Telemundo",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ivory-coast-vs-ecuador/6"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -1338,6 +1205,28 @@
     {
         "Category": "Fight",
         "League": "Fight",
+        "Team 1 Name": "Jonathan Gonzalez",
+        "Team 2 Name": "Abraham Perez",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Jonathan Gonzalez vs Abraham Perez",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrxAQtILLtAhNekIZAwTIFCGohpulkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:00 AM | 15-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23200/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
         "Team 1 Name": "UFC Freedom 250 Topuria",
         "Team 2 Name": "Gaethje",
         "Team 1 Logo": "",
@@ -1361,6 +1250,13 @@
                 "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-freedom-250-topuria-vs-gaethje/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23198/1"
             }
         ]
     },
@@ -1377,48 +1273,6 @@
         "Start Time": "08:00 AM | 15-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - BBC/ITV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sweden-vs-tunisia/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - BBC/ITV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sweden-vs-tunisia/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - FS1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sweden-vs-tunisia/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - FS1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sweden-vs-tunisia/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "Spanish - Telemundo",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sweden-vs-tunisia/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "Spanish - Telemundo",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-sweden-vs-tunisia/6"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
