@@ -2,50 +2,6 @@
     {
         "Category": "Fight",
         "League": "Fight",
-        "Team 1 Name": "Jesse Rodriguez",
-        "Team 2 Name": "Antonio Vargas",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Jesse Rodriguez vs Antonio Vargas",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlV4gIIeLhggtWECYPHqukBeOT8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 AM | 14-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_jesse-bam-rodriguez-vs-antonio-vargas-live-stream/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Oshae Jones vs Elia Carranza",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Oshae%20Jones%20vs%20Elia%20Carranza&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 AM | 14-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_oshae-jones-vs-elia-carranza-live-stream/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
         "Team 1 Name": "RAF 10: Khamzat Chimaev",
         "Team 2 Name": "Dillon Danis",
         "Team 1 Logo": "",
@@ -69,6 +25,28 @@
                 "Language": "English - FOX Nation",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-raf-10-khamzat-chimaev-vs-dillon-danis/2"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Jesse ‘Bam’ Rodriguez vs Antonio Vargas",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Jesse%20%E2%80%98Bam%E2%80%99%20Rodriguez%20vs%20Antonio%20Vargas&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:00 AM | 14-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_jesse-bam-rodriguez-vs-antonio-vargas-live-stream/1"
             }
         ]
     },
