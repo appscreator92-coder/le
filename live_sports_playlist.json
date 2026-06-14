@@ -31,28 +31,6 @@
     {
         "Category": "Fight",
         "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Floyd Mayweather Jr vs Mike Zambidis",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Floyd%20Mayweather%20Jr%20vs%20Mike%20Zambidis&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:00 PM | 13-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_floyd-mayweather-jr-vs-mike-zambidis-live-stream/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
         "Team 1 Name": "Tommy Fury",
         "Team 2 Name": "Eddie Hall",
         "Team 1 Logo": "",
@@ -800,35 +778,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Combat FC 13",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Combat%20FC%2013&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 AM | 14-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-combat-fc-13-ppv-13/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-combat-fc-13-ppv-13/2"
-            }
-        ]
-    },
-    {
         "Category": "Basketball",
         "League": "Basketball",
         "Team 1 Name": "Phoenix Mercury",
@@ -868,6 +817,227 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23126/1"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Combat FC 13",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Combat%20FC%2013&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 14-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-combat-fc-13-ppv-13/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-combat-fc-13-ppv-13/2"
+            }
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "San Francisco Giants",
+        "Team 2 Name": "Chicago Cubs",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS5UAJiHhh+KEBBC8QWIyFOHE1EJZJ6CFfAJQ8wZLYwVinD+mBfixEEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA.webp",
+        "Match Title": "San Francisco Giants vs Chicago Cubs",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBSt5xEiGkheILCFMwQ1TVYMHF+YEgpYRcxijCqtHD+UbU5Wvb0YB7iYhBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:05 AM | 14-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NBC Sports BA",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-san-francisco-giants/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NBC Sports BA",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-san-francisco-giants/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_giants-cubs-live-streaming-1327915755/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_giants-cubs-live-streaming-1327915755/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/san-francisco-giants-vs-chicago-cubs-baseball-179058/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/san-francisco-giants-vs-chicago-cubs-baseball-179058/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23141/1"
+            }
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Athletics",
+        "Team 2 Name": "Colorado Rockies",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hgUYACbUNIRNxB8QEEPp3GYBy3wIUm1rmDKr680SmBNaYR2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphx8w3EABNgABkogNmkMb5aQMYyEQoQywjGBM+KLmDLwi80S6a0wbsVEIIA.webp",
+        "Match Title": "Athletics vs Colorado Rockies",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtLD9GEEIKwheekCZghqIFJZDTji-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:05 AM | 14-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NBC Sports CA",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-athletics/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NBC Sports CA",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-athletics/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_athletics-rockies-live-streaming-1327914756/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_athletics-rockies-live-streaming-1327914756/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/athletics-vs-colorado-rockies-baseball-179069/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/athletics-vs-colorado-rockies-baseball-179069/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23142/1"
+            }
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Los Angeles Angels",
+        "Team 2 Name": "Tampa Bay Rays",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Los Angeles Angels vs Tampa Bay Rays",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmKohQILCH29d+kDBDUQKCyGlGYLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:07 AM | 14-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Angels.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-los-angeles-angels/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Angels.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-los-angeles-angels/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_angels-rays-live-streaming-1327916754/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_angels-rays-live-streaming-1327916754/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/los-angeles-angels-vs-tampa-bay-rays-baseball-179064/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/los-angeles-angels-vs-tampa-bay-rays-baseball-179064/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23143/1"
             }
         ]
     },
@@ -1005,156 +1175,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "Athletics",
-        "Team 2 Name": "Colorado Rockies",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hgUYACbUNIRNxB8QEEPp3GYBy3wIUm1rmDKr680SmBNaYR2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphx8w3EABNgABkogNmkMb5aQMYyEQoQywjGBM+KLmDLwi80S6a0wbsVEIIA.webp",
-        "Match Title": "Athletics vs Colorado Rockies",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtLD9GEEIKwheekCZghqIFJZDTji-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:05 AM | 14-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC Sports CA",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-athletics/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC Sports CA",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-athletics/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_athletics-rockies-live-streaming-1327914756/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_athletics-rockies-live-streaming-1327914756/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23142/1"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "San Francisco Giants",
-        "Team 2 Name": "Chicago Cubs",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS5UAJiHhh+KEBBC8QWIyFOHE1EJZJ6CFfAJQ8wZLYwVinD+mBfixEEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA.webp",
-        "Match Title": "San Francisco Giants vs Chicago Cubs",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBSt5xEiGkheILCFMwQ1TVYMHF+YEgpYRcxijCqtHD+UbU5Wvb0YB7iYhBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:05 AM | 14-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC Sports BA",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-san-francisco-giants/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC Sports BA",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-san-francisco-giants/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_giants-cubs-live-streaming-1327915755/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_giants-cubs-live-streaming-1327915755/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23141/1"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "Los Angeles Angels",
-        "Team 2 Name": "Tampa Bay Rays",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Los Angeles Angels vs Tampa Bay Rays",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmKohQILCH29d+kDBDUQKCyGlGYLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:07 AM | 14-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Angels.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-los-angeles-angels/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Angels.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-los-angeles-angels/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_angels-rays-live-streaming-1327916754/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_angels-rays-live-streaming-1327916754/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23143/1"
             }
         ]
     }
