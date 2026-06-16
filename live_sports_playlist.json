@@ -6,54 +6,18 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Monday Night Raw",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Monday%20Night%20Raw&font=Oswald",
+        "Match Title": "WWE Monday Night RAW 💥",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=WWE%20Monday%20Night%20RAW%20%F0%9F%92%A5&font=Oswald",
         "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 16-Jun",
+        "Start Time": "07:00 AM | 16-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_monday-night-raw-live-stream/1"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23221/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "NARC Fastest 5 Days at Grays Harbor",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=NARC%20Fastest%205%20Days%20at%20Grays%20Harbor&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 AM | 16-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-04-narc-fastest-5-days-at-grays-harbor-ppv-004/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-04-narc-fastest-5-days-at-grays-harbor-ppv-004/2"
             }
         ]
     },
@@ -70,20 +34,6 @@
         "Start Time": "07:40 AM | 16-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC Sports CA",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-athletics/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC Sports CA",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-athletics/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -106,20 +56,6 @@
         "Start Time": "07:40 AM | 16-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - DBACKS.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-arizona-diamondbacks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - DBACKS.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-arizona-diamondbacks/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -145,14 +81,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - Sportsnet LA",
+                "Language": "English - ESPN",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-los-angeles-dodgers/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - Sportsnet LA",
+                "Language": "English - ESPN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-los-angeles-dodgers/2"
             },
@@ -183,35 +119,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23192/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Golden State Valkyries",
-        "Team 2 Name": "Los Angeles Sparks",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwgoMXMAAmwJCG4g+IRCGP6QJC6uWEYwJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQg+IGP1yUQ3EABNcICBpCI9JlCBAEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Golden State Valkyries vs Los Angeles Sparks",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBSTgiEMAggAxiBIgaiCYuykQ8UsCqTd8kKammYBkDFNGsuoyRTkIoMIJFNtzsIWBJcRWchd1ZXYX1nAhlyd3l9CCA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 AM | 16-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Peacock",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-golden-state-valkyries/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Peacock",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-golden-state-valkyries/2"
             }
         ]
     },
