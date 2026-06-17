@@ -35,20 +35,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - DBACKS.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-arizona-diamondbacks/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - DBACKS.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-arizona-diamondbacks/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -328,6 +314,64 @@
         ]
     },
     {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Connecticut Sun W",
+        "Team 2 Name": "Washington Mystics W",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmICPXIMAxs0k94YqtwJdWYMLnzWgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiADGIbPXINVzST3hiq3Al1ZgwufFaA.webp",
+        "Match Title": "Connecticut Sun W vs Washington Mystics W",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Connecticut%20Sun%20W%20vs%20Washington%20Mystics%20W&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:00 AM | 18-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/connecticut-sun-w-vs-washington-mystics-w-basketball-494880/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/connecticut-sun-w-vs-washington-mystics-w-basketball-494880/2"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "USAC Eastern Storm Bridgeport 💥",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=USAC%20Eastern%20Storm%20Bridgeport%20%F0%9F%92%A5&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:00 AM | 18-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-usac-eastern-storm-bridgeport-ppv-01/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-usac-eastern-storm-bridgeport-ppv-01/2"
+            }
+        ]
+    },
+    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "New York Yankees",
@@ -412,11 +456,54 @@
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_braves-giants-live-streaming-1328317353/1"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/atlanta-braves-vs-san-francisco-giants-baseball-179122/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/atlanta-braves-vs-san-francisco-giants-baseball-179122/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23237/1"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "World of Outlaws Sprints Hussets 🔥",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=World%20of%20Outlaws%20Sprints%20Hussets%20%F0%9F%94%A5&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:15 AM | 18-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-02-world-of-outlaws-sprints-hussets-ppv-02/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-02-world-of-outlaws-sprints-hussets-ppv-02/2"
             }
         ]
     },
@@ -599,6 +686,20 @@
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_brewers-guardians-live-streaming-1328318352/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/milwaukee-brewers-vs-cleveland-guardians-baseball-179111/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/milwaukee-brewers-vs-cleveland-guardians-baseball-179111/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -748,6 +849,20 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_cubs-rockies-live-streaming-1328319351/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/chicago-cubs-vs-colorado-rockies-baseball-179120/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/chicago-cubs-vs-colorado-rockies-baseball-179120/2"
             },
             {
                 "Source": "golf",
