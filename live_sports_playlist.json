@@ -13,20 +13,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Reds.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-mets-vs-cincinnati-reds/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Reds.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-mets-vs-cincinnati-reds/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -917,13 +903,6 @@
                 "Language": "English - BravesVision",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-atlanta-braves/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_braves-giants-live-streaming-1328201469/1"
             },
             {
                 "Source": "golf",
