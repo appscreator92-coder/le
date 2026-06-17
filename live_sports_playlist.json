@@ -35,20 +35,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Nationals.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-washington-nationals/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Nationals.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-washington-nationals/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -70,20 +56,6 @@
         "Start Time": "11:05 PM | 17-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC 10",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-marlins-vs-philadelphia-phillies/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC 10",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-marlins-vs-philadelphia-phillies/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -867,6 +839,13 @@
                 "Language": "English - MLB.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-new-york-yankees/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/new-york-yankees-vs-chicago-white-sox-baseball-179116/1"
             },
             {
                 "Source": "golf",
