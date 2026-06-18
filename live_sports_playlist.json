@@ -72,6 +72,42 @@
         ]
     },
     {
+        "Category": "Afl",
+        "League": "Afl",
+        "Team 1 Name": "Fremantle Dockers",
+        "Team 2 Name": "Geelong Cats",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQA+uQYBjZsJ7wxVcYQaswYXPn1A.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQAY3rkGcrMJ7wxVcYQaswYXPn1A.webp",
+        "Match Title": "Fremantle Dockers vs Geelong Cats",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Fremantle%20Dockers%20vs%20Geelong%20Cats&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:10 PM | 18-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/fremantle-dockers-vs-geelong-cats-australian-football-3466/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/fremantle-dockers-vs-geelong-cats-australian-football-3466/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/fremantle-dockers-vs-geelong-cats-australian-football-3466/3"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -205,42 +241,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Fremantle Dockers",
-        "Team 2 Name": "Geelong Cats",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQA+uQYBjZsJ7wxVcYQaswYXPn1A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQAY3rkGcrMJ7wxVcYQaswYXPn1A.webp",
-        "Match Title": "Fremantle Dockers vs Geelong Cats",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Fremantle%20Dockers%20vs%20Geelong%20Cats&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:10 PM | 18-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/fremantle-dockers-vs-geelong-cats-australian-football-3466/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/fremantle-dockers-vs-geelong-cats-australian-football-3466/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/fremantle-dockers-vs-geelong-cats-australian-football-3466/3"
             }
         ]
     },
