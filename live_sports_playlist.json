@@ -72,6 +72,49 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "U.S. Open Championship",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=U.S.%20Open%20Championship&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 PM | 18-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/us-open-championship-atp1000/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/us-open-championship-atp1000/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/us-open-championship-atp1000/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/us-open-championship-atp1000/4"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -391,6 +434,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-boston-red-sox/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/boston-red-sox-vs-toronto-blue-jays-baseball-179131/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -463,11 +513,68 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-texas-rangers/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/texas-rangers-vs-minnesota-twins-baseball-179126/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23249/1"
+            }
+        ]
+    },
+    {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Hull K R",
+        "Team 2 Name": "York Knights",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAUxAThQKwiIAmIWwEwwhw8wa16YuYFAxsKysGNsAENg7Ntky5BlYdgToQAkCjxzEMeYVjACwntTYJIXfj230woqhQhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAUxDFBWERAExC2AmGAOHmDSvTAE4xyBjYVlYMbYAIbB2bbJmaCKw7AnQgBIFCGZyIIdSvyxg+YTypsEkLvx666YUZXIQgA.webp",
+        "Match Title": "Hull K R vs York Knights",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Hull%20K%20R%20vs%20York%20Knights&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 19-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/warrington-wolves-vs-leeds-rhinos-game-37322/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/warrington-wolves-vs-leeds-rhinos-game-37322/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/warrington-wolves-vs-leeds-rhinos-game-37322/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/warrington-wolves-vs-leeds-rhinos-game-37322/4"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 5,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/warrington-wolves-vs-leeds-rhinos-game-37322/5"
             }
         ]
     },
@@ -569,6 +676,48 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-switzerland-vs-bosnia-herzegovina/12"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/switzerland-vs-bosnia-herzegovina-football-1539005/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/switzerland-vs-bosnia-herzegovina-football-1539005/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/switzerland-vs-bosnia-herzegovina-football-1539005/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/switzerland-vs-bosnia-herzegovina-football-1539005/4"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 5,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/switzerland-vs-bosnia-herzegovina-football-1539005/5"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 6,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/switzerland-vs-bosnia-herzegovina-football-1539005/6"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -610,6 +759,13 @@
                 "Language": "English - Mariners.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-seattle-mariners/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/seattle-mariners-vs-baltimore-orioles-baseball-179127/1"
             },
             {
                 "Source": "golf",
@@ -718,6 +874,48 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-canada-vs-qatar/12"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/canada-vs-qatar-football-1489387/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/canada-vs-qatar-football-1489387/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/canada-vs-qatar-football-1489387/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/canada-vs-qatar-football-1489387/4"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 5,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/canada-vs-qatar-football-1489387/5"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 6,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/canada-vs-qatar-football-1489387/6"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -759,6 +957,13 @@
                 "Language": "English - NBC Sports Phil",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-mets-vs-philadelphia-phillies/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/philadelphia-phillies-vs-new-york-mets-baseball-179125/1"
             },
             {
                 "Source": "golf",
