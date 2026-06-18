@@ -1,34 +1,5 @@
 [
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "World of Outlaws Sprints Hussets 🔥",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=World%20of%20Outlaws%20Sprints%20Hussets%20%F0%9F%94%A5&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:15 AM | 18-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-02-world-of-outlaws-sprints-hussets-ppv-02/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-02-world-of-outlaws-sprints-hussets-ppv-02/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Chicago Cubs",
@@ -169,13 +140,6 @@
                 "Language": "English - USA Net",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-phoenix-mercury/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_mercury-las-vegas-live-streaming-1211016771/1"
             }
         ]
     },
@@ -263,106 +227,6 @@
                 "Language": "English - Fox 12 Plus",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-storm-vs-portland-fire/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Uzbekistan",
-        "Team 2 Name": "Colombia",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIhR8vmCSkQ3NSBQg+BkBBCIAJiBhqCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBQUbMOoAMYEiG4gAJiBT6zIEDEsX9BCkz7qNZeEXmj1TWmF1jREIA.webp",
-        "Match Title": "Uzbekistan vs Colombia",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRDH6D6ibiD76QJEDCMhziRAqZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 AM | 18-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TSN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-uzbekistan-vs-colombia/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TSN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-uzbekistan-vs-colombia/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - FS1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-uzbekistan-vs-colombia/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - FS1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-uzbekistan-vs-colombia/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "English - BBC One",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-uzbekistan-vs-colombia/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "English - BBC One",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-uzbekistan-vs-colombia/6"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 7,
-                "Language": "Spanish - Telemundo",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-uzbekistan-vs-colombia/7"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 8,
-                "Language": "Spanish - Telemundo",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-uzbekistan-vs-colombia/8"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Phoenix Mercury W",
-        "Team 2 Name": "Las Vegas Aces W",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiADGy+uQarmknvDFVuBLqzBhc+S0A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmIAMb1yDLVkk94YqtwJdWYMLnzWgA.webp",
-        "Match Title": "Phoenix Mercury W vs Las Vegas Aces W",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Phoenix%20Mercury%20W%20vs%20Las%20Vegas%20Aces%20W&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 AM | 18-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/phoenix-mercury-w-vs-las-vegas-aces-w-basketball-494883/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/phoenix-mercury-w-vs-las-vegas-aces-w-basketball-494883/2"
             }
         ]
     },
