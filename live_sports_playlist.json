@@ -56,20 +56,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NESN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-boston-red-sox/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NESN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-boston-red-sox/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -297,124 +283,32 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-switzerland-vs-bosnia-herzegovina/14"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-b_switzerland-bih-live-streaming-1243604151/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-b_switzerland-bih-live-streaming-1243604151/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 3,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-b_switzerland-bih-live-streaming-1243604151/3"
-            },
-            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/switzerland-vs-bosnia-herzegovina-football-1539005/1"
+                "Embed_URL": "https://embed.st/embed/echo/switzerland-vs-bosnia-herzegovina-german-spainish-gamewcc-12/1"
             },
             {
                 "Source": "echo",
                 "Stream_No": 2,
                 "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/switzerland-vs-bosnia-herzegovina-football-1539005/2"
+                "Embed_URL": "https://embed.st/embed/echo/switzerland-vs-bosnia-herzegovina-german-spainish-gamewcc-12/2"
             },
             {
                 "Source": "echo",
                 "Stream_No": 3,
                 "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/switzerland-vs-bosnia-herzegovina-football-1539005/3"
+                "Embed_URL": "https://embed.st/embed/echo/switzerland-vs-bosnia-herzegovina-german-spainish-gamewcc-12/3"
             },
             {
                 "Source": "echo",
                 "Stream_No": 4,
                 "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/switzerland-vs-bosnia-herzegovina-football-1539005/4"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/switzerland-vs-bosnia-herzegovina-football-1539005/5"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23218/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23218/2"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Hull K R",
-        "Team 2 Name": "York Knights",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAUxAThQKwiIAmIWwEwwhw8wa16YuYFAxsKysGNsAENg7Ntky5BlYdgToQAkCjxzEMeYVjACwntTYJIXfj230woqhQhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAUxDFBWERAExC2AmGAOHmDSvTAE4xyBjYVlYMbYAIbB2bbJmaCKw7AnQgBIFCGZyIIdSvyxg+YTypsEkLvx666YUZXIQgA.webp",
-        "Match Title": "Hull K R vs York Knights",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Hull%20K%20R%20vs%20York%20Knights&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 19-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/warrington-wolves-vs-leeds-rhinos-game-37322/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/warrington-wolves-vs-leeds-rhinos-game-37322/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/warrington-wolves-vs-leeds-rhinos-game-37322/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/warrington-wolves-vs-leeds-rhinos-game-37322/4"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/warrington-wolves-vs-leeds-rhinos-game-37322/5"
+                "Embed_URL": "https://embed.st/embed/echo/switzerland-vs-bosnia-herzegovina-german-spainish-gamewcc-12/4"
             }
         ]
     },
