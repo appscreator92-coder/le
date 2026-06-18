@@ -241,35 +241,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "USAC Eastern Storm Bridgeport 💥",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=USAC%20Eastern%20Storm%20Bridgeport%20%F0%9F%92%A5&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 AM | 18-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-usac-eastern-storm-bridgeport-ppv-01/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-usac-eastern-storm-bridgeport-ppv-01/2"
-            }
-        ]
-    },
-    {
         "Category": "Basketball",
         "League": "Basketball",
         "Team 1 Name": "Connecticut Sun W",
@@ -295,6 +266,35 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/connecticut-sun-w-vs-washington-mystics-w-basketball-494880/2"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "USAC Eastern Storm Bridgeport 💥",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=USAC%20Eastern%20Storm%20Bridgeport%20%F0%9F%92%A5&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:00 AM | 18-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-usac-eastern-storm-bridgeport-ppv-01/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-usac-eastern-storm-bridgeport-ppv-01/2"
             }
         ]
     },
@@ -567,35 +567,6 @@
                 "Language": "English - TBS",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-aew-wednesday-night-dynamite/2"
-            }
-        ]
-    },
-    {
-        "Category": "Hockey",
-        "League": "Hockey",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Carolina Hurricanes vs Vegas Golden Knights",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Carolina%20Hurricanes%20vs%20Vegas%20Golden%20Knights&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 18-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nhl-playoffs_hurricanes-golden-knights-live-streaming-1335755907/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_nhl-playoffs_hurricanes-golden-knights-live-streaming-1335755907/2"
             }
         ]
     },
@@ -997,6 +968,62 @@
                 "Language": "Spanish - Telemundo",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-uzbekistan-vs-colombia/8"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-k_uzbekistan-colombia-live-streaming-1243599156/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-k_uzbekistan-colombia-live-streaming-1243599156/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/uzbekistan-vs-colombia-football-1489386/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/uzbekistan-vs-colombia-football-1489386/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/uzbekistan-vs-colombia-football-1489386/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/uzbekistan-vs-colombia-football-1489386/4"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 5,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/uzbekistan-vs-colombia-football-1489386/5"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 6,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/uzbekistan-vs-colombia-football-1489386/6"
             },
             {
                 "Source": "golf",
