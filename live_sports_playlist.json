@@ -35,20 +35,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Marquee Sports Net",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-chicago-cubs/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Marquee Sports Net",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-chicago-cubs/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -112,6 +98,182 @@
                 "Language": "English - Fox League",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-hull-kr-vs-leigh-leopards/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Scotland",
+        "Team 2 Name": "Morocco",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIAJiBQheW7tpAkDuTSAhG9ZtQQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxAM2YAQAZgSENxB8QifYZR7cBkMsIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Scotland vs Morocco",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECBTApIGSEohuIPsZAkQMMxpCJEmpkgp9hs+ijAqtbD+XpZZWky0YB5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:00 AM | 20-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - TSN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - TSN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - FOX",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - FOX",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/4"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 5,
+                "Language": "English - ITV1",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/5"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 6,
+                "Language": "English - ITV1",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/6"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 7,
+                "Language": "Arabic - beIN Sports",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/7"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 8,
+                "Language": "Arabic - beIN Sports",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/8"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 9,
+                "Language": "Spanish - DAZN Spain",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/9"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 10,
+                "Language": "Spanish - DAZN Spain",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/10"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 11,
+                "Language": "Spanish - Telemundo",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/11"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 12,
+                "Language": "Spanish - Telemundo",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/12"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-c_scotland-morocco-live-streaming-1243622133/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-c_scotland-morocco-live-streaming-1243622133/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-c_scotland-morocco-live-streaming-1243622133/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/scotland-vs-morocco-football-1489390/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/scotland-vs-morocco-football-1489390/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/scotland-vs-morocco-football-1489390/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/scotland-vs-morocco-football-1489390/4"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 5,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/scotland-vs-morocco-football-1489390/5"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 6,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/scotland-vs-morocco-football-1489390/6"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23243/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23243/2"
             }
         ]
     },
@@ -253,175 +415,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Scotland",
-        "Team 2 Name": "Morocco",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIAJiBQheW7tpAkDuTSAhG9ZtQQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxAM2YAQAZgSENxB8QifYZR7cBkMsIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Scotland vs Morocco",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECBTApIGSEohuIPsZAkQMMxpCJEmpkgp9hs+ijAqtbD+XpZZWky0YB5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:00 AM | 20-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TSN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TSN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - FOX",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - FOX",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "English - ITV1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "English - ITV1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/6"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 7,
-                "Language": "Arabic - beIN Sports",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/7"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 8,
-                "Language": "Arabic - beIN Sports",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/8"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 9,
-                "Language": "Spanish - DAZN Spain",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/9"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 10,
-                "Language": "Spanish - DAZN Spain",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/10"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 11,
-                "Language": "Spanish - Telemundo",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/11"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 12,
-                "Language": "Spanish - Telemundo",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/12"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-c_scotland-morocco-live-streaming-1243622133/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-c_scotland-morocco-live-streaming-1243622133/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/scotland-vs-morocco-football-1489390/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/scotland-vs-morocco-football-1489390/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/scotland-vs-morocco-football-1489390/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/scotland-vs-morocco-football-1489390/4"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/scotland-vs-morocco-football-1489390/5"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 6,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/scotland-vs-morocco-football-1489390/6"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23243/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23243/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Detroit Tigers",
@@ -447,6 +440,20 @@
                 "Language": "English - Tigers.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-detroit-tigers/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_tigers-white-sox-live-streaming-1328528142/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_tigers-white-sox-live-streaming-1328528142/2"
             },
             {
                 "Source": "echo",
