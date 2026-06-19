@@ -132,6 +132,85 @@
     {
         "Category": "Cricket",
         "League": "Cricket",
+        "Team 1 Name": "England",
+        "Team 2 Name": "New Zealand",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "England vs. New Zealand",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEFgnBxNSeMkBjEGXjBViSVlLZlIPXpJ7pIYSAghEKEFfNlDVFOQigwgkU2z0whYElwLHIVdWZ2FtRwI1cldgZzIIIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:00 PM | 19-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fox Cricket",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-england-vs-new-zealand/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fox Cricket",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-england-vs-new-zealand/2"
+            }
+        ]
+    },
+    {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Newcastle Knights",
+        "Team 2 Name": "St. George Illawara Dragons",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh15lE8tCBIhuIACYgI+kIiN8Q5lCBgEKTPii5g1ReaMdNaYZ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxj4CEABMwKENy0gIBxEb4hzZmAQpM+KLmDLr680faa0wjsaIhA.webp",
+        "Match Title": "Newcastle Knights vs St. George Illawara Dragons",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeNjZgQzBiG4g+IKSFMl9IRAZMSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:00 PM | 19-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fox League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-knights-vs-dragons/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fox League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-knights-vs-dragons/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/newcastle-knights-vs-dragons-game-2737723/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/newcastle-knights-vs-dragons-game-2737723/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/newcastle-knights-vs-dragons-game-2737723/3"
+            }
+        ]
+    },
+    {
+        "Category": "Cricket",
+        "League": "Cricket",
         "Team 1 Name": "",
         "Team 2 Name": "",
         "Team 1 Logo": "",
@@ -263,64 +342,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Cricket",
-        "League": "Cricket",
-        "Team 1 Name": "England",
-        "Team 2 Name": "New Zealand",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "England vs. New Zealand",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEFgnBxNSeMkBjEGXjBViSVlLZlIPXpJ7pIYSAghEKEFfNlDVFOQigwgkU2z0whYElwLHIVdWZ2FtRwI1cldgZzIIIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:00 PM | 19-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox Cricket",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-england-vs-new-zealand/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox Cricket",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-england-vs-new-zealand/2"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Newcastle Knights",
-        "Team 2 Name": "St. George Illawara Dragons",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh15lE8tCBIhuIACYgI+kIiN8Q5lCBgEKTPii5g1ReaMdNaYZ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxj4CEABMwKENy0gIBxEb4hzZmAQpM+KLmDLr680faa0wjsaIhA.webp",
-        "Match Title": "Newcastle Knights vs St. George Illawara Dragons",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeNjZgQzBiG4g+IKSFMl9IRAZMSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:00 PM | 19-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox League",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-knights-vs-dragons/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox League",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-knights-vs-dragons/2"
             }
         ]
     },
@@ -527,6 +548,71 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23242/2"
+            }
+        ]
+    },
+    {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Hull F.C.",
+        "Team 2 Name": "Wakefield Trinity Wildcats",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl4ATfsCa0kIbiD4hVu40YggSIGOYIUmfFFzBl4ReaIdbgYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBIQIYGu5gSIbiD4gYR3KYjqLEAhSZ8UXHeXrzR9prTA6xoiEA.webp",
+        "Match Title": "Hull F.C. vs Wakefield Trinity Wildcats",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMLjkh6JEIm4g+IKSF0hzuECm0gJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 20-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/hull-fc-vs-wakefield-trinity-game-184842/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/hull-fc-vs-wakefield-trinity-game-184842/2"
+            }
+        ]
+    },
+    {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Hull Kingston Rovers",
+        "Team 2 Name": "Leigh Leopards",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwhaIDWuAATENxC6IezUZgGQJDQQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl5IuABjApcIbiAAmIPiEQkQEENuMhzBCkz4ouYMvCLzRTprTAuxoiCA.webp",
+        "Match Title": "Hull Kingston Rovers vs Leigh Leopards",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcDIAMIEPxAkQ3EHxBT9OizhSHcBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 20-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/hull-k-r-vs-leigh-leopards-game-37322/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/hull-k-r-vs-leigh-leopards-game-37322/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/hull-k-r-vs-leigh-leopards-game-37322/3"
             }
         ]
     },
