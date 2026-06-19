@@ -71,20 +71,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - YES",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-new-york-yankees/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - YES",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-new-york-yankees/2"
-            },
-            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -169,35 +155,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/ppv-event-02-usac-eastern-storm-big-diamond-ppv-02/2"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Indiana Fever",
-        "Team 2 Name": "Atlanta Dream",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAow4GCCgoQibiBIHcRkCAAmITTj4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7ReSCgAYQ3EHxAxcekCWMATEChMEKTPii5gy8IvNEOmtME7GiIQA.webp",
-        "Match Title": "Indiana Fever vs Atlanta Dream",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUWVphgABlAhuIPiBJGzEXCEQWUBYEgp9hs+ijAqUXd+XpZZnpi13MVEIIA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:30 AM | 19-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Prime Video",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-dream-vs-indiana-fever/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Prime Video",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-dream-vs-indiana-fever/2"
             }
         ]
     },
