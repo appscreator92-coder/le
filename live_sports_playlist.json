@@ -131,41 +131,6 @@
                 "Language": "Arabic - beIN Sports",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-canada-vs-qatar/14"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-b_canada-qatar-live-streaming-1243605150/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-b_canada-qatar-live-streaming-1243605150/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 3,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-b_canada-qatar-live-streaming-1243605150/3"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23219/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23219/2"
             }
         ]
     },
@@ -543,6 +508,35 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Summer Nationals Late Models Dubuque",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Summer%20Nationals%20Late%20Models%20Dubuque&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:10 AM | 19-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-06-summer-nationals-late-models-dubuque-ppv-06/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-06-summer-nationals-late-models-dubuque-ppv-06/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -676,35 +670,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Summer Nationals Late Models Dubuque",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Summer%20Nationals%20Late%20Models%20Dubuque&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:10 AM | 19-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-06-summer-nationals-late-models-dubuque-ppv-06/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-06-summer-nationals-late-models-dubuque-ppv-06/2"
             }
         ]
     },
@@ -868,6 +833,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-a_mexico-south-korea-live-streaming-1243603152/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-a_mexico-south-korea-live-streaming-1243603152/2"
             },
             {
                 "Source": "echo",
