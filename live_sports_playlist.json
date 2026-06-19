@@ -194,35 +194,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "ONE Friday Fights 159 Gonzalez v Chatanan 💥",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=ONE%20Friday%20Fights%20159%20Gonzalez%20v%20Chatanan%20%F0%9F%92%A5&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:30 PM | 19-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-one-friday-fights-159-gonzalez-v-chatanan-ppv-01/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-one-friday-fights-159-gonzalez-v-chatanan-ppv-01/2"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "",
@@ -241,6 +212,92 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live-event_2026-pfl-mena-2-jeddah-live-stream/1"
+            }
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "Chicago Cubs",
+        "Team 2 Name": "Toronto Blue Jays",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA.webp",
+        "Match Title": "Chicago Cubs vs Toronto Blue Jays",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAoQfMFLAhgSENx0hzMXFut8QEXASMU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:20 AM | 20-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Marquee Sports Net",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-chicago-cubs/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Marquee Sports Net",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-chicago-cubs/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_cubs-blue-jays-live-streaming-1328527143/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_cubs-blue-jays-live-streaming-1328527143/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/chicago-cubs-vs-toronto-blue-jays-baseball-179143/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23259/1"
+            }
+        ]
+    },
+    {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Leinster",
+        "Team 2 Name": "Bulls",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm5EAJsDUh4YbiD199ILYcQoQEXCD4EKTG1zBkd9eaJTAmtME7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACo9PtAAmIbiB0QQKEDF0mQiHRMIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Leinster vs Bulls",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMakQVEChARgNGiWmKQWEIhkwQZMjS26RI6SGGaL4s8HjAI63SnIKBQ4wWz0whYElzinITBuTgVhUnoPWzBguwiIIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:30 AM | 20-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Premier Sports 1",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-leinster-vs-bulls/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Premier Sports 1",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-leinster-vs-bulls/2"
             }
         ]
     },
@@ -378,92 +435,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "Chicago Cubs",
-        "Team 2 Name": "Toronto Blue Jays",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA.webp",
-        "Match Title": "Chicago Cubs vs Toronto Blue Jays",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAoQfMFLAhgSENx0hzMXFut8QEXASMU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:20 AM | 20-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Marquee Sports Net",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-chicago-cubs/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Marquee Sports Net",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-chicago-cubs/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_cubs-blue-jays-live-streaming-1328527143/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_cubs-blue-jays-live-streaming-1328527143/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/chicago-cubs-vs-toronto-blue-jays-baseball-179143/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23259/1"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Leinster",
-        "Team 2 Name": "Bulls",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm5EAJsDUh4YbiD199ILYcQoQEXCD4EKTG1zBkd9eaJTAmtME7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACo9PtAAmIbiB0QQKEDF0mQiHRMIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Leinster vs Bulls",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMakQVEChARgNGiWmKQWEIhkwQZMjS26RI6SGGaL4s8HjAI63SnIKBQ4wWz0whYElzinITBuTgVhUnoPWzBguwiIIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:30 AM | 20-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Premier Sports 1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-leinster-vs-bulls/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Premier Sports 1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-leinster-vs-bulls/2"
             }
         ]
     },
