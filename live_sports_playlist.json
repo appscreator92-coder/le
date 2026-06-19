@@ -454,49 +454,6 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Cage Warriors 206: Unplugged",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52wRCBBZgEbCFkT54kVPkgSIKiADGkucNUaUwLTWGl1mucd7lZAoSKbZ6YQsCS5txoWG6dZczJjAmUwPxlSGSA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:00 AM | 20-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - UFC Fight Pass",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cage-warriors-206-unplugged/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - UFC Fight Pass",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cage-warriors-206-unplugged/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-03-cage-warriors-206-unplugged-ppv-03/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-03-cage-warriors-206-unplugged-ppv-03/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Chicago Cubs",
@@ -522,6 +479,20 @@
                 "Language": "English - Marquee Sports Net",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-chicago-cubs/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_cubs-blue-jays-live-streaming-1328527143/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_cubs-blue-jays-live-streaming-1328527143/2"
             },
             {
                 "Source": "echo",
@@ -1036,28 +1007,6 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Ashton Sylve vs Joseph ‘Jo Jo’ Diaz",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Ashton%20Sylve%20vs%20Joseph%20%E2%80%98Jo%20Jo%E2%80%99%20Diaz&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "05:00 AM | 20-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_ashton-sylve-vs-joseph-jo-jo-diaz-live-stream/1"
-            }
-        ]
-    },
-    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "",
@@ -1076,6 +1025,28 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live-event_2026-truck-series-at-san-diego-live-stream/1"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Ashton Sylve vs Joseph ‘Jo Jo’ Diaz",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Ashton%20Sylve%20vs%20Joseph%20%E2%80%98Jo%20Jo%E2%80%99%20Diaz&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:00 AM | 20-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_ashton-sylve-vs-joseph-jo-jo-diaz-live-stream/1"
             }
         ]
     },
@@ -1343,6 +1314,13 @@
                 "Language": "English - USA",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_friday-night-smackdown-live-stream/1"
             }
         ]
     },
