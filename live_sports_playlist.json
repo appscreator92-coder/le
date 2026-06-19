@@ -73,35 +73,6 @@
         ]
     },
     {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Hull Kingston Rovers",
-        "Team 2 Name": "Leigh Leopards",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwhaIDWuAATENxC6IezUZgGQJDQQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl5IuABjApcIbiAAmIPiEQkQEENuMhzBCkz4ouYMvCLzRTprTAuxoiCA.webp",
-        "Match Title": "Hull Kingston Rovers vs Leigh Leopards",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcDIAMIEPxAkQ3EHxBT9OizhSHcBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 20-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox League",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-hull-kr-vs-leigh-leopards/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox League",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-hull-kr-vs-leigh-leopards/2"
-            }
-        ]
-    },
-    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Scotland",
@@ -494,6 +465,28 @@
         ]
     },
     {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "2026 Truck Series at San Diego",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=2026%20Truck%20Series%20at%20San%20Diego&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:00 AM | 20-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_2026-truck-series-at-san-diego-live-stream/1"
+            }
+        ]
+    },
+    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "Ashton Sylve",
@@ -523,28 +516,6 @@
         ]
     },
     {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "2026 Truck Series at San Diego",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=2026%20Truck%20Series%20at%20San%20Diego&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "05:00 AM | 20-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_2026-truck-series-at-san-diego-live-stream/1"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "New York Yankees",
@@ -570,6 +541,20 @@
                 "Language": "English - YES",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-new-york-yankees/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_yankees-reds-live-streaming-1328529141/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_yankees-reds-live-streaming-1328529141/2"
             },
             {
                 "Source": "echo",
