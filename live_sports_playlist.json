@@ -267,6 +267,35 @@
         ]
     },
     {
+        "Category": "Cricket",
+        "League": "Cricket",
+        "Team 1 Name": "England",
+        "Team 2 Name": "New Zealand",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "England vs. New Zealand",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEFgnBxNSeMkBjEGXjBViSVlLZlIPXpJ7pIYSAghEKEFfNlDVFOQigwgkU2z0whYElwLHIVdWZ2FtRwI1cldgZzIIIA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:00 PM | 19-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fox Cricket",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-england-vs-new-zealand/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fox Cricket",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-england-vs-new-zealand/2"
+            }
+        ]
+    },
+    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "Newcastle Knights",
@@ -388,76 +417,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TSN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-united-states-vs-australia/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TSN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-united-states-vs-australia/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - FOX",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-united-states-vs-australia/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - FOX",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-united-states-vs-australia/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "English - BBC/ITV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-united-states-vs-australia/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "English - BBC/ITV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-united-states-vs-australia/6"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 7,
-                "Language": "Spanish - Telemundo",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-united-states-vs-australia/7"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 8,
-                "Language": "Spanish - Telemundo",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-united-states-vs-australia/8"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 9,
-                "Language": "Spanish - DAZN Spain",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-united-states-vs-australia/9"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 10,
-                "Language": "Spanish - DAZN Spain",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-united-states-vs-australia/10"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -486,76 +445,6 @@
         "Start Time": "04:00 AM | 20-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TSN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TSN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - FOX",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - FOX",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "English - BBC/ITV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "English - BBC/ITV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/6"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 7,
-                "Language": "Spanish - Telemundo",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/7"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 8,
-                "Language": "Spanish - Telemundo",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/8"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 9,
-                "Language": "Spanish - DAZN Spain",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/9"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 10,
-                "Language": "Spanish - DAZN Spain",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/10"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -989,76 +878,6 @@
         "Start Time": "06:30 AM | 20-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TSN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TSN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - FOX",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - FOX",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "English - BBC/ITV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "English - BBC/ITV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/6"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 7,
-                "Language": "Spanish - Telemundo",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/7"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 8,
-                "Language": "Spanish - Telemundo",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/8"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 9,
-                "Language": "Spanish - DAZN Spain",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/9"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 10,
-                "Language": "Spanish - DAZN Spain",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/10"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
