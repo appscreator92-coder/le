@@ -172,63 +172,6 @@
         ]
     },
     {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "OKTAGON 90",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBLjsIWVJggIIYcEQpxi0sCogAxnuWTZIGNm1b4Ig6bISF+chFBhBIpmZTlCwJLl2ehF1YnFTJPAlVyF2AnMgggA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:00 PM | 20-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-oktagon-90/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-oktagon-90/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "German",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-oktagon-90/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "German",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-oktagon-90/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "Czech",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-oktagon-90/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "Czech",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-oktagon-90/6"
-            }
-        ]
-    },
-    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "",
@@ -292,20 +235,6 @@
         "Start Time": "11:35 PM | 20-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - YES",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-new-york-yankees/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - YES",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-new-york-yankees/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -1069,6 +998,13 @@
                 "Language": "English - Paramount+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-kape-vs-horiguchi/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_ufc-fight-night-kape-vs-horiguchi-live-stream/1"
             },
             {
                 "Source": "golf",
