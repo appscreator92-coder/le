@@ -490,6 +490,35 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "AMA Supercross Championship Mount Morris",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=AMA%20Supercross%20Championship%20Mount%20Morris&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "09:00 PM | 20-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-ama-supercross-championship-mount-morris-ppv-13/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-ama-supercross-championship-mount-morris-ppv-13/2"
+            }
+        ]
+    },
+    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "",
@@ -832,6 +861,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-detroit-tigers/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/detroit-tigers-vs-chicago-white-sox-baseball-179156/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -866,6 +902,13 @@
                 "Language": "English - YES",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-new-york-yankees/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/new-york-yankees-vs-cincinnati-reds-baseball-179152/1"
             },
             {
                 "Source": "golf",
@@ -904,6 +947,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-ryan-garner-vs-michael-magnesi/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-02-garner-v-magnesi-ppv-02/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-02-garner-v-magnesi-ppv-02/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -940,11 +997,61 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-chicago-cubs/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/chicago-cubs-vs-toronto-blue-jays-baseball-179158/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23289/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Almeria",
+        "Team 2 Name": "Malaga",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCoh49cg0XNxPeCKrcCXVmDC58FoA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIRNnrkGAY2bie8EVW4EurMGFz5zQA.webp",
+        "Match Title": "Almeria vs Malaga",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Almeria%20vs%20Malaga&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 21-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/almeria-vs-malaga-football-1551272/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/almeria-vs-malaga-football-1551272/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/almeria-vs-malaga-football-1551272/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/almeria-vs-malaga-football-1551272/4"
             }
         ]
     },
@@ -1219,6 +1326,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-texas-rangers/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/texas-rangers-vs-san-diego-padres-baseball-179148/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1253,6 +1367,13 @@
                 "Language": "English - BravesVision",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-atlanta-braves/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/atlanta-braves-vs-milwaukee-brewers-baseball-179159/1"
             },
             {
                 "Source": "golf",
@@ -1291,6 +1412,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-washington-nationals-vs-tampa-bay-rays/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/tampa-bay-rays-vs-washington-nationals-baseball-179149/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1325,6 +1453,13 @@
                 "Language": "English - Marlins.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-miami-marlins/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/miami-marlins-vs-san-francisco-giants-baseball-179147/1"
             },
             {
                 "Source": "golf",
