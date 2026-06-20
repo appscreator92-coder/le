@@ -68,27 +68,6 @@
                 "Language": "English - Sky Sport 1 NZ",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-england-vs-new-zealand/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/second-test-england-vs-new-zealand-cricket-hundred-1/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/second-test-england-vs-new-zealand-cricket-hundred-1/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/second-test-england-vs-new-zealand-cricket-hundred-1/3"
             }
         ]
     },
@@ -147,49 +126,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/york-knights-vs-wigan-warriors-game-182283/2"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Northampton Saints",
-        "Team 2 Name": "Exeter Chiefs",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmwMF1bcwSENxB9cIY-tMhEK3AQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRsQ6gCZgQdENxAaDuECnUg+ZnBMIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Northampton Saints vs Exeter Chiefs",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECDgxKoECRDcQfPRqOnjiDY2BIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 PM | 20-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/northampton-saints-vs-exeter-chiefs-rugby-53629/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/northampton-saints-vs-exeter-chiefs-rugby-53629/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/northampton-saints-vs-exeter-chiefs-rugby-53629/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/northampton-saints-vs-exeter-chiefs-rugby-53629/4"
             }
         ]
     },
@@ -337,35 +273,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "AMA Supercross Championship Mount Morris",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=AMA%20Supercross%20Championship%20Mount%20Morris&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "09:00 PM | 20-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-ama-supercross-championship-mount-morris-ppv-13/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-ama-supercross-championship-mount-morris-ppv-13/2"
-            }
-        ]
-    },
-    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "",
@@ -409,6 +316,35 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "AMA Supercross Championship Mount Morris",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=AMA%20Supercross%20Championship%20Mount%20Morris&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "09:00 PM | 20-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-ama-supercross-championship-mount-morris-ppv-13/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-ama-supercross-championship-mount-morris-ppv-13/2"
+            }
+        ]
+    },
+    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "Ryan Garner",
@@ -441,6 +377,35 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23327/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Alpine Rams",
+        "Team 2 Name": "Paris Lights",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgHwwIfgjohuIPnoMgjuEDGPLCMYEz4ouYMmvrzRdprTAOxoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkT02A0BBDcQfXfpCHcRnXwIUmZrmDLwi80SmBNaYG2NEQgA.webp",
+        "Match Title": "Alpine Rams vs Paris Lights",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiADGwGjQgiQiCcJAhsICIvEgsOjSOzrdMPSclSFNXSpTZb-MIIMFD9wsCS5JtoY9bzhUnoXeHJHYHkyCCA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "10:00 PM | 20-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - AFLE+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-paris-lights-vs-alpine-rams/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - AFLE+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-paris-lights-vs-alpine-rams/2"
             }
         ]
     },
@@ -498,35 +463,6 @@
                 "Language": "Czech",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-oktagon-90/6"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Alpine Rams",
-        "Team 2 Name": "Paris Lights",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgHwwIfgjohuIPnoMgjuEDGPLCMYEz4ouYMmvrzRdprTAOxoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkT02A0BBDcQfXfpCHcRnXwIUmZrmDLwi80SmBNaYG2NEQgA.webp",
-        "Match Title": "Alpine Rams vs Paris Lights",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiADGwGjQgiQiCcJAhsICIvEgsOjSOzrdMPSclSFNXSpTZb-MIIMFD9wsCS5JtoY9bzhUnoXeHJHYHkyCCA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:00 PM | 20-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - AFLE+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-paris-lights-vs-alpine-rams/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - AFLE+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-paris-lights-vs-alpine-rams/2"
             }
         ]
     },
@@ -857,6 +793,13 @@
                 "Embed_URL": "https://embed.st/embed/echo/netherlands-vs-sweden-football-1539007/5"
             },
             {
+                "Source": "echo",
+                "Stream_No": 6,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/netherlands-vs-sweden-football-1539007/6"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -927,6 +870,20 @@
                 "Language": "English - ABC",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-indiana-fever-vs-atlanta-dream/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_atlanta-fever-live-streaming-1211112675/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_atlanta-fever-live-streaming-1211112675/2"
             }
         ]
     },
@@ -1385,6 +1342,48 @@
                 "Language": "German - ZDF",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-germany-vs-ivory-coast/14"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/germany-vs-ivory-coast-football-1489393/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/germany-vs-ivory-coast-football-1489393/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/germany-vs-ivory-coast-football-1489393/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/germany-vs-ivory-coast-football-1489393/4"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 5,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/germany-vs-ivory-coast-football-1489393/5"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 6,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/germany-vs-ivory-coast-football-1489393/6"
             },
             {
                 "Source": "golf",
