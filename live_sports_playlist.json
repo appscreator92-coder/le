@@ -1,77 +1,5 @@
 [
     {
-        "Category": "Golf",
-        "League": "Golf",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "U.S. Open Championship",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=U.S.%20Open%20Championship&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 PM | 20-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/us-open-championship-atp1000/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/us-open-championship-atp1000/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/us-open-championship-atp1000/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/us-open-championship-atp1000/4"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "AMA Supercross Championship Mount Morris",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=AMA%20Supercross%20Championship%20Mount%20Morris&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "09:00 PM | 20-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-ama-supercross-championship-mount-morris-ppv-13/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-ama-supercross-championship-mount-morris-ppv-13/2"
-            }
-        ]
-    },
-    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "",
@@ -243,13 +171,6 @@
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_yankees-reds-live-streaming-1328672997/2"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/new-york-yankees-vs-cincinnati-reds-baseball-179152/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -277,20 +198,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live-event_ryan-garner-vs-michael-magnesi-live-stream/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-02-garner-v-magnesi-ppv-02/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-02-garner-v-magnesi-ppv-02/2"
             },
             {
                 "Source": "golf",
@@ -370,35 +277,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_wnba_mercury-storm-live-streaming-1211113674/2"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Castleford Tigers",
-        "Team 2 Name": "Toulouse Olympique",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzJlu0FCC3cQfEABMQOnYYghEe5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDAADPxCJ6SENxAATEBD0gzJmIZApcBCkz4ouYMvCLzRTprTAuxoiCA.webp",
-        "Match Title": "Castleford Tigers vs Toulouse Olympique",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSBQhu2sEjraQfEBpIhz5nFo3wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 21-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/castleford-tigers-vs-toulouse-olympique-game-184842/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/castleford-tigers-vs-toulouse-olympique-game-184842/2"
             }
         ]
     },
@@ -581,11 +459,18 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "echo",
+                "Source": "delta",
                 "Stream_No": 1,
-                "Language": "",
+                "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/texas-rangers-vs-san-diego-padres-baseball-179148/1"
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rangers-padres-live-streaming-1328674995/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rangers-padres-live-streaming-1328674995/2"
             },
             {
                 "Source": "golf",
@@ -609,6 +494,20 @@
         "Start Time": "02:10 AM | 21-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_braves-brewers-live-streaming-1328675994/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_braves-brewers-live-streaming-1328675994/2"
+            },
             {
                 "Source": "echo",
                 "Stream_No": 1,
@@ -639,11 +538,18 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "echo",
+                "Source": "delta",
                 "Stream_No": 1,
-                "Language": "",
+                "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/tampa-bay-rays-vs-washington-nationals-baseball-179149/1"
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rays-nationals-live-streaming-1328677992/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rays-nationals-live-streaming-1328677992/2"
             },
             {
                 "Source": "golf",
@@ -668,6 +574,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_marlins-giants-live-streaming-1328676993/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_marlins-giants-live-streaming-1328676993/2"
+            },
+            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -686,10 +606,10 @@
     {
         "Category": "Fight",
         "League": "Fight",
-        "Team 1 Name": "Kyoji Horiguchi",
-        "Team 2 Name": "Manel Kape",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBEQVEChDK65BmObAwPeFKrdRDVmF1tcEIA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhDyUIJnXIMxzYGB7wpVbqIaswWtrghA.webp",
+        "Team 1 Name": "Kape",
+        "Team 2 Name": "Horiguchi",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
         "Match Title": "UFC Fight Night: Kape vs Horiguchi",
         "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=UFC%20Fight%20Night%3A%20Kape%20vs%20Horiguchi&font=Oswald",
         "Match Status": "Upcoming ⏳",
