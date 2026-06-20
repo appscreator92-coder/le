@@ -124,35 +124,6 @@
     {
         "Category": "Rugby",
         "League": "Rugby",
-        "Team 1 Name": "South Africa Rugby",
-        "Team 2 Name": "Barbarians",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIEiG4g+IegBNN23IZDGUIA6YgEKTPii5gy8IvNEOmtME7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmpYAAYQZHBBDcQffSBQg9MEJct6+BCk1tcwZeEXmiUwJrTDOxoiCA.webp",
-        "Match Title": "South Africa Rugby vs Barbarians",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtJCMUIHNRAwQvXSFPHNpxDsSL8wJBSwi52sKpQ835RtTke79GBu4mIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 PM | 20-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/south-africa-vs-barbarians-rugby-52833/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/south-africa-vs-barbarians-rugby-52833/2"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
         "Team 1 Name": "York City Knights",
         "Team 2 Name": "Wigan Warriors",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIoQAgAzAAJghDd1IEiDXajIC4gggIBCkz4ouYMvCLzRTprTAuxoiCA.webp",
@@ -434,6 +405,28 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/ntt-indycar-series-2026-game-4u8337/4"
+            }
+        ]
+    },
+    {
+        "Category": "Fight",
+        "League": "Fight",
+        "Team 1 Name": "Ryan Garner",
+        "Team 2 Name": "Michael Magnesi",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Ryan Garner - Michael Magnesi",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Ryan%20Garner%20-%20Michael%20Magnesi&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "09:00 PM | 20-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23327/1"
             }
         ]
     },
