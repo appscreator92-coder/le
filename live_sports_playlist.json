@@ -171,6 +171,20 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-02-garner-v-magnesi-ppv-02/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-02-garner-v-magnesi-ppv-02/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -453,7 +467,7 @@
         "Team 2 Logo": "",
         "Match Title": "Ryan Garner vs Michael Magnesi",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQ8x+UiGoheILCFNHTKEIgiaQMFkgpYRcxijCqtHD+UbU5Wrr0YB7iYhBAA.webp",
-        "Match Status": "Upcoming ⏳",
+        "Match Status": "Live 🔴",
         "Start Time": "12:00 AM | 21-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
@@ -463,6 +477,20 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live-event_ryan-garner-vs-michael-magnesi-live-stream/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-02-garner-v-magnesi-ppv-02/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-02-garner-v-magnesi-ppv-02/2"
             },
             {
                 "Source": "golf",
@@ -499,6 +527,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_cubs-blue-jays-live-streaming-1328673996/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/chicago-cubs-vs-toronto-blue-jays-baseball-179158/1"
             },
             {
                 "Source": "golf",
