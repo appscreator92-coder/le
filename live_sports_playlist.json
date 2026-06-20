@@ -86,35 +86,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "AMA Supercross Championship Mount Morris",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=AMA%20Supercross%20Championship%20Mount%20Morris&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "09:00 PM | 20-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-ama-supercross-championship-mount-morris-ppv-13/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-ama-supercross-championship-mount-morris-ppv-13/2"
-            }
-        ]
-    },
-    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "",
@@ -154,6 +125,35 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/ntt-indycar-series-2026-game-4u8337/4"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "AMA Supercross Championship Mount Morris",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=AMA%20Supercross%20Championship%20Mount%20Morris&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "09:00 PM | 20-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-ama-supercross-championship-mount-morris-ppv-13/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-ama-supercross-championship-mount-morris-ppv-13/2"
             }
         ]
     },
@@ -514,6 +514,20 @@
         "Start Time": "12:20 AM | 21-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_cubs-blue-jays-live-streaming-1328673996/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_cubs-blue-jays-live-streaming-1328673996/2"
+            },
             {
                 "Source": "echo",
                 "Stream_No": 1,
