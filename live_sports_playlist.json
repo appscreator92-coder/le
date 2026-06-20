@@ -1152,28 +1152,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "NARC Super Dirt Cup Skagit",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=NARC%20Super%20Dirt%20Cup%20Skagit&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 AM | 20-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-22-narc-super-dirt-cup-skagit-ppv-22/1"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "BKFC Fight Night Soto",
@@ -1199,6 +1177,28 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23306/1"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "NARC Super Dirt Cup Skagit",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=NARC%20Super%20Dirt%20Cup%20Skagit&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "07:00 AM | 20-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-22-narc-super-dirt-cup-skagit-ppv-22/1"
             }
         ]
     },
@@ -1472,6 +1472,20 @@
                 "Language": "English - ION",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-lynx-vs-golden-state-valkyries/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_valkyries-lynx-live-streaming-1211038749/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_valkyries-lynx-live-streaming-1211038749/2"
             }
         ]
     },
