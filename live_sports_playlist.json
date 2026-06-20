@@ -58,28 +58,6 @@
         ]
     },
     {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "New York Yankees",
-        "Team 2 Name": "Cincinnati Reds",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA.webp",
-        "Match Title": "New York Yankees vs Cincinnati Reds",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJHIq1CUkNxB8QRmLhAozBkCRAwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:35 PM | 20-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23288/1"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "Ryan Garner",
@@ -319,20 +297,6 @@
                 "Language": "German - ZDF",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-germany-vs-ivory-coast/14"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23257/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23257/2"
             }
         ]
     },
@@ -652,6 +616,28 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "IRA Sprints Butler Motor",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=IRA%20Sprints%20Butler%20Motor&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:30 AM | 21-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-18-ira-sprints-butler-motor-ppv-18/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -795,28 +781,6 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "IRA Sprints Butler Motor",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=IRA%20Sprints%20Butler%20Motor&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "04:30 AM | 21-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-18-ira-sprints-butler-motor-ppv-18/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
         "Match Title": "USAC Eastern Storm Port Royal",
         "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=USAC%20Eastern%20Storm%20Port%20Royal&font=Oswald",
         "Match Status": "Upcoming ⏳",
@@ -889,6 +853,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-houston-astros/2"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_astros-guardians-live-streaming-1328678991/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -923,6 +894,13 @@
                 "Language": "English - MLB.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-mets-vs-philadelphia-phillies/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_phillies-mets-live-streaming-1328679990/1"
             },
             {
                 "Source": "golf",
@@ -1094,6 +1072,20 @@
                 "Language": "German - ZDF",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-ecuador-vs-cura-ao/14"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-e_ecuador-curacao-live-streaming-1243653102/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-e_ecuador-curacao-live-streaming-1243653102/2"
             },
             {
                 "Source": "echo",
