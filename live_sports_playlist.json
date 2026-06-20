@@ -322,27 +322,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-chicago-cubs/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_cubs-blue-jays-live-streaming-1328673996/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_cubs-blue-jays-live-streaming-1328673996/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/chicago-cubs-vs-toronto-blue-jays-baseball-179158/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -381,35 +360,6 @@
         ]
     },
     {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Almería",
-        "Team 2 Name": "Málaga",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTk+asHxDcQEEFsQkQMEIhDbzBCkz4ouYMvCLzRdprTAOxoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJxuYFGAAm2ENxAQQfEIhIgYuEChBnGFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Match Title": "Almería vs Málaga",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECmZgUIKdtAhuIPiBKmQEXIYshEGpkgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 21-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - LALIGATV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-almer-a-vs-m-laga/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - LALIGATV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-almer-a-vs-m-laga/2"
-            }
-        ]
-    },
-    {
         "Category": "Basketball",
         "League": "Basketball",
         "Team 1 Name": "",
@@ -435,49 +385,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_ncaa-division-i-championship_north-carolina-tar-heels-oklahoma-sooners-live-streaming-1351065582/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Almeria",
-        "Team 2 Name": "Malaga",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCoh49cg0XNxPeCKrcCXVmDC58FoA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIRNnrkGAY2bie8EVW4EurMGFz5zQA.webp",
-        "Match Title": "Almeria vs Malaga",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Almeria%20vs%20Malaga&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "01:00 AM | 21-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/almeria-vs-malaga-football-1551272/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/almeria-vs-malaga-football-1551272/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/almeria-vs-malaga-football-1551272/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/almeria-vs-malaga-football-1551272/4"
             }
         ]
     },
