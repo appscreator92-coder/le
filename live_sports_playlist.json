@@ -117,20 +117,6 @@
                 "Language": "Spanish - Telemundo",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-morocco/12"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23243/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23243/2"
             }
         ]
     },
@@ -174,13 +160,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_tigers-white-sox-live-streaming-1328528142/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/detroit-tigers-vs-chicago-white-sox-baseball-179141/1"
             },
             {
                 "Source": "golf",
@@ -867,28 +846,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "World of Outlaws Late Models 141",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=World%20of%20Outlaws%20Late%20Models%20141&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:15 AM | 20-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-19-world-of-outlaws-late-models-141-ppv-19/1"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Kansas City Royals",
@@ -942,6 +899,240 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23267/1"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "World of Outlaws Late Models 141",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=World%20of%20Outlaws%20Late%20Models%20141&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:15 AM | 20-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-19-world-of-outlaws-late-models-141-ppv-19/1"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Formula E Sanya ePrix | Formula E 2026 Season",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Formula%20E%20Sanya%20ePrix%20%7C%20Formula%20E%202026%20Season&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:30 AM | 20-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/formula-e-sanya-eprix-formula-e-2026-season-game-19996/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/formula-e-sanya-eprix-formula-e-2026-season-game-19996/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Brazil",
+        "Team 2 Name": "Haiti",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTAwIACZiUsENxB9cmvccM4QIGAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwFswIcH3UhuIEiBQadIRPsQxcBCkz4ouYMvCLzRdprTAOxoiEA.webp",
+        "Match Title": "Brazil vs Haiti",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWllhgkYbiCkg9fEMZIgYIMyBCJEfAsB0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:30 AM | 20-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - TSN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - TSN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - FOX",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - FOX",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/4"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 5,
+                "Language": "English - ITV1",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/5"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 6,
+                "Language": "English - ITV1",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/6"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 7,
+                "Language": "Arabic - beIN Sports",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/7"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 8,
+                "Language": "Arabic - beIN Sports",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/8"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 9,
+                "Language": "Spanish - DAZN Spain",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/9"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 10,
+                "Language": "Spanish - DAZN Spain",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/10"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 11,
+                "Language": "Spanish - Telemundo",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/11"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 12,
+                "Language": "Spanish - Telemundo",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/12"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 13,
+                "Language": "German - Das Erste",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/13"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 14,
+                "Language": "German - Das Erste",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/14"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-c_brazil-haiti-live-streaming-1243623132/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-c_brazil-haiti-live-streaming-1243623132/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-c_brazil-haiti-live-streaming-1243623132/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/brazil-vs-haiti-football-1489389/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/brazil-vs-haiti-football-1489389/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/brazil-vs-haiti-football-1489389/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/brazil-vs-haiti-football-1489389/4"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 5,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/brazil-vs-haiti-football-1489389/5"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23244/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23244/2"
             }
         ]
     },
@@ -1079,204 +1270,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Formula E Sanya ePrix | Formula E 2026 Season",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Formula%20E%20Sanya%20ePrix%20%7C%20Formula%20E%202026%20Season&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:30 AM | 20-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/formula-e-sanya-eprix-formula-e-2026-season-game-19996/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/formula-e-sanya-eprix-formula-e-2026-season-game-19996/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Brazil",
-        "Team 2 Name": "Haiti",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTAwIACZiUsENxB9cmvccM4QIGAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwFswIcH3UhuIEiBQadIRPsQxcBCkz4ouYMvCLzRdprTAOxoiEA.webp",
-        "Match Title": "Brazil vs Haiti",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWllhgkYbiCkg9fEMZIgYIMyBCJEfAsB0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:30 AM | 20-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TSN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TSN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - FOX",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - FOX",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "English - ITV1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "English - ITV1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/6"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 7,
-                "Language": "Arabic - beIN Sports",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/7"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 8,
-                "Language": "Arabic - beIN Sports",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/8"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 9,
-                "Language": "Spanish - DAZN Spain",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/9"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 10,
-                "Language": "Spanish - DAZN Spain",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/10"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 11,
-                "Language": "Spanish - Telemundo",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/11"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 12,
-                "Language": "Spanish - Telemundo",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/12"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 13,
-                "Language": "German - Das Erste",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/13"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 14,
-                "Language": "German - Das Erste",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/14"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-c_brazil-haiti-live-streaming-1243623132/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/brazil-vs-haiti-football-1489389/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/brazil-vs-haiti-football-1489389/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/brazil-vs-haiti-football-1489389/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/brazil-vs-haiti-football-1489389/4"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/brazil-vs-haiti-football-1489389/5"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23244/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23244/2"
             }
         ]
     },
@@ -1470,35 +1463,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23270/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Golden State Valkyries W",
-        "Team 2 Name": "Minnesota Lynx W",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IAMYhEVEABN65BsuaSe8MVW4EurMGFz4bQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmIFPXIMAxs0k94YqtwJdWYMLnzWgA.webp",
-        "Match Title": "Golden State Valkyries W vs Minnesota Lynx W",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Golden%20State%20Valkyries%20W%20vs%20Minnesota%20Lynx%20W&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 AM | 20-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/golden-state-valkyries-w-vs-minnesota-lynx-w-basketball-494889/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/golden-state-valkyries-w-vs-minnesota-lynx-w-basketball-494889/2"
             }
         ]
     },
