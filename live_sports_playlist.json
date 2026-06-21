@@ -166,35 +166,6 @@
         ]
     },
     {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "London Warriors",
-        "Team 2 Name": "Vienna Vikings",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3g0QtMGBQhuIPnpCGSIbcd2IJhGMCZ8UXMGVX15o+0w2OxoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4gBteQAY2Ibmty6QiGCBT6QughSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "London Warriors vs Vienna Vikings",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCBEgI07KRBUQMBSOA14UjTI3DgEpcBm6SILOMOGVEKSBTlrAoaoJy7YQsCS4AxnaFhuTmtjehcNMACLMgggA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 PM | 21-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - AFLE+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-vienna-vikings-vs-london-warriors/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - AFLE+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-vienna-vikings-vs-london-warriors/2"
-            }
-        ]
-    },
-    {
         "Category": "Other",
         "League": "Other",
         "Team 1 Name": "",
@@ -614,6 +585,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-atlanta-braves/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/atlanta-braves-vs-milwaukee-brewers-baseball-179168/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -648,6 +626,20 @@
                 "Language": "English - YES",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-new-york-yankees/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_yankees-reds-live-streaming-1328832837/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/new-york-yankees-vs-cincinnati-reds-baseball-179166/1"
             },
             {
                 "Source": "golf",
@@ -686,6 +678,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-detroit-tigers/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/detroit-tigers-vs-chicago-white-sox-baseball-179171/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -720,6 +719,13 @@
                 "Language": "English - Marlins.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-miami-marlins/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/miami-marlins-vs-san-francisco-giants-baseball-179167/1"
             },
             {
                 "Source": "golf",
