@@ -125,6 +125,42 @@
     {
         "Category": "Cricket",
         "League": "Cricket",
+        "Team 1 Name": "England",
+        "Team 2 Name": "New Zealand",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0ICCERFV9cgwDGzST3hiq3Al1ZgwufFaA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIfiADGIePXINVzcT3giq3Al1ZgwufFaA.webp",
+        "Match Title": "England vs New Zealand",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=England%20vs%20New%20Zealand&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:00 PM | 21-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/second-test-england-vs-new-zealand-cricket-hundred-1/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/second-test-england-vs-new-zealand-cricket-hundred-1/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/second-test-england-vs-new-zealand-cricket-hundred-1/3"
+            }
+        ]
+    },
+    {
+        "Category": "Cricket",
+        "League": "Cricket",
         "Team 1 Name": "",
         "Team 2 Name": "",
         "Team 1 Logo": "",
@@ -563,6 +599,20 @@
                 "Language": "German - Servus",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-spain-vs-saudi-arabia/14"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23274/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23274/2"
             }
         ]
     },
@@ -1014,6 +1064,20 @@
                 "Language": "German - Servus",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-belgium-vs-iran/16"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23275/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23275/2"
             }
         ]
     },
@@ -1350,6 +1414,20 @@
                 "Language": "German - Servus",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-uruguay-vs-cape-verde/16"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23276/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23276/2"
             }
         ]
     },
@@ -1557,6 +1635,20 @@
                 "Language": "German - Servus",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-zealand-vs-egypt/14"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23277/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23277/2"
             }
         ]
     }
