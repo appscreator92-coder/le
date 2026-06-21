@@ -29,35 +29,6 @@
         ]
     },
     {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Melbourne Storm",
-        "Team 2 Name": "Canberra Raiders",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3Awx+EBBAwQ3EABNNBkIi18Q5kroIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgFswYJJRDbuIACYgI+kIiN9j5iYRjAmfFFzBl4ReaIdNa60VLpA.webp",
-        "Match Title": "Melbourne Storm vs Canberra Raiders",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAxgSMCh3sQ3EHw0hzJIyETHzUgjop9hs+ijAr9bD+XpZZ+ky0YB5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:05 PM | 21-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox League",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-storm-vs-raiders/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox League",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-storm-vs-raiders/2"
-            }
-        ]
-    },
-    {
         "Category": "Other",
         "League": "Other",
         "Team 1 Name": "",
@@ -126,6 +97,28 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/sydney-roosters-vs-cronulla-sutherland-sharks-game-236363/2"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Nascar Cup Series 2026 - Anduril 250",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Nascar%20Cup%20Series%202026%20-%20Anduril%20250&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:45 PM | 21-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_nascar-cup-series-2026-anduril-250-live-stream/1"
             }
         ]
     },
@@ -263,28 +256,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Nascar Cup Series 2026 - Anduril 250",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Nascar%20Cup%20Series%202026%20-%20Anduril%20250&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:45 PM | 21-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_nascar-cup-series-2026-anduril-250-live-stream/1"
             }
         ]
     },
