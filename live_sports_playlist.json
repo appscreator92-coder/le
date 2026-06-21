@@ -2,42 +2,6 @@
     {
         "Category": "Fight",
         "League": "Fight",
-        "Team 1 Name": "UFC Fight Night: Kape",
-        "Team 2 Name": "Horiguchi",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "UFC Fight Night: Kape vs. Horiguchi",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkDBAQQJCaRDjps2RFLAa0lMESIt8bQpCIqIAMYiQKI9cnmNW-mEEim2emELAkuU1qFPWVWE1LQJtcidgVTIIIA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "03:00 AM | 21-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Paramount+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-kape-vs-horiguchi/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Paramount+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-kape-vs-horiguchi/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23326/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
         "Team 1 Name": "Oscar Collazo",
         "Team 2 Name": "Neider Valdez Aguilar",
         "Team 1 Logo": "",
@@ -178,20 +142,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-los-angeles-dodgers/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_dodgers-orioles-live-streaming-1328683986/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_dodgers-orioles-live-streaming-1328683986/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -216,14 +166,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - DBACKS.TV",
+                "Language": "English - Peacock",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-arizona-diamondbacks/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - DBACKS.TV",
+                "Language": "English - Peacock",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-arizona-diamondbacks/2"
             },
@@ -571,6 +521,35 @@
         ]
     },
     {
+        "Category": "Afl",
+        "League": "Afl",
+        "Team 1 Name": "St Kilda Football Club",
+        "Team 2 Name": "Western Bulldogs",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmYFcCQhRZLdxB8QiHDFwgVICNpAoCFJnxRcwZeEXminTWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhaIfiFWruIACYgIIPiFMmYxrcYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "St Kilda Football Club vs Western Bulldogs",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcCGIrcIbiD76dMECh2mDfAsCQVLrEWJRgVKLs-L0ss101phnYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "11:15 AM | 21-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/st-kilda-saints-vs-western-bulldogs-australian-football-3472/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/st-kilda-saints-vs-western-bulldogs-australian-football-3472/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -704,35 +683,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "St Kilda Football Club",
-        "Team 2 Name": "Western Bulldogs",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmYFcCQhRZLdxB8QiHDFwgVICNpAoCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhaIfiFWruIACYgIIPiFMmYxrcYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "St Kilda Football Club vs Western Bulldogs",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcCGIrcIbiD76dMECh2mDfAsCQVLrEWJRgVKLs-L0ss101phnYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "11:15 AM | 21-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/st-kilda-saints-vs-western-bulldogs-australian-football-3472/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/st-kilda-saints-vs-western-bulldogs-australian-football-3472/2"
             }
         ]
     },
