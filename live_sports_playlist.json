@@ -22,49 +22,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "U.S. Open Championship",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=U.S.%20Open%20Championship&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "08:00 PM | 21-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/us-open-championship-atp1000/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/us-open-championship-atp1000/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/us-open-championship-atp1000/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/us-open-championship-atp1000/4"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "New York Yankees",
@@ -241,35 +198,6 @@
         ]
     },
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Oklahoma Sooners vs North Carolina Tar Heels",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Oklahoma%20Sooners%20vs%20North%20Carolina%20Tar%20Heels&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:30 AM | 22-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_ncaa-division-i-championship_oklahoma-sooners-north-carolina-tar-heels-live-streaming-1351088559/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_ncaa-division-i-championship_oklahoma-sooners-north-carolina-tar-heels-live-streaming-1351088559/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Texas Rangers",
@@ -282,20 +210,6 @@
         "Start Time": "12:35 AM | 22-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Rangers Sports Network",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-texas-rangers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Rangers Sports Network",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-texas-rangers/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -331,20 +245,6 @@
                 "Language": "English - Rockies.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-colorado-rockies/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rockies-pirates-live-streaming-1328840829/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rockies-pirates-live-streaming-1328840829/2"
             },
             {
                 "Source": "echo",
@@ -388,20 +288,6 @@
                 "Language": "English - Peacock",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-arizona-diamondbacks/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_diamondbacks-twins-live-streaming-1328841828/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/arizona-diamondbacks-vs-minnesota-twins-baseball-179174/1"
             },
             {
                 "Source": "golf",
@@ -656,6 +542,49 @@
         ]
     },
     {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Minnesota Lynx",
+        "Team 2 Name": "Washington Mystics",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgkYFGF6skIbiBIHcRkCAAmekChDwCFJnxRcwZeEXminTWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzB8IFP0EwQ3ECX25DIEABMQEXSHgEKTPprZgy8IvNGamtMM7GiIQA.webp",
+        "Match Title": "Minnesota Lynx vs Washington Mystics",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGBTNqfECRDcQUvQZAozISxFMKmSCn2Gz6KMCq1s35elllamtGBuYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "04:00 AM | 22-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NBA TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-mystics-vs-minnesota-lynx/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NBA TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-mystics-vs-minnesota-lynx/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_lynx-mystics-live-streaming-1211162625/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_lynx-mystics-live-streaming-1211162625/2"
+            }
+        ]
+    },
+    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "Uruguay",
@@ -842,49 +771,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23276/2"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Minnesota Lynx",
-        "Team 2 Name": "Washington Mystics",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgkYFGF6skIbiBIHcRkCAAmekChDwCFJnxRcwZeEXminTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzB8IFP0EwQ3ECX25DIEABMQEXSHgEKTPprZgy8IvNGamtMM7GiIQA.webp",
-        "Match Title": "Minnesota Lynx vs Washington Mystics",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXGBTNqfECRDcQUvQZAozISxFMKmSCn2Gz6KMCq1s35elllamtGBuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:00 AM | 22-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBA TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-mystics-vs-minnesota-lynx/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBA TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-washington-mystics-vs-minnesota-lynx/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_lynx-mystics-live-streaming-1211162625/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_lynx-mystics-live-streaming-1211162625/2"
             }
         ]
     },
