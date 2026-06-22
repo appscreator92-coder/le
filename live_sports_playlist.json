@@ -136,13 +136,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-mets-vs-philadelphia-phillies/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_phillies-mets-live-streaming-1328845824/1"
-            },
-            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -198,35 +191,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_wnba_sparks-liberty-live-streaming-1211163624/2"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Los Angeles Sparks W",
-        "Team 2 Name": "New York Liberty W",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmIEPXIMAxs0k94YqtwJdWYMLnzWgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiADGIGPXINVzST3hiq3Al1ZgwufFaA.webp",
-        "Match Title": "Los Angeles Sparks W vs New York Liberty W",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Los%20Angeles%20Sparks%20W%20vs%20New%20York%20Liberty%20W&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 22-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/los-angeles-sparks-w-vs-new-york-liberty-w-basketball-494895/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/los-angeles-sparks-w-vs-new-york-liberty-w-basketball-494895/2"
             }
         ]
     },
