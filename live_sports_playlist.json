@@ -51,64 +51,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "ASA Stars Slinger",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=ASA%20Stars%20Slinger&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:30 AM | 22-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-05-asa-stars-slinger-ppv-05/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-05-asa-stars-slinger-ppv-05/2"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "USAC Eastern Storm Action Track",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=USAC%20Eastern%20Storm%20Action%20Track&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 AM | 22-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-06-usac-eastern-storm-action-track-ppv-06/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-06-usac-eastern-storm-action-track-ppv-06/2"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Philadelphia Phillies",
@@ -134,13 +76,6 @@
                 "Language": "English - NBC",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-mets-vs-philadelphia-phillies/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/philadelphia-phillies-vs-new-york-mets-baseball-179165/1"
             },
             {
                 "Source": "golf",
@@ -177,20 +112,6 @@
                 "Language": "English - ESPN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-liberty-vs-los-angeles-sparks/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_sparks-liberty-live-streaming-1211163624/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_sparks-liberty-live-streaming-1211163624/2"
             }
         ]
     },
