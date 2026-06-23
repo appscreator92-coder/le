@@ -137,20 +137,6 @@
                 "Language": "English - FIFA Direct (No Commentary)",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-portugal-vs-uzbekistan/18"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23322/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23322/2"
             }
         ]
     },
@@ -431,6 +417,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-england-vs-ghana/18"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-l_england-ghana-live-streaming-1243795959/1"
+            },
+            {
                 "Source": "echo",
                 "Stream_No": 1,
                 "Language": "",
@@ -514,6 +507,20 @@
                 "Language": "English - Sportsnet",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-houston-astros-vs-toronto-blue-jays/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_blue-jays-astros-live-streaming-1341734922/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_mlb_blue-jays-astros-live-streaming-1341734922/2"
             },
             {
                 "Source": "echo",
