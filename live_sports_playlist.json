@@ -281,27 +281,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-detroit-tigers/2"
             },
             {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_tigers-yankees-live-streaming-1328933736/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_tigers-yankees-live-streaming-1328933736/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/detroit-tigers-vs-new-york-yankees-baseball-179186/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -336,20 +315,6 @@
                 "Language": "English - Rays.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-tampa-bay-rays/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rays-royals-live-streaming-1328935734/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_mlb_rays-royals-live-streaming-1328935734/2"
             },
             {
                 "Source": "golf",
@@ -1502,6 +1467,20 @@
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_angels-orioles-live-streaming-1328944725/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/los-angeles-angels-vs-baltimore-orioles-baseball-179185/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/los-angeles-angels-vs-baltimore-orioles-baseball-179185/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1536,6 +1515,13 @@
                 "Language": "English - CW Seattle",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-dallas-wings-vs-seattle-storm/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_storm-wings-live-streaming-1211171616/1"
             }
         ]
     },
