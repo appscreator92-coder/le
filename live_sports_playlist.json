@@ -224,14 +224,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - TSN",
+                "Language": "English - TSN2",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-bosnia-herzegovina-vs-qatar/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - TSN",
+                "Language": "English - TSN2",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-bosnia-herzegovina-vs-qatar/2"
             },
@@ -294,16 +294,30 @@
             {
                 "Source": "admin",
                 "Stream_No": 11,
-                "Language": "Spanish - Telemundo",
+                "Language": "Spanish - UNIVERSO",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-bosnia-herzegovina-vs-qatar/11"
             },
             {
                 "Source": "admin",
                 "Stream_No": 12,
-                "Language": "Spanish - Telemundo",
+                "Language": "Spanish - UNIVERSO",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-bosnia-herzegovina-vs-qatar/12"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 13,
+                "Language": "German - ORF 1",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-bosnia-herzegovina-vs-qatar/13"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 14,
+                "Language": "German - ORF 1",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-bosnia-herzegovina-vs-qatar/14"
             },
             {
                 "Source": "golf",
@@ -365,14 +379,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 5,
-                "Language": "English - BBC/ITV",
+                "Language": "English - ITV1",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-switzerland-vs-canada/5"
             },
             {
                 "Source": "admin",
                 "Stream_No": 6,
-                "Language": "English - BBC/ITV",
+                "Language": "English - ITV1",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-switzerland-vs-canada/6"
             },
@@ -550,14 +564,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 5,
-                "Language": "English - BBC/ITV",
+                "Language": "English - BBC One",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-brazil/5"
             },
             {
                 "Source": "admin",
                 "Stream_No": 6,
-                "Language": "English - BBC/ITV",
+                "Language": "English - BBC One",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-scotland-vs-brazil/6"
             },
@@ -635,14 +649,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - TSN",
+                "Language": "English - TSN2",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-morocco-vs-haiti/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - TSN",
+                "Language": "English - TSN2",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-morocco-vs-haiti/2"
             },
@@ -663,14 +677,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 5,
-                "Language": "English - BBC/ITV",
+                "Language": "English - BBC Two",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-morocco-vs-haiti/5"
             },
             {
                 "Source": "admin",
                 "Stream_No": 6,
-                "Language": "English - BBC/ITV",
+                "Language": "English - BBC Two",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-morocco-vs-haiti/6"
             },
@@ -705,14 +719,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 11,
-                "Language": "Spanish - Telemundo",
+                "Language": "Spanish - UNIVERSO",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-morocco-vs-haiti/11"
             },
             {
                 "Source": "admin",
                 "Stream_No": 12,
-                "Language": "Spanish - Telemundo",
+                "Language": "Spanish - UNIVERSO",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-morocco-vs-haiti/12"
             },
@@ -1242,8 +1256,8 @@
         "League": "Football",
         "Team 1 Name": "Czechia",
         "Team 2 Name": "Mexico",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdCEL6c+WMDxNaOlgkVcttM+TBgtEVsAhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdLxAz8sYHia0dLBIq5bap8mDBaIrYBCA.webp",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
         "Match Title": "Czechia vs. Mexico",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IAMYgIwCCBDYZI4PFIgSIKiCxbsIFHtLAawnTVkrtsk7PVlZ+ctIFClBBSnKFgSXOI9Cwbk5pYUMPNxUwQMU7IA.webp",
         "Match Status": "Upcoming ⏳",
@@ -1281,14 +1295,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 5,
-                "Language": "English - BBC/ITV",
+                "Language": "English - BBC One",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-czechia-vs-mexico/5"
             },
             {
                 "Source": "admin",
                 "Stream_No": 6,
-                "Language": "English - BBC/ITV",
+                "Language": "English - BBC One",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-czechia-vs-mexico/6"
             },
@@ -1366,14 +1380,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - TSN",
+                "Language": "English - TSN2",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-south-africa-vs-south-korea/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - TSN",
+                "Language": "English - TSN2",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-south-africa-vs-south-korea/2"
             },
@@ -1394,14 +1408,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 5,
-                "Language": "English - BBC/ITV",
+                "Language": "English - BBC Two",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-south-africa-vs-south-korea/5"
             },
             {
                 "Source": "admin",
                 "Stream_No": 6,
-                "Language": "English - BBC/ITV",
+                "Language": "English - BBC Two",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-south-africa-vs-south-korea/6"
             },
@@ -1436,14 +1450,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 11,
-                "Language": "Spanish - Telemundo",
+                "Language": "Spanish - UNIVERSO",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-south-africa-vs-south-korea/11"
             },
             {
                 "Source": "admin",
                 "Stream_No": 12,
-                "Language": "Spanish - Telemundo",
+                "Language": "Spanish - UNIVERSO",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-south-africa-vs-south-korea/12"
             },
