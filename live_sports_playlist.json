@@ -22,6 +22,42 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "England",
+        "Team 2 Name": "New Zealand",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0ICCERFV9cgwDGzST3hiq3Al1ZgwufFaA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIfiADGIePXINVzcT3giq3Al1ZgwufFaA.webp",
+        "Match Title": "England vs New Zealand",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=England%20vs%20New%20Zealand&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:00 PM | 25-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/england-vs-new-zealand-third-test-cricket-hundred-1/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/england-vs-new-zealand-third-test-cricket-hundred-1/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/england-vs-new-zealand-third-test-cricket-hundred-1/3"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -155,42 +191,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "England",
-        "Team 2 Name": "New Zealand",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0ICCERFV9cgwDGzST3hiq3Al1ZgwufFaA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIfiADGIePXINVzcT3giq3Al1ZgwufFaA.webp",
-        "Match Title": "England vs New Zealand",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=England%20vs%20New%20Zealand&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "03:00 PM | 25-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/england-vs-new-zealand-third-test-cricket-hundred-1/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/england-vs-new-zealand-third-test-cricket-hundred-1/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/england-vs-new-zealand-third-test-cricket-hundred-1/3"
             }
         ]
     },
@@ -454,14 +454,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 5,
-                "Language": "English - BBC/ITV",
+                "Language": "English - BBC One",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-ecuador-vs-germany/5"
             },
             {
                 "Source": "admin",
                 "Stream_No": 6,
-                "Language": "English - BBC/ITV",
+                "Language": "English - BBC One",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-ecuador-vs-germany/6"
             },
@@ -508,6 +508,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-ecuador-vs-germany/12"
             },
             {
+                "Source": "admin",
+                "Stream_No": 13,
+                "Language": "German - ORF 1",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ecuador-vs-germany/13"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 14,
+                "Language": "German - ORF 1",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-ecuador-vs-germany/14"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -539,14 +553,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - TSN",
+                "Language": "English - TSN2",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - TSN",
+                "Language": "English - TSN2",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/2"
             },
@@ -609,16 +623,30 @@
             {
                 "Source": "admin",
                 "Stream_No": 11,
-                "Language": "Spanish - Telemundo",
+                "Language": "Spanish - UNIVERSO",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/11"
             },
             {
                 "Source": "admin",
                 "Stream_No": 12,
-                "Language": "Spanish - Telemundo",
+                "Language": "Spanish - UNIVERSO",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/12"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 13,
+                "Language": "German - Servus TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/13"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 14,
+                "Language": "German - Servus TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/14"
             },
             {
                 "Source": "golf",
@@ -724,14 +752,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - TSN",
+                "Language": "English - TSN2",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-japan-vs-sweden/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - TSN",
+                "Language": "English - TSN2",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-japan-vs-sweden/2"
             },
@@ -752,14 +780,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 5,
-                "Language": "English - BBC/ITV",
+                "Language": "English - BBC One",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-japan-vs-sweden/5"
             },
             {
                 "Source": "admin",
                 "Stream_No": 6,
-                "Language": "English - BBC/ITV",
+                "Language": "English - BBC One",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-japan-vs-sweden/6"
             },
@@ -794,16 +822,30 @@
             {
                 "Source": "admin",
                 "Stream_No": 11,
-                "Language": "Spanish - Telemundo",
+                "Language": "Spanish - UNIVERSO",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-japan-vs-sweden/11"
             },
             {
                 "Source": "admin",
                 "Stream_No": 12,
-                "Language": "Spanish - Telemundo",
+                "Language": "Spanish - UNIVERSO",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-japan-vs-sweden/12"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 13,
+                "Language": "German - ORF 1",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-japan-vs-sweden/13"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 14,
+                "Language": "German - ORF 1",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-japan-vs-sweden/14"
             },
             {
                 "Source": "golf",
@@ -865,14 +907,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 5,
-                "Language": "English - BBC/ITV",
+                "Language": "English - BBC Two",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tunisia-vs-netherlands/5"
             },
             {
                 "Source": "admin",
                 "Stream_No": 6,
-                "Language": "English - BBC/ITV",
+                "Language": "English - BBC Two",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tunisia-vs-netherlands/6"
             },
@@ -917,6 +959,34 @@
                 "Language": "Spanish - Telemundo",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tunisia-vs-netherlands/12"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 13,
+                "Language": "German - Das Erste",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tunisia-vs-netherlands/13"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 14,
+                "Language": "German - Das Erste",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tunisia-vs-netherlands/14"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 15,
+                "Language": "German - Servus TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tunisia-vs-netherlands/15"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 16,
+                "Language": "German - Servus TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tunisia-vs-netherlands/16"
             },
             {
                 "Source": "golf",
@@ -1209,14 +1279,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 5,
-                "Language": "English - BBC/ITV",
+                "Language": "English - ITV1",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/5"
             },
             {
                 "Source": "admin",
                 "Stream_No": 6,
-                "Language": "English - BBC/ITV",
+                "Language": "English - ITV1",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/6"
             },
@@ -1277,6 +1347,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/14"
             },
             {
+                "Source": "admin",
+                "Stream_No": 15,
+                "Language": "German - ORF 1",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/15"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 16,
+                "Language": "German - ORF 1",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/16"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1308,14 +1392,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - TSN",
+                "Language": "English - TSN2",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - TSN",
+                "Language": "English - TSN2",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/2"
             },
@@ -1336,14 +1420,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 5,
-                "Language": "English - BBC/ITV",
+                "Language": "English - ITV4",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/5"
             },
             {
                 "Source": "admin",
                 "Stream_No": 6,
-                "Language": "English - BBC/ITV",
+                "Language": "English - ITV4",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/6"
             },
@@ -1378,14 +1462,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 11,
-                "Language": "Spanish - Telemundo",
+                "Language": "Spanish - UNIVERSO",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/11"
             },
             {
                 "Source": "admin",
                 "Stream_No": 12,
-                "Language": "Spanish - Telemundo",
+                "Language": "Spanish - UNIVERSO",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/12"
             },
