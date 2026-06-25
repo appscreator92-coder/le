@@ -22,28 +22,6 @@
         ]
     },
     {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "Pittsburgh Pirates",
-        "Team 2 Name": "Seattle Mariners",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYPiAAmYMt2whuWgyA0lcJ44hAEKTPii47y9eaIdNaYHWNEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIUYECHUxQIbiBK49WkDFUnE8AhSZ8UXMGXhF5o+01phHY0RCA.webp",
-        "Match Title": "Pittsburgh Pirates vs Seattle Mariners",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFD4gZTJGBQhuILSBAxcIAwdNHLuin2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:35 PM | 25-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23398/1"
-            }
-        ]
-    },
-    {
         "Category": "Other",
         "League": "Other",
         "Team 1 Name": "",
@@ -518,6 +496,28 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "PDRA North v South Shootout 💥",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=PDRA%20North%20v%20South%20Shootout%20%F0%9F%92%A5&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:00 AM | 26-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-pdra-north-v-south-shootout-ppv-01/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -655,6 +655,28 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "USAC Hoosier Hundred Lucas Oil 🔥",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=USAC%20Hoosier%20Hundred%20Lucas%20Oil%20%F0%9F%94%A5&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:25 AM | 26-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-02-usac-hoosier-hundred-lucas-oil-ppv-02/1"
+            }
+        ]
+    },
+    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Detroit Tigers",
@@ -694,6 +716,28 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23400/1"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Lucas Oil Firecracker 100 Lernerville  ⭐",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Lucas%20Oil%20Firecracker%20100%20Lernerville%20%20%E2%AD%90&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:45 AM | 26-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-03-lucas-oil-firecracker-100-lernerville-ppv-03/1"
             }
         ]
     },
