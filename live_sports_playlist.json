@@ -427,6 +427,28 @@
     {
         "Category": "Football",
         "League": "Football",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Curaçao vs Côte d'Ivoire",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Cura%C3%A7ao%20vs%20C%C3%B4te%20d%27Ivoire&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "02:00 AM | 26-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-e_curacao-cote-divoire-live-streaming-1243814940/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
         "Team 1 Name": "Ecuador",
         "Team 2 Name": "Germany",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQfMBoAmuMChDcQJEPsP6QJkIhgGCFJnxRcwZeEXminTWmBdjREEA.webp",
@@ -534,6 +556,13 @@
                 "Language": "German - ORF 1",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-ecuador-vs-germany/14"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-e_ecuador-germany-live-streaming-1243815939/1"
             },
             {
                 "Source": "golf",
@@ -1015,6 +1044,13 @@
                 "Language": "German - Servus TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-tunisia-vs-netherlands/16"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-f_tunisia-netherlands-live-streaming-1243817937/1"
             },
             {
                 "Source": "golf",
