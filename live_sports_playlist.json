@@ -100,20 +100,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - MLB.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-pittsburgh-pirates/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - MLB.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-pittsburgh-pirates/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -261,22 +247,162 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Curaçao vs Côte d'Ivoire",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Cura%C3%A7ao%20vs%20C%C3%B4te%20d%27Ivoire&font=Oswald",
+        "Team 1 Name": "Curaçao",
+        "Team 2 Name": "Ivory Coast",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTQU-MABMGIbiE0gYhkChAkzIRAfgEKTPurZgy8IvNHqmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YcGS0huICCBIG9IACZGz++AQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Curaçao vs Ivory Coast",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXOxAy+CHiG4g+hkCRAwTIS4lN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "02:00 AM | 26-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "delta",
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - TSN2",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - TSN2",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - FS1",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - FS1",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/4"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 5,
+                "Language": "English - BBC Two",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/5"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 6,
+                "Language": "English - BBC Two",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/6"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 7,
+                "Language": "Arabic - beIN Sports",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/7"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 8,
+                "Language": "Arabic - beIN Sports",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/8"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 9,
+                "Language": "Spanish - DAZN Spain",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/9"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 10,
+                "Language": "Spanish - DAZN Spain",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/10"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 11,
+                "Language": "Spanish - UNIVERSO",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/11"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 12,
+                "Language": "Spanish - UNIVERSO",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/12"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 13,
+                "Language": "German - Servus TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/13"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 14,
+                "Language": "German - Servus TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/14"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/curacao-vs-ivory-coast-football-1489409/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/curacao-vs-ivory-coast-football-1489409/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/curacao-vs-ivory-coast-football-1489409/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/curacao-vs-ivory-coast-football-1489409/4"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 5,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/curacao-vs-ivory-coast-football-1489409/5"
+            },
+            {
+                "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-e_curacao-cote-divoire-live-streaming-1243814940/1"
+                "Embed_URL": "https://embed.st/embed/golf/23363/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23363/2"
             }
         ]
     },
@@ -473,162 +599,22 @@
     {
         "Category": "Football",
         "League": "Football",
-        "Team 1 Name": "Curaçao",
-        "Team 2 Name": "Ivory Coast",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTQU-MABMGIbiE0gYhkChAkzIRAfgEKTPurZgy8IvNHqmtMM7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YcGS0huICCBIG9IACZGz++AQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Match Title": "Curaçao vs Ivory Coast",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXOxAy+CHiG4g+hkCRAwTIS4lN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Curaçao vs Côte d'Ivoire",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Cura%C3%A7ao%20vs%20C%C3%B4te%20d%27Ivoire&font=Oswald",
         "Match Status": "Live 🔴",
         "Start Time": "02:00 AM | 26-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TSN2",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TSN2",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - FS1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - FS1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "English - BBC Two",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "English - BBC Two",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/6"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 7,
-                "Language": "Arabic - beIN Sports",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/7"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 8,
-                "Language": "Arabic - beIN Sports",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/8"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 9,
-                "Language": "Spanish - DAZN Spain",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/9"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 10,
-                "Language": "Spanish - DAZN Spain",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/10"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 11,
-                "Language": "Spanish - UNIVERSO",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/11"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 12,
-                "Language": "Spanish - UNIVERSO",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/12"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 13,
-                "Language": "German - Servus TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/13"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 14,
-                "Language": "German - Servus TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/14"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/curacao-vs-ivory-coast-football-1489409/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/curacao-vs-ivory-coast-football-1489409/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/curacao-vs-ivory-coast-football-1489409/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/curacao-vs-ivory-coast-football-1489409/4"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/curacao-vs-ivory-coast-football-1489409/5"
-            },
-            {
-                "Source": "golf",
+                "Source": "delta",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23363/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23363/2"
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-e_curacao-cote-divoire-live-streaming-1243814940/1"
             }
         ]
     },
