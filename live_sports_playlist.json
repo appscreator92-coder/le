@@ -65,6 +65,78 @@
         ]
     },
     {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Formula 3: Austria -R5 | Formula 2: Austria -R6 🏁",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Formula%203%3A%20Austria%20-R5%20%7C%20Formula%202%3A%20Austria%20-R6%20%F0%9F%8F%81&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "01:50 PM | 26-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/formula-3-austria-r5-formula-2-austria-r6-game-19996/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/formula-3-austria-r5-formula-2-austria-r6-game-19996/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/formula-3-austria-r5-formula-2-austria-r6-game-19996/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/formula-3-austria-r5-formula-2-austria-r6-game-19996/4"
+            }
+        ]
+    },
+    {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Gold Coast Titans",
+        "Team 2 Name": "Canterbury Bankstown Bulldogs",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBRuYGbBDbuIACar9IRBBB8zuVQQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmPMNxAxg+EIk0qQEEIcTG+JkCisEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Gold Coast Titans vs Canterbury Bankstown Bulldogs",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGBTszECjDcQhviCkhzJIyEQ4YuAsCQU+w2fX0qUXMGXhEssl5MtGA+YqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 PM | 26-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fox League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-titans-vs-bulldogs/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fox League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-titans-vs-bulldogs/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -202,35 +274,6 @@
         ]
     },
     {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Gold Coast Titans",
-        "Team 2 Name": "Canterbury Bankstown Bulldogs",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBRuYGbBDbuIACar9IRBBB8zuVQQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmPMNxAxg+EIk0qQEEIcTG+JkCisEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Gold Coast Titans vs Canterbury Bankstown Bulldogs",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGBTszECjDcQhviCkhzJIyEQ4YuAsCQU+w2fX0qUXMGXhEssl5MtGA+YqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:00 PM | 26-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox League",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-titans-vs-bulldogs/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox League",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-titans-vs-bulldogs/2"
-            }
-        ]
-    },
-    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "",
@@ -249,6 +292,70 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live-event_formula-1-2026-austria-gp-live-stream/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/formula-3-austria-r5-formula-2-austria-r6-game-19996/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/formula-3-austria-r5-formula-2-austria-r6-game-19996/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/formula-3-austria-r5-formula-2-austria-r6-game-19996/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/formula-3-austria-r5-formula-2-austria-r6-game-19996/4"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "England",
+        "Team 2 Name": "New Zealand",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0ICCERFV9cgwDGzST3hiq3Al1ZgwufFaA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIfiADGIePXINVzcT3giq3Al1ZgwufFaA.webp",
+        "Match Title": "England vs New Zealand",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=England%20vs%20New%20Zealand&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "03:15 PM | 26-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/england-vs-new-zealand-third-test-cricket-hundred-1/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/england-vs-new-zealand-third-test-cricket-hundred-1/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/england-vs-new-zealand-third-test-cricket-hundred-1/3"
             }
         ]
     },
@@ -314,6 +421,49 @@
                 "Language": "English - Fox League",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-broncos-vs-roosters/2"
+            }
+        ]
+    },
+    {
+        "Category": "Tennis",
+        "League": "Tennis",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "ATP / WTA: Bad Homburg / Mallorca 🎾",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=ATP%20/%20WTA%3A%20Bad%20Homburg%20/%20Mallorca%20%F0%9F%8E%BE&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:00 PM | 26-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/4"
             }
         ]
     },
@@ -399,7 +549,7 @@
         "Match Title": "Austrian Grand Prix Practice 1",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPSTklYECG4g+hjSBS4QMc5ZgFgWmP2Gz6KMCpRc32hrI9NaYG5iohBAA.webp",
         "Match Status": "Upcoming ⏳",
-        "Start Time": "09:00 PM | 26-Jun",
+        "Start Time": "05:30 PM | 26-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
@@ -407,28 +557,28 @@
                 "Stream_No": 1,
                 "Language": "English - Formula 1",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-austrian-grand-prix-practice-1/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-austrian-grand-prix-practice-2/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
                 "Language": "English - Formula 1",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-austrian-grand-prix-practice-1/2"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-austrian-grand-prix-practice-2/2"
             },
             {
                 "Source": "admin",
                 "Stream_No": 3,
                 "Language": "English - Apple TV (F1TV)",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-austrian-grand-prix-practice-1/3"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-austrian-grand-prix-practice-2/3"
             },
             {
                 "Source": "admin",
                 "Stream_No": 4,
                 "Language": "English - Apple TV (F1TV)",
                 "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-austrian-grand-prix-practice-1/4"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-austrian-grand-prix-practice-2/4"
             },
             {
                 "Source": "golf",
@@ -436,6 +586,35 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23369/1"
+            }
+        ]
+    },
+    {
+        "Category": "Cricket",
+        "League": "Cricket",
+        "Team 1 Name": "Kent Spitfires",
+        "Team 2 Name": "Notts Outlaws",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh14oQa+QBMw3ELs0gSIREZggziCOYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQgYxNCAAmuEN20gSIREZhrjIPiBQEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Kent Spitfires vs Notts Outlaws",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGzAoGwJCG76QfIyBQgShkCEQwQMArop9hs+ijArtmsvCIbR2ky0YB5iohBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "12:00 AM | 27-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/mens-vitality-blast-kent-vs-notts-cricket-1/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/mens-vitality-blast-kent-vs-notts-cricket-1/2"
             }
         ]
     },
