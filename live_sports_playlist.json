@@ -172,13 +172,6 @@
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_tigers-astros-live-streaming-1342020636/2"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/detroit-tigers-vs-houston-astros-baseball-179227/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -867,20 +860,6 @@
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_red-sox-yankees-live-streaming-1342023633/2"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/boston-red-sox-vs-new-york-yankees-baseball-179228/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/boston-red-sox-vs-new-york-yankees-baseball-179228/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -958,20 +937,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_cardinals-diamondbacks-live-streaming-1342025631/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/stlouis-cardinals-vs-arizona-diamondbacks-baseball-179220/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/stlouis-cardinals-vs-arizona-diamondbacks-baseball-179220/2"
             },
             {
                 "Source": "golf",
@@ -1145,6 +1110,35 @@
                 "Language": "English - CFL+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-edmonton-elks-vs-winnipeg-blue-bombers/2"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Jackson Motorplex",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Jackson%20Motorplex&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "07:00 AM | 26-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-07-jackson-motorplex-ppv-07/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-07-jackson-motorplex-ppv-07/2"
             }
         ]
     },
@@ -1332,48 +1326,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/14"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/4"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/5"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 6,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/6"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1499,48 +1451,6 @@
                 "Language": "German - Servus TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/14"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/4"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/5"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 6,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/6"
             },
             {
                 "Source": "golf",
