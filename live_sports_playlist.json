@@ -180,6 +180,42 @@
         ]
     },
     {
+        "Category": "Afl",
+        "League": "Afl",
+        "Team 1 Name": "Hawthorn Football Club",
+        "Team 2 Name": "Greater Western Sydney Giants",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcQ4FCFoAGBKpAATEBBB91pkDAtmUBCkz4ouYMvCLzRTprTAuxoiCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1EATEKurcEIbhpAQQfECeMwTIRCgIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Hawthorn Football Club vs Greater Western Sydney Giants",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiBTAADERkoQ3EHxAwQGg5ZAQQiKQWBIKfYbPoowKrW0-l6WWS0mWjBPMVEIIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "03:40 PM | 26-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/hawthorn-hawks-vs-greater-western-sydney-giants-australian-football-3552/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/hawthorn-hawks-vs-greater-western-sydney-giants-australian-football-3552/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/hawthorn-hawks-vs-greater-western-sydney-giants-australian-football-3552/3"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -317,42 +353,6 @@
         ]
     },
     {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Hawthorn Football Club",
-        "Team 2 Name": "Greater Western Sydney Giants",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcQ4FCFoAGBKpAATEBBB91pkDAtmUBCkz4ouYMvCLzRTprTAuxoiCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1EATEKurcEIbhpAQQfECeMwTIRCgIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Hawthorn Football Club vs Greater Western Sydney Giants",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiBTAADERkoQ3EHxAwQGg5ZAQQiKQWBIKfYbPoowKrW0-l6WWS0mWjBPMVEIIA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "03:40 PM | 26-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/hawthorn-hawks-vs-greater-western-sydney-giants-australian-football-3552/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/hawthorn-hawks-vs-greater-western-sydney-giants-australian-football-3552/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/hawthorn-hawks-vs-greater-western-sydney-giants-australian-football-3552/3"
-            }
-        ]
-    },
-    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "Brisbane Broncos",
@@ -378,6 +378,20 @@
                 "Language": "English - Fox League",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-broncos-vs-roosters/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/brisbane-broncos-vs-sydney-roosters-game-2737723/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/brisbane-broncos-vs-sydney-roosters-game-2737723/2"
             }
         ]
     },
