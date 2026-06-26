@@ -65,6 +65,28 @@
         ]
     },
     {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "Austrian Grand Prix",
+        "Team 2 Name": "Practice 2",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Austrian Grand Prix Practice 1",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPSTklYECG4g+hjSBS4QMc5ZgFgWmP2Gz6KMCpRc32hrI9NaYG5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:30 PM | 26-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23370/1"
+            }
+        ]
+    },
+    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "",
@@ -94,81 +116,31 @@
         ]
     },
     {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "Austrian Grand Prix",
-        "Team 2 Name": "Practice 2",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Austrian Grand Prix Practice 1",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPSTklYECG4g+hjSBS4QMc5ZgFgWmP2Gz6KMCpRc32hrI9NaYG5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "09:00 PM | 26-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Formula 1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-austrian-grand-prix-practice-2/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Formula 1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-austrian-grand-prix-practice-2/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - Apple TV (F1TV)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-austrian-grand-prix-practice-2/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - Apple TV (F1TV)",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-austrian-grand-prix-practice-2/4"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23370/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
+        "Category": "Darts",
+        "League": "Darts",
         "Team 1 Name": "",
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "World Series Darts - US Masters  🎯",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=World%20Series%20Darts%20-%20US%20Masters%20%20%F0%9F%8E%AF&font=Oswald",
+        "Match Title": "US Darts Masters | Day 2",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IFKRDCQVEDBAQpMuSBAjgiAMaq5IkFl3C9WUuumIDJkyRA2IE-mEHqC2emELAkuTRKFPWCHUyCVd4cidgILIIIA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "11:00 PM | 26-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "echo",
+                "Source": "admin",
                 "Stream_No": 1,
-                "Language": "",
+                "Language": "English - PDC.TV",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/world-series-darts-us-masters-darts-1/1"
+                "Embed_URL": "https://embed.st/embed/admin/ppv-us-darts-masters-day-2/1"
             },
             {
-                "Source": "echo",
+                "Source": "admin",
                 "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/world-series-darts-us-masters-darts-1/2"
+                "Language": "English - PDC.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-us-darts-masters-day-2/2"
             }
         ]
     },
@@ -202,31 +174,31 @@
         ]
     },
     {
-        "Category": "Darts",
-        "League": "Darts",
+        "Category": "Other",
+        "League": "Other",
         "Team 1 Name": "",
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "US Darts Masters | Day 2",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IFKRDCQVEDBAQpMuSBAjgiAMaq5IkFl3C9WUuumIDJkyRA2IE-mEHqC2emELAkuTRKFPWCHUyCVd4cidgILIIIA.webp",
+        "Match Title": "World Series Darts - US Masters  🎯",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=World%20Series%20Darts%20-%20US%20Masters%20%20%F0%9F%8E%AF&font=Oswald",
         "Match Status": "Live 🔴",
         "Start Time": "11:00 PM | 26-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
+                "Source": "echo",
                 "Stream_No": 1,
-                "Language": "English - PDC.TV",
+                "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-us-darts-masters-day-2/1"
+                "Embed_URL": "https://embed.st/embed/echo/world-series-darts-us-masters-darts-1/1"
             },
             {
-                "Source": "admin",
+                "Source": "echo",
                 "Stream_No": 2,
-                "Language": "English - PDC.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-us-darts-masters-day-2/2"
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/world-series-darts-us-masters-darts-1/2"
             }
         ]
     },
@@ -782,6 +754,13 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-i_norway-france-live-streaming-1243883871/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-i_norway-france-live-streaming-1243883871/3"
             },
             {
                 "Source": "echo",
