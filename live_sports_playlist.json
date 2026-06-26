@@ -172,6 +172,13 @@
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_tigers-astros-live-streaming-1342020636/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/detroit-tigers-vs-houston-astros-baseball-179227/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -860,6 +867,20 @@
                 "Embed_URL": "https://embed.st/embed/delta/live_mlb_red-sox-yankees-live-streaming-1342023633/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/boston-red-sox-vs-new-york-yankees-baseball-179228/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/boston-red-sox-vs-new-york-yankees-baseball-179228/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -944,6 +965,35 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23405/1"
+            }
+        ]
+    },
+    {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "Winnipeg Blue Bombers",
+        "Team 2 Name": "Edmonton Elks",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD15aVWAFIQ3ECRAATXUdN9cIc-AIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCiUzMNxB9cILQBMQiGCBSrdJnIwpM+6tmDLwi8tcCa0wjsaIhA.webp",
+        "Match Title": "Winnipeg Blue Bombers vs Edmonton Elks",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbpBAxcYPiBQhuIKSBIgIuEHsQhjtgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:30 AM | 26-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - CFL+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-edmonton-elks-vs-winnipeg-blue-bombers/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - CFL+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-edmonton-elks-vs-winnipeg-blue-bombers/2"
             }
         ]
     },
@@ -1081,35 +1131,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "Winnipeg Blue Bombers",
-        "Team 2 Name": "Edmonton Elks",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD15aVWAFIQ3ECRAATXUdN9cIc-AIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCiUzMNxB9cILQBMQiGCBSrdJnIwpM+6tmDLwi8tcCa0wjsaIhA.webp",
-        "Match Title": "Winnipeg Blue Bombers vs Edmonton Elks",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbpBAxcYPiBQhuIKSBIgIuEHsQhjtgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:30 AM | 26-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - CFL+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-edmonton-elks-vs-winnipeg-blue-bombers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - CFL+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-edmonton-elks-vs-winnipeg-blue-bombers/2"
             }
         ]
     },
@@ -1326,6 +1347,55 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/14"
             },
             {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-d_turkiye-usa-live-streaming-1243813941/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/4"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 5,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/5"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 6,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/6"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -1451,6 +1521,48 @@
                 "Language": "German - Servus TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/14"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/4"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 5,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/5"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 6,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/6"
             },
             {
                 "Source": "golf",
