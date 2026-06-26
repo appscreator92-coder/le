@@ -65,18 +65,54 @@
         ]
     },
     {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Gold Coast Titans",
+        "Team 2 Name": "Canterbury Bankstown Bulldogs",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBRuYGbBDbuIACar9IRBBB8zuVQQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmPMNxAxg+EIk0qQEEIcTG+JkCisEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Gold Coast Titans vs Canterbury Bankstown Bulldogs",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGBTszECjDcQhviCkhzJIyEQ4YuAsCQU+w2fX0qUXMGXhEssl5MtGA+YqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 PM | 26-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fox League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-titans-vs-bulldogs/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fox League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-titans-vs-bulldogs/2"
+            }
+        ]
+    },
+    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "",
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Formula 3: Austria -R5 | Formula 2: Austria -R6 🏁",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Formula%203%3A%20Austria%20-R5%20%7C%20Formula%202%3A%20Austria%20-R6%20%F0%9F%8F%81&font=Oswald",
+        "Match Title": "Formula 1 2026 - Austria GP",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Formula%201%202026%20-%20Austria%20GP&font=Oswald",
         "Match Status": "Live 🔴",
-        "Start Time": "01:50 PM | 26-Jun",
+        "Start Time": "02:50 PM | 26-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live-event_formula-1-2026-austria-gp-live-stream/1"
+            },
             {
                 "Source": "echo",
                 "Stream_No": 1,
@@ -104,35 +140,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/formula-3-austria-r5-formula-2-austria-r6-game-19996/4"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Gold Coast Titans",
-        "Team 2 Name": "Canterbury Bankstown Bulldogs",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBRuYGbBDbuIACar9IRBBB8zuVQQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmPMNxAxg+EIk0qQEEIcTG+JkCisEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Gold Coast Titans vs Canterbury Bankstown Bulldogs",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGBTszECjDcQhviCkhzJIyEQ4YuAsCQU+w2fX0qUXMGXhEssl5MtGA+YqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "02:00 PM | 26-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox League",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-titans-vs-bulldogs/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox League",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-titans-vs-bulldogs/2"
             }
         ]
     },
@@ -270,56 +277,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Formula 1 2026 - Austria GP",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Formula%201%202026%20-%20Austria%20GP&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:50 PM | 26-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live-event_formula-1-2026-austria-gp-live-stream/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/formula-3-austria-r5-formula-2-austria-r6-game-19996/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/formula-3-austria-r5-formula-2-austria-r6-game-19996/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/formula-3-austria-r5-formula-2-austria-r6-game-19996/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/formula-3-austria-r5-formula-2-austria-r6-game-19996/4"
             }
         ]
     },
@@ -884,6 +841,35 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23391/2"
+            }
+        ]
+    },
+    {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Leeds Rhinos",
+        "Team 2 Name": "Hull Kingston Rovers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgUYbmD5gAJrpDcQEIyD4hzZkqZOMKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwhaIDWuAATENxC6IezUZgGQJDQQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Leeds Rhinos vs Hull Kingston Rovers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRFLAhZWMChDcQfEFJAkQFi4hggbfAsCQV7rEWJRgVKLp-L0sst5MtGCeYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 27-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/leeds-rhinos-vs-hull-k-r-game-37322/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/leeds-rhinos-vs-hull-k-r-game-37322/2"
             }
         ]
     },
