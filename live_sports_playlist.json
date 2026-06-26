@@ -71,28 +71,6 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "PDRA North v South Shootout 💥",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=PDRA%20North%20v%20South%20Shootout%20%F0%9F%92%A5&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "03:00 AM | 26-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-pdra-north-v-south-shootout-ppv-01/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
         "Match Title": "USAC Hoosier Hundred Lucas Oil 🔥",
         "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=USAC%20Hoosier%20Hundred%20Lucas%20Oil%20%F0%9F%94%A5&font=Oswald",
         "Match Status": "Live 🔴",
@@ -618,6 +596,487 @@
         ]
     },
     {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Las Vegas Aces W",
+        "Team 2 Name": "Dallas Wings W",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmIAMb1yDLVkk94YqtwJdWYMLnzWgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmIbPXIMAxs0k94YqtwJdWYMLnzWgA.webp",
+        "Match Title": "Las Vegas Aces W vs Dallas Wings W",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Las%20Vegas%20Aces%20W%20vs%20Dallas%20Wings%20W&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 26-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/las-vegas-aces-w-vs-dallas-wings-w-basketball-494906/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/las-vegas-aces-w-vs-dallas-wings-w-basketball-494906/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Türkiye",
+        "Team 2 Name": "USA",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxkqX1yDRc3E94IqtwJdWYMLnxmgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIRCBAR65BgGNm4nvBFVuBLqzBhc+S0A.webp",
+        "Match Title": "Türkiye vs. United States",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEMOA1xVEHLIQpckFhAQQ8YIhqyAxthAyQNRYl0TSc4IvFysIlOUUChIptnphCwJLl2OhMG5ORUkyRwItciDrUmsgA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 26-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - TSN",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - TSN",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - FOX",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - FOX",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/4"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 5,
+                "Language": "English - ITV1",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/5"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 6,
+                "Language": "English - ITV1",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/6"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 7,
+                "Language": "Spanish - DAZN Spain",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/7"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 8,
+                "Language": "Spanish - DAZN Spain",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/8"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 9,
+                "Language": "Spanish - Telemundo",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/9"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 10,
+                "Language": "Spanish - Telemundo",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/10"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 11,
+                "Language": "Turkish - TRT 1 (1440p)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/11"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 12,
+                "Language": "Turkish - TRT 1 (1440p)",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/12"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 13,
+                "Language": "German - ORF 1",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/13"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 14,
+                "Language": "German - ORF 1",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/14"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-d_turkiye-usa-live-streaming-1243813941/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-d_turkiye-usa-live-streaming-1243813941/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 3,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-d_turkiye-usa-live-streaming-1243813941/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/4"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 5,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/5"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 6,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/6"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23368/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23368/2"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
+        "Team 1 Name": "Paraguay",
+        "Team 2 Name": "Australia",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMxAdzAATEBBDcQJQyER6DKfSAvLCMYEz4ouYMvCLzRTprTAuxoiCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS5kUwMGF4hwO7Vh0htKENRAATIyEQgCFfAPUcwZeEQVj1D+prHSGQA.webp",
+        "Match Title": "Paraguay vs Australia",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvDC8ws6iBRgQIXiCxHjIaSBjXbNxfmBIKWEXMYHVKHmDKbG1HLejvRgvuJiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 26-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - TSN2",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - TSN2",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - FS1",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - FS1",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/4"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 5,
+                "Language": "English - ITV4",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/5"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 6,
+                "Language": "English - ITV4",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/6"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 7,
+                "Language": "Spanish - DAZN Spain",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/7"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 8,
+                "Language": "Spanish - DAZN Spain",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/8"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 9,
+                "Language": "Spanish - UNIVERSO",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/9"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 10,
+                "Language": "Spanish - UNIVERSO",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/10"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 11,
+                "Language": "German - Das Erste",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/11"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 12,
+                "Language": "German - Das Erste",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/12"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 13,
+                "Language": "German - Servus TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/13"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 14,
+                "Language": "German - Servus TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/14"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-d_paraguay-australia-live-streaming-1243812942/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-d_paraguay-australia-live-streaming-1243812942/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/4"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 5,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/5"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 6,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/6"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23367/1"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23367/2"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Seattle Storm",
+        "Team 2 Name": "New York Liberty",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphT8wSEDBB8wIENxAATXCAiaQiAySNGCFJn1VswZeEXmjVTWmBdjREEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkTwwKEKPAgQ3EHxAxc+zSZ0GJhGMCZ8UXMGTX15o+01phHY0RCA.webp",
+        "Match Title": "Seattle Storm vs New York Liberty",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHF5JZtUNxBSQJEPpQgzIEBA0mCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 26-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - CW Seattle",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-liberty-vs-seattle-storm/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - CW Seattle",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-liberty-vs-seattle-storm/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_storm-liberty-live-streaming-1211185602/1"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Las Vegas Aces",
+        "Team 2 Name": "Dallas Wings",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTBCAE2AAGEOrAgQ3EHxARDp3biskQywjDX8UXMGXhF5o501phXY0QggA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm-ENw2wwfDSBL7chkIZQhdMAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "Las Vegas Aces vs Dallas Wings",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHwQhR9LHJDcQU7QZAozISxBAwzBYEgp9hs+ijAqUXD+V2yvTLRgHmI6QA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 AM | 26-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - NBA TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-dallas-wings-vs-las-vegas-aces/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - NBA TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-dallas-wings-vs-las-vegas-aces/2"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_aces-wings-live-streaming-1211184603/1"
+            },
+            {
+                "Source": "delta",
+                "Stream_No": 2,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/delta/live_wnba_aces-wings-live-streaming-1211184603/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -751,473 +1210,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Las Vegas Aces W",
-        "Team 2 Name": "Dallas Wings W",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmIAMb1yDLVkk94YqtwJdWYMLnzWgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmIbPXIMAxs0k94YqtwJdWYMLnzWgA.webp",
-        "Match Title": "Las Vegas Aces W vs Dallas Wings W",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Las%20Vegas%20Aces%20W%20vs%20Dallas%20Wings%20W&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 AM | 26-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/las-vegas-aces-w-vs-dallas-wings-w-basketball-494906/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/las-vegas-aces-w-vs-dallas-wings-w-basketball-494906/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Türkiye",
-        "Team 2 Name": "USA",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxkqX1yDRc3E94IqtwJdWYMLnxmgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIRCBAR65BgGNm4nvBFVuBLqzBhc+S0A.webp",
-        "Match Title": "Türkiye vs. United States",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEMOA1xVEHLIQpckFhAQQ8YIhqyAxthAyQNRYl0TSc4IvFysIlOUUChIptnphCwJLl2OhMG5ORUkyRwItciDrUmsgA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 AM | 26-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TSN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TSN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - FOX",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - FOX",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "English - ITV1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "English - ITV1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/6"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 7,
-                "Language": "Spanish - DAZN Spain",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/7"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 8,
-                "Language": "Spanish - DAZN Spain",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/8"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 9,
-                "Language": "Spanish - Telemundo",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/9"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 10,
-                "Language": "Spanish - Telemundo",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/10"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 11,
-                "Language": "Turkish - TRT 1 (1440p)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/11"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 12,
-                "Language": "Turkish - TRT 1 (1440p)",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/12"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 13,
-                "Language": "German - ORF 1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/13"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 14,
-                "Language": "German - ORF 1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/14"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-d_turkiye-usa-live-streaming-1243813941/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-d_turkiye-usa-live-streaming-1243813941/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/4"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/5"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 6,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/6"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23368/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23368/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Paraguay",
-        "Team 2 Name": "Australia",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMxAdzAATEBBDcQJQyER6DKfSAvLCMYEz4ouYMvCLzRTprTAuxoiCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS5kUwMGF4hwO7Vh0htKENRAATIyEQgCFfAPUcwZeEQVj1D+prHSGQA.webp",
-        "Match Title": "Paraguay vs Australia",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvDC8ws6iBRgQIXiCxHjIaSBjXbNxfmBIKWEXMYHVKHmDKbG1HLejvRgvuJiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 AM | 26-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TSN2",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TSN2",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - FS1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - FS1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "English - ITV4",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "English - ITV4",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/6"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 7,
-                "Language": "Spanish - DAZN Spain",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/7"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 8,
-                "Language": "Spanish - DAZN Spain",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/8"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 9,
-                "Language": "Spanish - UNIVERSO",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/9"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 10,
-                "Language": "Spanish - UNIVERSO",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/10"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 11,
-                "Language": "German - Das Erste",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/11"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 12,
-                "Language": "German - Das Erste",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/12"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 13,
-                "Language": "German - Servus TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/13"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 14,
-                "Language": "German - Servus TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-paraguay-vs-australia/14"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_world-championship-gr-d_paraguay-australia-live-streaming-1243812942/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/4"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/5"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 6,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/6"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23367/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23367/2"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Seattle Storm",
-        "Team 2 Name": "New York Liberty",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphT8wSEDBB8wIENxAATXCAiaQiAySNGCFJn1VswZeEXmjVTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkTwwKEKPAgQ3EHxAxc+zSZ0GJhGMCZ8UXMGTX15o+01phHY0RCA.webp",
-        "Match Title": "Seattle Storm vs New York Liberty",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHF5JZtUNxBSQJEPpQgzIEBA0mCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 AM | 26-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - CW Seattle",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-liberty-vs-seattle-storm/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - CW Seattle",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-liberty-vs-seattle-storm/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_storm-liberty-live-streaming-1211185602/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Las Vegas Aces",
-        "Team 2 Name": "Dallas Wings",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTBCAE2AAGEOrAgQ3EHxARDp3biskQywjDX8UXMGXhF5o501phXY0QggA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm-ENw2wwfDSBL7chkIZQhdMAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "Las Vegas Aces vs Dallas Wings",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHwQhR9LHJDcQU7QZAozISxBAwzBYEgp9hs+ijAqUXD+V2yvTLRgHmI6QA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "08:00 AM | 26-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBA TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-dallas-wings-vs-las-vegas-aces/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBA TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-dallas-wings-vs-las-vegas-aces/2"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_aces-wings-live-streaming-1211184603/1"
-            },
-            {
-                "Source": "delta",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/delta/live_wnba_aces-wings-live-streaming-1211184603/2"
             }
         ]
     }
