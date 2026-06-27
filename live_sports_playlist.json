@@ -65,42 +65,6 @@
         ]
     },
     {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Collingwood Magpies",
-        "Team 2 Name": "Richmond Tigers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQEeuQYBjZsJ7wxVcYQaswYXPn1A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREEzrkGAY2bCe8MVXGEGrMGFz5DQA.webp",
-        "Match Title": "Collingwood Magpies vs Richmond Tigers",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Collingwood%20Magpies%20vs%20Richmond%20Tigers&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "12:15 PM | 27-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/collingwood-magpies-vs-richmond-tigers-australian-football-3554/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/collingwood-magpies-vs-richmond-tigers-australian-football-3554/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/collingwood-magpies-vs-richmond-tigers-australian-football-3554/3"
-            }
-        ]
-    },
-    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "North Queensland Cowboys",
@@ -1092,14 +1056,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 1,
-                "Language": "English - TSN",
+                "Language": "English - TSN2",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-croatia-vs-ghana/1"
             },
             {
                 "Source": "admin",
                 "Stream_No": 2,
-                "Language": "English - TSN",
+                "Language": "English - TSN2",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-croatia-vs-ghana/2"
             },
@@ -1120,14 +1084,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 5,
-                "Language": "English - BBC/ITV",
+                "Language": "English - ITV4",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-croatia-vs-ghana/5"
             },
             {
                 "Source": "admin",
                 "Stream_No": 6,
-                "Language": "English - BBC/ITV",
+                "Language": "English - ITV4",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-croatia-vs-ghana/6"
             },
@@ -1172,6 +1136,20 @@
                 "Language": "Spanish - Telemundo",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-croatia-vs-ghana/12"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 13,
+                "Language": "German - ZDF",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-croatia-vs-ghana/13"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 14,
+                "Language": "German - ZDF",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-croatia-vs-ghana/14"
             },
             {
                 "Source": "golf",
