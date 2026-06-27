@@ -72,28 +72,6 @@
         ]
     },
     {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "Austrian Grand Prix",
-        "Team 2 Name": "Practice 3",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Austrian Grand Prix Practice 3",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUVmZbeaENxB8DICCBS4QMczhgFgSCn2Gz6KMCpRc35eptEemtGBuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "04:30 PM | 27-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23371/1"
-            }
-        ]
-    },
-    {
         "Category": "Tennis",
         "League": "Tennis",
         "Team 1 Name": "",
@@ -164,6 +142,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-ufc-fight-night-fiziev-vs-torres/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-ufc-fight-night-fiziev-v-torres-ppv-01/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-01-ufc-fight-night-fiziev-v-torres-ppv-01/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -176,6 +168,56 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23446/2"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "Austrian Grand Prix",
+        "Team 2 Name": "Practice 3",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Austrian Grand Prix Practice 3",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUVmZbeaENxB8DICCBS4QMczhgFgSCn2Gz6KMCpRc35eptEemtGBuYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 PM | 27-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Formula 1",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-austrian-grand-prix-qualifying/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Formula 1",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-austrian-grand-prix-qualifying/2"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 3,
+                "Language": "English - Apple TV (F1TV)",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-austrian-grand-prix-qualifying/3"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 4,
+                "Language": "English - Apple TV (F1TV)",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-austrian-grand-prix-qualifying/4"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23371/1"
             }
         ]
     },
