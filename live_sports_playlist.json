@@ -222,6 +222,35 @@
         ]
     },
     {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Hull F.C.",
+        "Team 2 Name": "Wigan Warriors",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl4ATfsCa0kIbiD4hVu40YggSIGOYIUmfFFzBl4ReaIdbgYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmzUCGkg+IbiBXaQiEiAggUIS3vgEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Match Title": "Hull F.C. vs Wigan Warriors",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECBIg+uMAPwhu2kFM0bziGLlwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "08:00 PM | 27-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/hull-fc-vs-wigan-warriors-game-184842/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/hull-fc-vs-wigan-warriors-game-184842/2"
+            }
+        ]
+    },
+    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "",
@@ -460,6 +489,35 @@
         ]
     },
     {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Toulouse Olympique",
+        "Team 2 Name": "Leigh Leopards",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDAADPxCJ6SENxAATEBD0gzJmIZApcBCkz4ouYMvCLzRTprTAuxoiCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl5IuABjApcIbiAAmIPiEQkQEENuMhzBCkz4ouYMvCLzRTprTAuxoiCA.webp",
+        "Match Title": "Toulouse Olympique vs Leigh Leopards",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEMAAM0GCF6huIPiCkgSICxcS6cKAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "11:00 PM | 27-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/toulouse-olympique-vs-leigh-leopards-game-37322/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/toulouse-olympique-vs-leigh-leopards-game-37322/2"
+            }
+        ]
+    },
+    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Boston Red Sox",
@@ -485,6 +543,13 @@
                 "Language": "English - ABC",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-boston-red-sox/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/boston-red-sox-vs-new-york-yankees-baseball-179256/1"
             },
             {
                 "Source": "golf",
@@ -523,11 +588,47 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-houston-astros-vs-detroit-tigers/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/detroit-tigers-vs-houston-astros-baseball-179253/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23429/1"
+            }
+        ]
+    },
+    {
+        "Category": "Basketball",
+        "League": "Basketball",
+        "Team 1 Name": "Toronto Tempo W",
+        "Team 2 Name": "Phoenix Mercury W",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IAMYg1qmPXINlzST3hiq3Al1ZgwufFaA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiADGy+uQarmknvDFVuBLqzBhc+S0A.webp",
+        "Match Title": "Toronto Tempo W vs Phoenix Mercury W",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Toronto%20Tempo%20W%20vs%20Phoenix%20Mercury%20W&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "12:00 AM | 28-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/toronto-tempo-w-vs-phoenix-mercury-w-basketball-494911/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/toronto-tempo-w-vs-phoenix-mercury-w-basketball-494911/2"
             }
         ]
     },
@@ -604,6 +705,35 @@
         ]
     },
     {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Bradford Bulls",
+        "Team 2 Name": "St Helens",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLYhRABjAgQ3HSD4gAJiAj69MPaZQEKTPii5gy8IvNEOmtME7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCVgYQbT4huIbTBAATI7hAGQeswQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Match Title": "Bradford Bulls vs St Helens",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiBQg+2SnJAa+IKSBIhz5xDBCIpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "01:00 AM | 28-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/bradford-bulls-vs-st-helens-game-182283/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/bradford-bulls-vs-st-helens-game-182283/2"
+            }
+        ]
+    },
+    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Toronto Blue Jays",
@@ -629,6 +759,13 @@
                 "Language": "English - Sportsnet",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-texas-rangers-vs-toronto-blue-jays/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/toronto-blue-jays-vs-texas-rangers-baseball-179250/1"
             },
             {
                 "Source": "golf",
@@ -667,6 +804,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-pittsburgh-pirates/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/pittsburgh-pirates-vs-cincinnati-reds-baseball-179249/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -703,6 +847,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-chicago-white-sox/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/chicago-white-sox-vs-kansas-city-royals-baseball-179255/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -737,6 +888,13 @@
                 "Language": "English - SNY",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-new-york-mets/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/new-york-mets-vs-philadelphia-phillies-baseball-179246/1"
             },
             {
                 "Source": "golf",
@@ -1070,6 +1228,13 @@
                 "Language": "English - Rays.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-tampa-bay-rays/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/tampa-bay-rays-vs-arizona-diamondbacks-baseball-179248/1"
             },
             {
                 "Source": "golf",
