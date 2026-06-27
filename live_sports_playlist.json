@@ -56,20 +56,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sportsnet",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-rangers-vs-toronto-blue-jays/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sportsnet",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-rangers-vs-toronto-blue-jays/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -176,13 +162,6 @@
                 "Language": "English - CHSN",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-chicago-white-sox/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/chicago-white-sox-vs-kansas-city-royals-baseball-179255/1"
             },
             {
                 "Source": "golf",
@@ -647,6 +626,35 @@
         ]
     },
     {
+        "Category": "American-football",
+        "League": "American-football",
+        "Team 1 Name": "BC Lions",
+        "Team 2 Name": "Calgary Stampeders",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTlw8cihDcQEXLpB8QiHDGMgUBCkz4ouYMhvrzRdprTAOxoiEA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDAADAlJckIbiBIgAJvt0gURs6b4EKTa1zBl4ReaJTAmtMI7GiIQA.webp",
+        "Match Title": "BC Lions vs Calgary Stampeders",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGG5gkbaCBDcQU-bgMgSZmOaMFgGmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "05:00 AM | 28-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - CFL+",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-calgary-stampeders-vs-bc-lions/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - CFL+",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-calgary-stampeders-vs-bc-lions/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -780,35 +788,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "American-football",
-        "League": "American-football",
-        "Team 1 Name": "BC Lions",
-        "Team 2 Name": "Calgary Stampeders",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTlw8cihDcQEXLpB8QiHDGMgUBCkz4ouYMhvrzRdprTAOxoiEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDAADAlJckIbiBIgAJvt0gURs6b4EKTa1zBl4ReaJTAmtMI7GiIQA.webp",
-        "Match Title": "BC Lions vs Calgary Stampeders",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGG5gkbaCBDcQU-bgMgSZmOaMFgGmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "05:00 AM | 28-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - CFL+",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-calgary-stampeders-vs-bc-lions/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - CFL+",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-calgary-stampeders-vs-bc-lions/2"
             }
         ]
     },
