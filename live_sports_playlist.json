@@ -978,6 +978,28 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Knoxville Sprint Cars",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Knoxville%20Sprint%20Cars&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "06:30 AM | 28-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-25-knoxville-sprint-cars-ppv-25/1"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -1115,28 +1137,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Knoxville Sprint Cars",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Knoxville%20Sprint%20Cars&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "06:30 AM | 28-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-25-knoxville-sprint-cars-ppv-25/1"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "San Diego Padres",
@@ -1234,6 +1234,35 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/ppv-event-10-bkb-55-carnage-in-cardiff-ppv-10/2"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Fight to Win 319",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Fight%20to%20Win%20319&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "07:00 AM | 28-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-08-fight-to-win-319-ppv-08/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-08-fight-to-win-319-ppv-08/2"
             }
         ]
     },
