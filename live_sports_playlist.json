@@ -121,20 +121,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-washington-nationals-vs-baltimore-orioles/2"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/baltimore-orioles-vs-washington-nationals-baseball-179257/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/baltimore-orioles-vs-washington-nationals-baseball-179257/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -221,20 +207,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-cleveland-guardians/2"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/cleveland-guardians-vs-seattle-mariners-baseball-179254/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/cleveland-guardians-vs-seattle-mariners-baseball-179254/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -271,20 +243,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-milwaukee-brewers/2"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/milwaukee-brewers-vs-chicago-cubs-baseball-179258/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/milwaukee-brewers-vs-chicago-cubs-baseball-179258/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -319,6 +277,20 @@
                 "Language": "English - Cardinals.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-miami-marlins-vs-st-louis-cardinals/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/stlouis-cardinals-vs-miami-marlins-baseball-179247/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/stlouis-cardinals-vs-miami-marlins-baseball-179247/2"
             },
             {
                 "Source": "golf",
@@ -402,79 +374,6 @@
         ]
     },
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Indiana Fever W",
-        "Team 2 Name": "Los Angeles Sparks W",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAma+uQYBjZpJ7wxVbgS6swYXPitA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmIEPXIMAxs0k94YqtwJdWYMLnzWgA.webp",
-        "Match Title": "Indiana Fever W vs Los Angeles Sparks W",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Indiana%20Fever%20W%20vs%20Los%20Angeles%20Sparks%20W&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 28-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/indiana-fever-w-vs-los-angeles-sparks-w-basketball-494912/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/indiana-fever-w-vs-los-angeles-sparks-w-basketball-494912/2"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "World of Outlaws Sprint Cars Cedar Lake",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=World%20of%20Outlaws%20Sprint%20Cars%20Cedar%20Lake&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:10 AM | 28-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-24-world-of-outlaws-sprint-cars-cedar-lake-ppv-24/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Knoxville Sprint Cars",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Knoxville%20Sprint%20Cars&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:30 AM | 28-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-25-knoxville-sprint-cars-ppv-25/1"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "San Diego Padres",
@@ -500,20 +399,6 @@
                 "Language": "English - Padres.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-san-diego-padres/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/san-diego-padres-vs-los-angeles-dodgers-baseball-179245/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/san-diego-padres-vs-los-angeles-dodgers-baseball-179245/2"
             },
             {
                 "Source": "golf",
@@ -554,14 +439,14 @@
         ]
     },
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Seattle Storm W",
-        "Team 2 Name": "Atlanta Dream W",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiADGIJnXINVzST3hiq3Al1ZgwufFaA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmIJnXIMAxs0k94YqtwJdWYMLnzWgA.webp",
-        "Match Title": "Seattle Storm W vs Atlanta Dream W",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Seattle%20Storm%20W%20vs%20Atlanta%20Dream%20W&font=Oswald",
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Fight to Win 319",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Fight%20to%20Win%20319&font=Oswald",
         "Match Status": "Live 🔴",
         "Start Time": "07:00 AM | 28-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -571,14 +456,14 @@
                 "Stream_No": 1,
                 "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/seattle-storm-w-vs-atlanta-dream-w-basketball-494913/1"
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-08-fight-to-win-319-ppv-08/1"
             },
             {
                 "Source": "echo",
                 "Stream_No": 2,
                 "Language": "",
                 "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/seattle-storm-w-vs-atlanta-dream-w-basketball-494913/2"
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-08-fight-to-win-319-ppv-08/2"
             }
         ]
     },
@@ -632,20 +517,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-san-francisco-giants/2"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/san-francisco-giants-vs-atlanta-braves-baseball-179244/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/san-francisco-giants-vs-atlanta-braves-baseball-179244/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -680,20 +551,6 @@
                 "Language": "English - Angels.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-athletics-vs-los-angeles-angels/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/los-angeles-angels-vs-athletics-baseball-179252/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/los-angeles-angels-vs-athletics-baseball-179252/2"
             },
             {
                 "Source": "golf",
@@ -830,48 +687,6 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-algeria-vs-austria/16"
             },
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/algeria-vs-austria-football-1489418/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/algeria-vs-austria-football-1489418/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/algeria-vs-austria-football-1489418/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/algeria-vs-austria-football-1489418/4"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/algeria-vs-austria-football-1489418/5"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 6,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/algeria-vs-austria-football-1489418/6"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -997,48 +812,6 @@
                 "Language": "German - Servus TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-jordan-vs-argentina/14"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/jordan-vs-argentina-football-1489421/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/jordan-vs-argentina-football-1489421/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/jordan-vs-argentina-football-1489421/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/jordan-vs-argentina-football-1489421/4"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 5,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/jordan-vs-argentina-football-1489421/5"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 6,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/jordan-vs-argentina-football-1489421/6"
             },
             {
                 "Source": "golf",
