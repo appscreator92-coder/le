@@ -13,13 +13,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/pittsburgh-pirates-vs-cincinnati-reds-baseball-179265/1"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -225,20 +218,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Brewers.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-milwaukee-brewers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Brewers.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-milwaukee-brewers/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -260,20 +239,6 @@
         "Start Time": "12:10 AM | 29-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Twins.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-minnesota-twins/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Twins.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-minnesota-twins/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -297,20 +262,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - CHSN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-chicago-white-sox/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - CHSN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-chicago-white-sox/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -332,20 +283,6 @@
         "Start Time": "12:15 AM | 29-Jun",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Cardinals.TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-marlins-vs-st-louis-cardinals/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Cardinals.TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-miami-marlins-vs-st-louis-cardinals/2"
-            },
             {
                 "Source": "golf",
                 "Stream_No": 1,
@@ -617,11 +554,11 @@
     {
         "Category": "Fight",
         "League": "Fight",
-        "Team 1 Name": "Zuffa Boxing 8 De Los Santos",
+        "Team 1 Name": "De Los Santos",
         "Team 2 Name": "Valenzuela",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Zuffa Boxing 8 De Los Santos vs Valenzuela",
+        "Match Title": "De Los Santos vs Valenzuela",
         "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYiSML11gkIXiCwgz1ECRAQzIFCBhmWOmAJFzGKMKpQ9v5Rmo5X3xWYDBvcTEIIA.webp",
         "Match Status": "Live 🔴",
         "Start Time": "03:00 AM | 29-Jun",
@@ -928,28 +865,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23463/1"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "Edwin De Los Santos",
-        "Team 2 Name": "Jose Valenzuela",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Edwin De Los Santos - Jose Valenzuela",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Edwin%20De%20Los%20Santos%20-%20Jose%20Valenzuela&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "07:00 AM | 29-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23485/1"
             }
         ]
     }
