@@ -195,122 +195,6 @@
         ]
     },
     {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Indiana Fever",
-        "Team 2 Name": "Los Angeles Sparks",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAow4GCCgoQibiBIHcRkCAAmITTj4EKTG1zBl4ReaJTAmtME7GiIQA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQg+IGP1yUQ3EABNcICBpCI9JlCBAEKTPii5gy8IvNGOmtMM7GiIQA.webp",
-        "Match Title": "Indiana Fever vs Los Angeles Sparks",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VaQzApgU3CG4hdJfSBSmQFxGdNMkFPsNn0UYFdravy9LLO1NaYK5iohBAA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 28-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - CBS",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-indiana-fever/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - CBS",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-indiana-fever/2"
-            }
-        ]
-    },
-    {
-        "Category": "Fight",
-        "League": "Fight",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "AEW: Saturday Night Collision",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRDCQKESCwi5VEAGMZwCBpCSsIRPGCIQ2xcOznNiM4k3TdvcpoFDFBc7LCFgSXCtlCwbk5bUno3AzBAjVCIIA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:00 AM | 28-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TNT",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-aew-saturday-night-collision/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TNT",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-aew-saturday-night-collision/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/aew-saturday-night-collision-aew-1/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/aew-saturday-night-collision-aew-1/2"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "World of Outlaws Sprint Cars Cedar Lake",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=World%20of%20Outlaws%20Sprint%20Cars%20Cedar%20Lake&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:10 AM | 28-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-24-world-of-outlaws-sprint-cars-cedar-lake-ppv-24/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Knoxville Sprint Cars",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Knoxville%20Sprint%20Cars&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:30 AM | 28-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-25-knoxville-sprint-cars-ppv-25/1"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "San Diego Padres",
@@ -336,20 +220,6 @@
                 "Language": "English - Padres.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-san-diego-padres/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/san-diego-padres-vs-los-angeles-dodgers-baseball-179245/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/san-diego-padres-vs-los-angeles-dodgers-baseball-179245/2"
             },
             {
                 "Source": "golf",
@@ -928,6 +798,28 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
+        "Match Title": "Urijah Fabers A1 Combat 36",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Urijah%20Fabers%20A1%20Combat%2036&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "09:00 AM | 28-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-11-urijah-fabers-a1-combat-36-ppv-11/1"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
         "Match Title": "MMA Mexico 8",
         "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=MMA%20Mexico%208&font=Oswald",
         "Match Status": "Live 🔴",
@@ -947,28 +839,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/ppv-event-12-mma-mexico-8-ppv-12/2"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Urijah Fabers A1 Combat 36",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Urijah%20Fabers%20A1%20Combat%2036&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "09:00 AM | 28-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-11-urijah-fabers-a1-combat-36-ppv-11/1"
             }
         ]
     },
@@ -1226,35 +1096,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "MotoGP Netherlands Grand Prix  🏁",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=MotoGP%20Netherlands%20Grand%20Prix%20%20%F0%9F%8F%81&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:30 PM | 28-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/motogp-netherlands-grand-prix-game-122273/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/motogp-netherlands-grand-prix-game-122273/2"
-            }
-        ]
-    },
-    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "",
@@ -1294,6 +1135,35 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/formula-3-austria-r5-formula-2-austria-r6-game-19996/4"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "MotoGP Netherlands Grand Prix  🏁",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=MotoGP%20Netherlands%20Grand%20Prix%20%20%F0%9F%8F%81&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "12:30 PM | 28-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/motogp-netherlands-grand-prix-game-122273/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/motogp-netherlands-grand-prix-game-122273/2"
             }
         ]
     },
