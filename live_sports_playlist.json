@@ -1,27 +1,5 @@
 [
     {
-        "Category": "Baseball",
-        "League": "Baseball",
-        "Team 1 Name": "San Diego Padres",
-        "Team 2 Name": "Los Angeles Dodgers",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMH0ghetfNrX6+IErhBGTiGAQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIsYMiGD5cIbiD4GQxnABMQKEBBAk9BCkz4ouG8vXmjnTWmA1jREEA.webp",
-        "Match Title": "San Diego Padres vs Los Angeles Dodgers",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmD4gUzTcAAMIbiC0gQMXNqtnEUgsCQU+w2fRRgVOth-L0ssnSZaMA8xUQggA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:40 AM | 28-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23440/1"
-            }
-        ]
-    },
-    {
         "Category": "Fight",
         "League": "Fight",
         "Team 1 Name": "BKFC Fight Night Vancamp",
@@ -79,76 +57,11 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Peacock",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-athletics-vs-los-angeles-angels/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Peacock",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-athletics-vs-los-angeles-angels/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23442/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Urijah Fabers A1 Combat 36",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Urijah%20Fabers%20A1%20Combat%2036&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "09:00 AM | 28-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-11-urijah-fabers-a1-combat-36-ppv-11/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "MMA Mexico 8",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=MMA%20Mexico%208&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "09:00 AM | 28-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-12-mma-mexico-8-ppv-12/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-12-mma-mexico-8-ppv-12/2"
             }
         ]
     },
@@ -1110,49 +1023,6 @@
         ]
     },
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Travelers Championship | PGA Tour",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Travelers%20Championship%20%7C%20PGA%20Tour&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "01:00 AM | 29-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/travelers-championship-pga-tour-pga-526234/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/travelers-championship-pga-tour-pga-526234/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/travelers-championship-pga-tour-pga-526234/3"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 4,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/travelers-championship-pga-tour-pga-526234/4"
-            }
-        ]
-    },
-    {
         "Category": "Football",
         "League": "Football",
         "Team 1 Name": "South Africa",
@@ -1295,6 +1165,49 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Travelers Championship | PGA Tour",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Travelers%20Championship%20%7C%20PGA%20Tour&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "02:00 AM | 29-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/travelers-championship-pga-tour-pga-526234/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/travelers-championship-pga-tour-pga-526234/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/travelers-championship-pga-tour-pga-526234/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/travelers-championship-pga-tour-pga-526234/4"
+            }
+        ]
+    },
+    {
         "Category": "Basketball",
         "League": "Basketball",
         "Team 1 Name": "Chicago Sky",
@@ -1320,6 +1233,42 @@
                 "Language": "English - CBS",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-chicago-sky/2"
+            }
+        ]
+    },
+    {
+        "Category": "Baseball",
+        "League": "Baseball",
+        "Team 1 Name": "San Diego Padres",
+        "Team 2 Name": "Los Angeles Dodgers",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMH0ghetfNrX6+IErhBGTiGAQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIsYMiGD5cIbiD4GQxnABMQKEBBAk9BCkz4ouG8vXmjnTWmA1jREEA.webp",
+        "Match Title": "San Diego Padres vs Los Angeles Dodgers",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWCTAwmhsCQhuIPiFMxcIFJdMgSIBUyQU+w2fRRgVKLp-L0sst5MtDqi9GFAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "02:10 AM | 29-Jun",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Padres.TV",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-san-diego-padres/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Padres.TV",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-san-diego-padres/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23462/1"
             }
         ]
     },
