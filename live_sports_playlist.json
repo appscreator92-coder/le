@@ -286,42 +286,6 @@
     {
         "Category": "Baseball",
         "League": "Baseball",
-        "Team 1 Name": "Texas Rangers",
-        "Team 2 Name": "Cleveland Guardians",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Texas Rangers vs. Cleveland Guardians",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVECGCIAxiBjBxNYSAjY5KjcOAQQ8KSCy6RKqcfGIyO5TCM6IKcqoFCRTbPTCFgSXNIdCwbk5VLTIHAlMwQO1SbSA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:00 AM | 30-Jun",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - ESPN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-rangers-vs-cleveland-guardians/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - ESPN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-texas-rangers-vs-cleveland-guardians/2"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23470/1"
-            }
-        ]
-    },
-    {
-        "Category": "Baseball",
-        "League": "Baseball",
         "Team 1 Name": "Cleveland Guardians",
         "Team 2 Name": "Texas Rangers",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA.webp",
@@ -756,6 +720,20 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-houston-astros/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/houston-astros-vs-minnesota-twins-baseball-179274/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/houston-astros-vs-minnesota-twins-baseball-179274/2"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -790,6 +768,20 @@
                 "Language": "English - Rockies.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-miami-marlins-vs-colorado-rockies/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/colorado-rockies-vs-miami-marlins-baseball-179280/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/colorado-rockies-vs-miami-marlins-baseball-179280/2"
             },
             {
                 "Source": "golf",
