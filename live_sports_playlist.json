@@ -216,14 +216,14 @@
             {
                 "Source": "admin",
                 "Stream_No": 5,
-                "Language": "English - BBC/ITV",
+                "Language": "English - ITV1",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-japan/5"
             },
             {
                 "Source": "admin",
                 "Stream_No": 6,
-                "Language": "English - BBC/ITV",
+                "Language": "English - ITV1",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-japan/6"
             },
@@ -268,6 +268,34 @@
                 "Language": "Spanish - Telemundo",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-japan/12"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 13,
+                "Language": "German - ZDF",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-japan/13"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 14,
+                "Language": "German - ZDF",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-japan/14"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 15,
+                "Language": "German - ORF 1",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-japan/15"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 16,
+                "Language": "German - ORF 1",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-brazil-vs-japan/16"
             },
             {
                 "Source": "golf",
@@ -676,6 +704,13 @@
                 "Language": "English - Netflix",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-wwe-monday-night-raw/2"
+            },
+            {
+                "Source": "golf",
+                "Stream_No": 1,
+                "Language": "English",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/golf/23504/1"
             }
         ]
     },
