@@ -56,20 +56,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - MASN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-baltimore-orioles/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - MASN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-baltimore-orioles/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -289,6 +275,28 @@
     {
         "Category": "Football",
         "League": "Football",
+        "Team 1 Name": "HFX Wanderers",
+        "Team 2 Name": "Atlético Ottawa",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjK8ADMAAmIGMHwhuIEiBOJExwzj4g+BCk1tcwZeEXmiUe5sDDOxoiCA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIUXzBIwZPiG7qQRxIhL7cIACYgYBCkz4ouO8vXminTWmB1jREIA.webp",
+        "Match Title": "HFX Wanderers vs Atlético Ottawa",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbgh7AZABhBSQ3fSAgmQJEJZghEfQwWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 AM | 02-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/hfx-wanderers-fc-vs-atletico-ottawa-football-1517304/1"
+            }
+        ]
+    },
+    {
+        "Category": "Football",
+        "League": "Football",
         "Team 1 Name": "Belgium",
         "Team 2 Name": "Senegal",
         "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDgQwMGAAmYcFpDcQJEClwgYIfThz7lhGMCZ8UXMGXhF5ol01qbRUnRAA.webp",
@@ -452,28 +460,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23483/2"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "HFX Wanderers",
-        "Team 2 Name": "Atlético Ottawa",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjK8ADMAAmIGMHwhuIEiBOJExwzj4g+BCk1tcwZeEXmiUe5sDDOxoiCA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIUXzBIwZPiG7qQRxIhL7cIACYgYBCkz4ouO8vXminTWmB1jREIA.webp",
-        "Match Title": "HFX Wanderers vs Atlético Ottawa",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbgh7AZABhBSQ3fSAgmQJEJZghEfQwWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "02:00 AM | 02-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/hfx-wanderers-fc-vs-atletico-ottawa-football-1517304/1"
             }
         ]
     },
