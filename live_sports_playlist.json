@@ -13,20 +13,6 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - NBC Sports Phil",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-philadelphia-phillies/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - NBC Sports Phil",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-philadelphia-phillies/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -253,20 +239,6 @@
                 "Language": "German - ORF 1",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-united-states-vs-bosnia-herzegovina/12"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 1,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23484/1"
-            },
-            {
-                "Source": "golf",
-                "Stream_No": 2,
-                "Language": "English",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/golf/23484/2"
             }
         ]
     },
