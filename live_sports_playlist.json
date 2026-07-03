@@ -35,166 +35,11 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sportsnet LA",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-los-angeles-dodgers/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sportsnet LA",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-los-angeles-dodgers/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/los-angeles-dodgers-vs-san-diego-padres-baseball-179320/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/los-angeles-dodgers-vs-san-diego-padres-baseball-179320/2"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23535/1"
-            }
-        ]
-    },
-    {
-        "Category": "Football",
-        "League": "Football",
-        "Team 1 Name": "Switzerland",
-        "Team 2 Name": "Algeria",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksIYg+YFGF4kQ3Nbv2IAJiB0gQMcwQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizU+saihDcQEECX26QAExAxc2kCAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Match Title": "Switzerland vs Algeria",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrLBgU8vqxC8QWECeohpIRBBDWYIZvmBIKWEXMYowqnRy-lG1HI6jvRaYozhQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "09:00 AM | 03-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - TSN",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-switzerland-vs-algeria/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - TSN",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-switzerland-vs-algeria/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - FS1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-switzerland-vs-algeria/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - FS1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-switzerland-vs-algeria/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "English - BBC One",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-switzerland-vs-algeria/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "English - BBC One",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-switzerland-vs-algeria/6"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 7,
-                "Language": "Spanish - DAZN Spain",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-switzerland-vs-algeria/7"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 8,
-                "Language": "Spanish - DAZN Spain",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-switzerland-vs-algeria/8"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 9,
-                "Language": "Spanish - Telemundo",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-switzerland-vs-algeria/9"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 10,
-                "Language": "Spanish - Telemundo",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-switzerland-vs-algeria/10"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 11,
-                "Language": "French - beIN Sports 1 France",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-switzerland-vs-algeria/11"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 12,
-                "Language": "French - beIN Sports 1 France",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-switzerland-vs-algeria/12"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 13,
-                "Language": "German - ZDF",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-switzerland-vs-algeria/13"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 14,
-                "Language": "German - ZDF",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-switzerland-vs-algeria/14"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 15,
-                "Language": "German - Servus TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-switzerland-vs-algeria/15"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 16,
-                "Language": "German - Servus TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-switzerland-vs-algeria/16"
             }
         ]
     },
@@ -336,6 +181,107 @@
         ]
     },
     {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "F1 Academy: Great Britain | F2 & 3: Great Britain  🏁",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=F1%20Academy%3A%20Great%20Britain%20%7C%20F2%20%26%203%3A%20Great%20Britain%20%20%F0%9F%8F%81&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "12:30 PM | 03-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/f1-academy-great-britain-f2-3-great-britain-game-19996/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/f1-academy-great-britain-f2-3-great-britain-game-19996/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/f1-academy-great-britain-f2-3-great-britain-game-19996/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/f1-academy-great-britain-f2-3-great-britain-game-19996/4"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Formula E Shanghai ePrix - Shanghai International Circuit 🏁",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Formula%20E%20Shanghai%20ePrix%20-%20Shanghai%20International%20Circuit%20%F0%9F%8F%81&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "02:00 PM | 03-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/formula-e-shanghai-eprix-shanghai-international-circuit-game-4u8337/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/formula-e-shanghai-eprix-shanghai-international-circuit-game-4u8337/2"
+            }
+        ]
+    },
+    {
+        "Category": "Afl",
+        "League": "Afl",
+        "Team 1 Name": "Sydney Swans",
+        "Team 2 Name": "Western Bulldogs",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyZT22EChDcQAExAQQfECeMw9BkwQpM+KLmDLwi80faa0wjsaIhA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhaIfiFWruIACYgIIPiFMmYxrcYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Match Title": "Sydney Swans vs Western Bulldogs",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBB9YIcPSkhuIAyWMhTKEBA3ndBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "03:40 PM | 03-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/sydney-swans-vs-western-bulldogs-australian-football-3558/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/sydney-swans-vs-western-bulldogs-australian-football-3558/2"
+            }
+        ]
+    },
+    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "Penrith Panthers",
@@ -375,6 +321,114 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/penrith-panthers-vs-south-sydney-rabbitohs-game-236363/2"
+            }
+        ]
+    },
+    {
+        "Category": "Afl",
+        "League": "Afl",
+        "Team 1 Name": "West Coast Eagles",
+        "Team 2 Name": "Adelaide Football Club",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnAxmsXMAAmIbiB0QQfECeMwjIQ1oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzAmIXGCQgYIbiD4hE+kiBS4jICHoIUmfFFzBl4ReaMdNaYZ2NEQgA.webp",
+        "Match Title": "West Coast Eagles vs Adelaide Football Club",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMIKnZcwMCG4gpIEoeMgUICCBgg+Ic0yQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "04:10 PM | 03-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/west-coast-eagles-vs-adelaide-crows-australian-football-3559/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/west-coast-eagles-vs-adelaide-crows-australian-football-3559/2"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "1st Practice | Silverstone Circuit |",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=1st%20Practice%20%7C%20Silverstone%20Circuit%20%7C&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:30 PM | 03-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/1st-practice-silverstone-circuit-formula-1-2560/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/1st-practice-silverstone-circuit-formula-1-2560/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/1st-practice-silverstone-circuit-formula-1-2560/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/1st-practice-silverstone-circuit-formula-1-2560/4"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "US Senior Open",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=US%20Senior%20Open&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "09:00 PM | 03-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/us-senior-open-atp1000/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/us-senior-open-atp1000/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/us-senior-open-atp1000/3"
             }
         ]
     },
@@ -481,6 +535,85 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23505/1"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "2nd Sprint Shootout | Silverstone Circuit |",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=2nd%20Sprint%20Shootout%20%7C%20Silverstone%20Circuit%20%7C&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "09:52 PM | 03-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/2nd-sprint-shootout-silverstone-circuit-formula-1-2663/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/2nd-sprint-shootout-silverstone-circuit-formula-1-2663/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/2nd-sprint-shootout-silverstone-circuit-formula-1-2663/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/2nd-sprint-shootout-silverstone-circuit-formula-1-2663/4"
+            }
+        ]
+    },
+    {
+        "Category": "Cricket",
+        "League": "Cricket",
+        "Team 1 Name": "Notts Outlaws",
+        "Team 2 Name": "Lancashire Lightning",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQgYxNCAAmuEN20gSIREZhrjIPiBQEKTPii5gy8IvNGOmtMM7GiIQA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDUkYMnxAATENx0gSIREZggziCDoIUmfFFw3l680Q6a1VoqXSA.webp",
+        "Match Title": "Notts Outlaws vs Lancashire Lightning",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPRYgYbMCBDcQfIyBQgSB-SEQwjBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "11:30 PM | 03-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/mens-vitality-blast-notts-vs-lancashire-game-19993637/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/mens-vitality-blast-notts-vs-lancashire-game-19993637/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/mens-vitality-blast-notts-vs-lancashire-game-19993637/3"
             }
         ]
     },
