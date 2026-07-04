@@ -29,42 +29,6 @@
         ]
     },
     {
-        "Category": "Golf",
-        "League": "Golf",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "US Senior Open",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=US%20Senior%20Open&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "09:00 PM | 04-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/us-senior-open-atp1000/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/us-senior-open-atp1000/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/us-senior-open-atp1000/3"
-            }
-        ]
-    },
-    {
         "Category": "Other",
         "League": "Other",
         "Team 1 Name": "",
@@ -1017,6 +981,35 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23562/1"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Formula E Shanghai ePrix - Shanghai International Circuit 🏁",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Formula%20E%20Shanghai%20ePrix%20-%20Shanghai%20International%20Circuit%20%F0%9F%8F%81&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "06:30 AM | 05-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/formula-e-shanghai-eprix-shanghai-international-circuit-game-4u8337/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/formula-e-shanghai-eprix-shanghai-international-circuit-game-4u8337/2"
             }
         ]
     },
