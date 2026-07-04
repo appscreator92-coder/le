@@ -339,6 +339,64 @@
         ]
     },
     {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Tour de France",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCADGIGCAggUwRPNlVxIYcDXCQJBSBBLsMkzT1q90spr0SIWkFUX8wgkU2z0whYElyTFIVdWext6AiMwV2B7MgggA.webp",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "08:30 PM | 04-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - TNT Sports 1",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tour-de-france/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - TNT Sports 1",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-tour-de-france/2"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "AMA Supercross Championship Buchanan",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=AMA%20Supercross%20Championship%20Buchanan&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "09:00 PM | 04-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-04-ama-supercross-championship-buchanan-ppv-004/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/ppv-event-04-ama-supercross-championship-buchanan-ppv-004/2"
+            }
+        ]
+    },
+    {
         "Category": "Golf",
         "League": "Golf",
         "Team 1 Name": "",
@@ -688,6 +746,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-new-york-yankees/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/new-york-yankees-vs-minnesota-twins-baseball-179341/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -782,6 +847,13 @@
                 "Embed_URL": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-texas-rangers/2"
             },
             {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/texas-rangers-vs-detroit-tigers-baseball-179344/1"
+            },
+            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
@@ -816,6 +888,13 @@
                 "Language": "English - Mariners.TV",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-seattle-mariners/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/seattle-mariners-vs-toronto-blue-jays-baseball-179340/1"
             },
             {
                 "Source": "golf",
@@ -1141,10 +1220,10 @@
         "Team 2 Name": "Albert Bell",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Abdullah Mason - Albert Bell",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Abdullah%20Mason%20-%20Albert%20Bell&font=Oswald",
+        "Match Title": "Mason v Bell  ⭐",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Mason%20v%20Bell%20%20%E2%AD%90&font=Oswald",
         "Match Status": "Upcoming ⏳",
-        "Start Time": "05:30 AM | 05-Jul",
+        "Start Time": "06:00 AM | 05-Jul",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
