@@ -106,138 +106,11 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Streams": [
             {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Sky Sport NZ",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-british-grand-prix-sprint/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Sky Sport NZ",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-british-grand-prix-sprint/2"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 3,
-                "Language": "English - Apple TV (F1TV)",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-british-grand-prix-sprint/3"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 4,
-                "Language": "English - Apple TV (F1TV)",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-british-grand-prix-sprint/4"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 5,
-                "Language": "Spanish - DAZN F1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-british-grand-prix-sprint/5"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 6,
-                "Language": "Spanish - DAZN F1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-british-grand-prix-sprint/6"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 7,
-                "Language": "German - Sky Sport F1",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-british-grand-prix-sprint/7"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 8,
-                "Language": "German - Sky Sport F1",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-british-grand-prix-sprint/8"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 9,
-                "Language": "Swedish - V Sport Motor",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-british-grand-prix-sprint/9"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 10,
-                "Language": "Swedish - V Sport Motor",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-british-grand-prix-sprint/10"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 11,
-                "Language": "Dutch - Viaplay",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-british-grand-prix-sprint/11"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 12,
-                "Language": "Dutch - Viaplay",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-british-grand-prix-sprint/12"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 13,
-                "Language": "English - F1TV Multi-Language",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-british-grand-prix-sprint/13"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 14,
-                "Language": "English - F1TV Multi-Language",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-british-grand-prix-sprint/14"
-            },
-            {
                 "Source": "golf",
                 "Stream_No": 1,
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/golf/23507/1"
-            }
-        ]
-    },
-    {
-        "Category": "Motor-sports",
-        "League": "Motor-sports",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "British Superbikes Snetterton 🏁",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=British%20Superbikes%20Snetterton%20%F0%9F%8F%81&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 PM | 04-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/british-superbikes-snetterton-racing-0059/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/british-superbikes-snetterton-racing-0059/2"
             }
         ]
     },
@@ -267,6 +140,35 @@
                 "Language": "English - AFLE+",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-paris-lights-vs-panthers-wroclaw/2"
+            }
+        ]
+    },
+    {
+        "Category": "Motor-sports",
+        "League": "Motor-sports",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "British Superbikes Snetterton 🏁",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=British%20Superbikes%20Snetterton%20%F0%9F%8F%81&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "07:00 PM | 04-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/british-superbikes-snetterton-racing-0059/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/british-superbikes-snetterton-racing-0059/2"
             }
         ]
     },
