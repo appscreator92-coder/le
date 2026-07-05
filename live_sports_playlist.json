@@ -22,35 +22,6 @@
         ]
     },
     {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Parramatta Eels",
-        "Team 2 Name": "Manly Sea Eagles",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBkoAEy7dcIbepAQQ+xIb4hzh9QQpM+KLmDLwi80faa0wjsaIhA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC9WABhCIAJiF3c9ICIcTG+Ic8ZgEKTPii5gy8IvNEOmtME7GiIQA.webp",
-        "Match Title": "Parramatta Eels vs Manly Sea Eagles",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHCRD0mSBCG4g+IKSFOaDiDSHgFgumP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "10:00 AM | 05-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox League",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-eels-vs-sea-eagles/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox League",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-eels-vs-sea-eagles/2"
-            }
-        ]
-    },
-    {
         "Category": "Afl",
         "League": "Afl",
         "Team 1 Name": "Essendon Bombers",
@@ -133,6 +104,42 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/newcastle-vs-dolphins-game-3373252/3"
+            }
+        ]
+    },
+    {
+        "Category": "Afl",
+        "League": "Afl",
+        "Team 1 Name": "Port Adelaide Football Club",
+        "Team 2 Name": "North Melbourne Football Club",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8w3MABN1wfCH3cQJfSAgnDME-sYUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIgyIEL1YAGTWo0gIB7nqMoQMAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "Port Adelaide Football Club vs North Melbourne Football Club",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Port%20Adelaide%20Football%20Club%20vs%20North%20Melbourne%20Football%20Club&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:40 PM | 05-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/port-adelaide-power-vs-north-melbourne-kangaroos-australian-football-3565/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/port-adelaide-power-vs-north-melbourne-kangaroos-australian-football-3565/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/port-adelaide-power-vs-north-melbourne-kangaroos-australian-football-3565/3"
             }
         ]
     },
@@ -274,42 +281,6 @@
         ]
     },
     {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Port Adelaide Football Club",
-        "Team 2 Name": "North Melbourne Football Club",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8w3MABN1wfCH3cQJfSAgnDME-sYUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIgyIEL1YAGTWo0gIB7nqMoQMAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-        "Match Title": "Port Adelaide Football Club vs North Melbourne Football Club",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Port%20Adelaide%20Football%20Club%20vs%20North%20Melbourne%20Football%20Club&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:40 PM | 05-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/port-adelaide-power-vs-north-melbourne-kangaroos-australian-football-3565/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/port-adelaide-power-vs-north-melbourne-kangaroos-australian-football-3565/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/port-adelaide-power-vs-north-melbourne-kangaroos-australian-football-3565/3"
-            }
-        ]
-    },
-    {
         "Category": "Motor-sports",
         "League": "Motor-sports",
         "Team 1 Name": "",
@@ -349,6 +320,56 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/f1-academy-great-britain-f2-3-great-britain-game-19996/4"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "Wimbledon Championships 2026 🎾",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Wimbledon%20Championships%202026%20%F0%9F%8E%BE&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "05:30 PM | 05-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/3"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 4,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/4"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 5,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/5"
             }
         ]
     },
