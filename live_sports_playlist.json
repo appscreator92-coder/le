@@ -1,41 +1,5 @@
 [
     {
-        "Category": "Afl",
-        "League": "Afl",
-        "Team 1 Name": "Essendon Bombers",
-        "Team 2 Name": "St Kilda Saints",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQ2euQYBjZsJ7wxVcYQaswYXPn1A.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREFLrkGAY2bCe8MVXGEGrMGFz5DQA.webp",
-        "Match Title": "Essendon Bombers vs St Kilda Saints",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Essendon%20Bombers%20vs%20St%20Kilda%20Saints&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "11:15 AM | 05-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/essendon-bombers-vs-st-kilda-saints-australian-football-3564/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/essendon-bombers-vs-st-kilda-saints-australian-football-3564/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/essendon-bombers-vs-st-kilda-saints-australian-football-3564/3"
-            }
-        ]
-    },
-    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "Newcastle Knights",
@@ -161,6 +125,42 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/f1-academy-great-britain-f2-3-great-britain-game-19996/4"
+            }
+        ]
+    },
+    {
+        "Category": "Other",
+        "League": "Other",
+        "Team 1 Name": "",
+        "Team 2 Name": "",
+        "Team 1 Logo": "",
+        "Team 2 Logo": "",
+        "Match Title": "BMW International Open | DP World Tour Golf",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=BMW%20International%20Open%20%7C%20DP%20World%20Tour%20Golf&font=Oswald",
+        "Match Status": "Live 🔴",
+        "Start Time": "02:00 PM | 05-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/bmw-international-open-dp-world-tour-golf-game-162626/1"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 2,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/bmw-international-open-dp-world-tour-golf-game-162626/2"
+            },
+            {
+                "Source": "echo",
+                "Stream_No": 3,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/bmw-international-open-dp-world-tour-golf-game-162626/3"
             }
         ]
     },
@@ -298,42 +298,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "BMW International Open | DP World Tour Golf",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=BMW%20International%20Open%20%7C%20DP%20World%20Tour%20Golf&font=Oswald",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "02:00 PM | 05-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/bmw-international-open-dp-world-tour-golf-game-162626/1"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 2,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/bmw-international-open-dp-world-tour-golf-game-162626/2"
-            },
-            {
-                "Source": "echo",
-                "Stream_No": 3,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/bmw-international-open-dp-world-tour-golf-game-162626/3"
             }
         ]
     },
