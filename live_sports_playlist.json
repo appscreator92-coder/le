@@ -108,28 +108,6 @@
         "Team 2 Name": "",
         "Team 1 Logo": "",
         "Team 2 Logo": "",
-        "Match Title": "Lucas Oil Late Models Muskingum",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Lucas%20Oil%20Late%20Models%20Muskingum&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:20 AM | 05-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-09-lucas-oil-late-models-muskingum-ppv-09/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
         "Match Title": "DIRTcar Summer Nationals Late Models Highland",
         "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=DIRTcar%20Summer%20Nationals%20Late%20Models%20Highland&font=Oswald",
         "Match Status": "Live 🔴",
@@ -259,35 +237,6 @@
                 "Language": "",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/echo/ppv-event-16-knoxville-sprints-ppv16/1"
-            }
-        ]
-    },
-    {
-        "Category": "Basketball",
-        "League": "Basketball",
-        "Team 1 Name": "Seattle Storm",
-        "Team 2 Name": "Portland Fire",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphT8wSEDBB8wIENxAATXCAiaQiAySNGCFJn1VswZeEXmjVTWmBdjREEA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBw+YXvJBsQ3EHxAlchkClMgLOZYRjAmfFFzBl4ReaMdNaYZ2NEQgA.webp",
-        "Match Title": "Seattle Storm vs Portland Fire",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiYSCqSQJEAGNpsmhIkwQapdmwgI0tcO1qp8YIhAgsO9aZD5yEUGEEimWlOULAkuOe6FPWBwMydwJTcidgBzIIIA.webp",
-        "Match Status": "Live 🔴",
-        "Start Time": "07:00 AM | 05-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - KOMO-TV",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-portland-fire-vs-seattle-storm/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - KOMO-TV",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-portland-fire-vs-seattle-storm/2"
             }
         ]
     },
@@ -630,6 +579,28 @@
         ]
     },
     {
+        "Category": "Afl",
+        "League": "Afl",
+        "Team 1 Name": "Essendon Bombers",
+        "Team 2 Name": "St Kilda Saints",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQ2euQYBjZsJ7wxVcYQaswYXPn1A.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREFLrkGAY2bCe8MVXGEGrMGFz5DQA.webp",
+        "Match Title": "Essendon Bombers vs St Kilda Saints",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Essendon%20Bombers%20vs%20St%20Kilda%20Saints&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "11:15 AM | 05-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/essendon-bombers-vs-st-kilda-saints-australian-football-3564/1"
+            }
+        ]
+    },
+    {
         "Category": "Rugby",
         "League": "Rugby",
         "Team 1 Name": "Newcastle Knights",
@@ -655,6 +626,28 @@
                 "Language": "English - Fox League",
                 "Quality": "SD",
                 "Embed_URL": "https://embed.st/embed/admin/ppv-knights-vs-dolphins/2"
+            }
+        ]
+    },
+    {
+        "Category": "Afl",
+        "League": "Afl",
+        "Team 1 Name": "Port Adelaide Football Club",
+        "Team 2 Name": "North Melbourne Football Club",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8w3MABN1wfCH3cQJfSAgnDME-sYUmfFFzBl4ReaIdNaYJ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIgyIEL1YAGTWo0gIB7nqMoQMAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
+        "Match Title": "Port Adelaide Football Club vs North Melbourne Football Club",
+        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Port%20Adelaide%20Football%20Club%20vs%20North%20Melbourne%20Football%20Club&font=Oswald",
+        "Match Status": "Upcoming ⏳",
+        "Start Time": "12:40 PM | 05-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "echo",
+                "Stream_No": 1,
+                "Language": "",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/echo/port-adelaide-power-vs-north-melbourne-kangaroos-australian-football-3565/1"
             }
         ]
     },
