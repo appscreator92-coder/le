@@ -1,49 +1,5 @@
 [
     {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "DIRTcar Summer Nationals Late Models Highland",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=DIRTcar%20Summer%20Nationals%20Late%20Models%20Highland&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "05:45 AM | 05-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-13-dirtcar-summer-nationals-late-models-highland-ppv-13/1"
-            }
-        ]
-    },
-    {
-        "Category": "Other",
-        "League": "Other",
-        "Team 1 Name": "",
-        "Team 2 Name": "",
-        "Team 1 Logo": "",
-        "Team 2 Logo": "",
-        "Match Title": "Knoxville Sprints",
-        "Match Poster": "https://placehold.co/800x450/1a1a1a/ffffff.png?text=Knoxville%20Sprints&font=Oswald",
-        "Match Status": "Live 🔴",
-        "Start Time": "06:30 AM | 05-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "echo",
-                "Stream_No": 1,
-                "Language": "",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/echo/ppv-event-16-knoxville-sprints-ppv16/1"
-            }
-        ]
-    },
-    {
         "Category": "Baseball",
         "League": "Baseball",
         "Team 1 Name": "Los Angeles Angels",
@@ -183,6 +139,35 @@
         ]
     },
     {
+        "Category": "Rugby",
+        "League": "Rugby",
+        "Team 1 Name": "Newcastle Knights",
+        "Team 2 Name": "Dolphins",
+        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh15lE8tCBIhuIACYgI+kIiN8Q5lCBgEKTPii5g1ReaMdNaYZ2NEQgA.webp",
+        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLApKqkBFwhuIACYg+2mPpBmSIRHoIUmfNWzBl4ReaLVNaYJ2NEQgA.webp",
+        "Match Title": "Newcastle Knights vs Dolphins",
+        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmCRheGlJRDcQfEFJBmSBkIhwWQBYFpj9hs+ijAq9bD+XpZZeky0YB5iohBAA.webp",
+        "Match Status": "Live 🔴",
+        "Start Time": "12:05 PM | 05-Jul",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Streams": [
+            {
+                "Source": "admin",
+                "Stream_No": 1,
+                "Language": "English - Fox League",
+                "Quality": "HD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-knights-vs-dolphins/1"
+            },
+            {
+                "Source": "admin",
+                "Stream_No": 2,
+                "Language": "English - Fox League",
+                "Quality": "SD",
+                "Embed_URL": "https://embed.st/embed/admin/ppv-knights-vs-dolphins/2"
+            }
+        ]
+    },
+    {
         "Category": "Cricket",
         "League": "Cricket",
         "Team 1 Name": "",
@@ -316,35 +301,6 @@
                 "Language": "English",
                 "Quality": "HD",
                 "Embed_URL": "https://embed.st/embed/admin/admin-rally-tv/1"
-            }
-        ]
-    },
-    {
-        "Category": "Rugby",
-        "League": "Rugby",
-        "Team 1 Name": "Newcastle Knights",
-        "Team 2 Name": "Dolphins",
-        "Team 1 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh15lE8tCBIhuIACYgI+kIiN8Q5lCBgEKTPii5g1ReaMdNaYZ2NEQgA.webp",
-        "Team 2 Logo": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLApKqkBFwhuIACYg+2mPpBmSIRHoIUmfNWzBl4ReaLVNaYJ2NEQgA.webp",
-        "Match Title": "Newcastle Knights vs Dolphins",
-        "Match Poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPmCRheGlJRDcQfEFJBmSBkIhwWQBYFpj9hs+ijAq9bD+XpZZeky0YB5iohBAA.webp",
-        "Match Status": "Upcoming ⏳",
-        "Start Time": "12:05 PM | 05-Jul",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-        "Streams": [
-            {
-                "Source": "admin",
-                "Stream_No": 1,
-                "Language": "English - Fox League",
-                "Quality": "HD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-knights-vs-dolphins/1"
-            },
-            {
-                "Source": "admin",
-                "Stream_No": 2,
-                "Language": "English - Fox League",
-                "Quality": "SD",
-                "Embed_URL": "https://embed.st/embed/admin/ppv-knights-vs-dolphins/2"
             }
         ]
     },
